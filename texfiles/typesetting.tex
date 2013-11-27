@@ -1,0 +1,169 @@
+%%
+%%       --- typesetting.tex ---
+%%
+%% The typesetting file for the thesis template.
+%% Change things in this file to alter the look of the thesis.
+%%
+%% A4 paper: 210 x 297mm...
+
+\documentclass[12pt,a4paper,oneside,openright]{report}
+%\usepackage{astron}
+%\usepackage{mnras_cite}
+\usepackage{natbib}                    % Bibtex
+\usepackage{style/aas_macros}          % understands ads bibtex codes
+\usepackage{style/noindent}            % Stops paragraph indentations
+\usepackage{graphicx}                  % Include graphics packages
+%\usepackage{subfigure}                % 
+%\usepackage{lscape}                   % 
+%\usepackage{rotating}                 %
+%\usepackage{amssymb}                  %
+%\usepackage{float}                    %
+\usepackage{fancyhdr}                  % Makes nice headers
+\usepackage{longtable}                 % Alters formatting
+\usepackage{style/import }             % Imports chapters etc into thesis
+%\usepackage{epsfig}                   %
+\usepackage{times}                     % Use times typeface
+\usepackage[scaled=.92]{helvet}	       % Use scaled helvetica typeface for sf
+%\usepackage{deluxetable}              % Alternative to supertabular
+%\usepackage{supertabular}             % Load supertabular environment
+\usepackage{bigstrut}                  % makes line space bigger in tables
+\usepackage{pict2e}                    % Picture environment
+\usepackage[margin=10pt,font=footnotesize,labelfont=bf]{caption} % sorts out figure captions.  
+\usepackage{multicol}                  % Allows multiple columns.
+%\usepackage[breaklinks,linktocpage,backref,linkcolor=blue,colorlinks]{hyperref} % Makes automatic hyperlinks. 
+
+%% Get macros for mnras papers working...
+\input{texfiles/mn2e_compat.tex}
+
+%%%
+%%%  - Class file hacks to get running heads as we would like
+%%%
+
+% The following hack makes chapter* add its title to the 
+% running head in the same way as chapter does:
+\makeatletter
+\renewcommand{\@schapter}[1]{
+                    \chaptermark{#1}%
+                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+                    \if@twocolumn
+                      \@topnewpage[\@makeschapterhead{#1}]%
+                    \else
+                      \@makeschapterhead{#1}%
+                      \@afterheading
+                    \fi}
+
+% hacking the bibliography environment so its running head is not upper case:
+\renewenvironment{thebibliography}[1]
+     {\chapter*{\bibname
+        \@mkboth{{\bf \bibname}}{{\bf \bibname}}}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\renewcommand\newblock{\hskip .11em\@plus.33em\@minus.07em}
+\let\@openbib@code\@empty
+
+% Another hack to do the same thing for the contents
+\renewcommand\tableofcontents{%
+    \if@twocolumn
+      \@restonecoltrue\onecolumn
+    \else
+      \@restonecolfalse
+    \fi
+    \chapter*{\contentsname
+        \@mkboth{%
+           {\bf \contentsname}}{{\bf \contentsname}}}%
+    \@starttoc{toc}%
+    \if@restonecol\twocolumn\fi
+    }
+
+% Another hack to do the same thing for the list of figures
+\renewcommand\listoffigures{%
+     \if@twocolumn
+       \@restonecoltrue\onecolumn
+     \else
+       \@restonecolfalse
+     \fi
+     \chapter*{List of Figures
+         \@mkboth{%
+            {\bf List of Figures}}{{\bf List of Figures}}}%
+     \@starttoc{lof}%
+     \if@restonecol\twocolumn\fi
+     }
+
+
+\makeatother
+
+\pagestyle{fancy}
+
+\input{texfiles/reg_margins}
+
+%%sorting out the header and footer properly
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}} 
+\renewcommand{\sectionmark}[1]{} 
+\fancyhf{} % delete current setting for header and footer 
+\fancyhead[LE,RO]{\bfseries\thepage} 
+\fancyhead[LO]{\bfseries\rightmark} 
+\fancyhead[RE]{\bfseries\leftmark} 
+\renewcommand{\headrulewidth}{0.5pt} 
+\renewcommand{\footrulewidth}{0pt} 
+\addtolength{\headheight}{0.5pt} % make space for the rule 
+\fancypagestyle{plain}{% \
+\fancyhead{} % get rid of headers on plain pages
+ \renewcommand{\headrulewidth}{0pt} % and the line 
+}
+
+\newlength{\epswidth}
+\newlength{\epsheight}
+\setlength{\LTcapwidth}{\textwidth}
+\setlength{\LTpre}{18pt}
+
+% Text spacing set to 1.5 spacing - these define new commands to set 
+% line spacing so it can be easily redefined in thesis.tex
+
+\newcommand{\ssp}{\renewcommand{\baselinestretch}{1}\normalsize}
+\newcommand{\msp}{\renewcommand{\baselinestretch}{1.3}\normalsize}
+\newcommand{\dsp}{\renewcommand{\baselinestretch}{1.5}\normalsize}
+
+% This hack makes the table and figure environments single spaced even where the rest of the text is double spaced
+\makeatletter
+\renewenvironment{table}
+                {\ssp\@float{table}}
+                {\end@float\dsp}
+\renewenvironment{table*}		
+                {\ssp\@dblfloat{table}}
+                {\end@dblfloat\dsp}
+\renewenvironment{figure}
+                {\ssp\@float{figure}}
+                {\end@float\dsp}
+\renewenvironment{figure*}		
+                {\ssp\@dblfloat{figure}}
+                {\end@dblfloat\dsp}
+\makeatother
+
+\include{texfiles/macros}
+
+
+%% Set depth of counter (1=section 2=s,subs, 3=s,subs,subsubs)
+%% from: http://help-csli.stanford.edu/tex/latex-sections.shtml
+
+\setcounter{secnumdepth}{3}
+
+
+%%
+%% End of file...
+%%

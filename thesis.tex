@@ -1,0 +1,65 @@
+%%       --- thesis.tex ---
+%% Use `make thesis' to latex & bibtex this file & outbut thesis.dvi
+%%
+
+\input{texfiles/typesetting} % Look here if you want to change the look of the thesis
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\usepackage{color}
+
+%------ALIASED COMMANDS---------------------
+
+\begin{document}
+
+\subimport{preamble/}{title}                    % title page
+\subimport{preamble/}{quote}                    % quotation and supervisor/examiners names
+\dsp                                            % sets line spacing             
+\input{preamble/abstract}                       % abstract
+\subimport{preamble/}{acknow}                   % acknowledgements
+\ssp                                            % sets line spacing
+\pagenumbering{roman}                           % sets page numbering style & restarts page count
+\tableofcontents                                % inserts TOC
+\newpage                                        %
+\addcontentsline{toc}{chapter}{List of Figures} % adds LOF to TOC
+\listoffigures                                  % inserts LOF
+\newpage                                        %
+\addcontentsline{toc}{chapter}{List of Tables}  % adds LOT to TOC
+\listoftables                                   % adds LOT
+\newpage
+%\nocite{*}                                      % includes all references from bibtex file
+
+\pagenumbering{arabic}                          % sets page numbering style & restarts page count
+\dsp                                            % sets line spacing
+\subimport{preamble/}{tpage}                    % inserts blank page with title & line in TOC
+\newpage
+\subimport{chapter/chapter1/}{c1}               % chapter 1
+\subimport{chapter/chapter2/}{c2}               % chapter 2
+\subimport{chapter/chapter3/}{c3}               % chapter 3 
+\subimport{chapter/chapter4/}{c4}               % chapter 4
+
+\appendix
+\subimport{appendix/}{appendices}               % inserts blank page saying `Appendices' & line in TOC
+\newpage
+\subimport{appendix/app1/}{a1}                  % appendix 1 
+\subimport{appendix/app2/}{a2}                  % appendix 2
+%\subimport{appendix/app3/}{a3}                  % appendix 3
+%\subimport {appendix/app3/}{a4}                 % appendix 4
+
+\newpage
+\ssp                                            % set line spacing
+\addcontentsline{toc}{chapter}{Bibliography}    % add bibliography to TOC
+\bibliographystyle{style/mnras_biblist}         % include paper titles
+%\bibliographystyle{style/mnras}                 % ommit paper titles
+\bibliography{style/bibtex_lib}                       % bibtex file
+
+%\newpage
+\ssp
+
+\end{document}
+
+%%
+%% End of file...
+%%
+

@@ -1,0 +1,124 @@
+%% Use this file to define new macros to make your life easier.
+%% These can be used in any file called by thesis.tex
+%% 
+%% Macros below have been added over the years 
+%% - some may be of help.  Most can be commented out, deleted or 
+%% re-defined, without screwing anything up.
+
+
+%% Macros added by ~m~
+
+\newcommand{\G}{G_{\mu \nu}} % Einstein tensor
+\newcommand{\T}{T_{\mu \nu}} % Stress-energy tensor
+\newcommand{\g}{g_{\mu \nu}} % Metric tensor
+\newcommand{\F}{F_{\mu \nu}} % EM field tensor
+\newcommand{\bs}{\boldsymbol} % Boldsymbol
+\newcommand{\etc}{\emph{etc.}} % etc.
+\newcommand{\D}{{\cal D}} % Zel'dovich deformation tensor (squirly D)
+\newcommand{\dint}{\int\!\!\!\!\int} % Double integral (without space)
+
+%% a file containing just the text macros from Brockie's typesetting file
+
+%% Defining aliases...
+
+\newcommand{\ie}{\emph{i.e.}}
+\newcommand{\eg}{\emph{e.g.}}
+\newcommand{\etal}{\emph{et al.}}
+
+\newcommand{\be}{\begin{eqnarray}}
+\newcommand{\ee}{\end{eqnarray}}
+
+%\newcommand{\bg}[1]{
+%	\mbox{\boldmath $\ #1 $}
+
+\newcommand{\glos}[2]{
+\begin{tabular}{ll}
+	\parbox[t]{0.16 \textwidth}{#1} &
+	\parbox[t]{0.76 \textwidth}{#2} \\
+\end{tabular}
+}
+
+% Maths stuff
+
+\newcommand{\hMpc}{\,h^{-1}{\rm Mpc}}
+
+\newcommand{\bm}{\mathbf}
+\newcommand{\llang}{\left\langle}
+\newcommand{\rrang}{\right\rangle}
+\newcommand{\llle}{\left(}
+\newcommand{\rrri}{\right)}
+
+%% Romanised words
+
+\def\simless{\mathbin{\lower 3pt\hbox
+  {$\rlap{\raise 5pt\hbox{$\char'074$}}\mathchar"7218$}}}   % < or of order
+\def\simgreat{\mathbin{\lower 3pt\hbox  
+   {$\rlap{\raise 5pt\hbox{$\char'076$}}\mathchar"7218$}}}  % > or of order
+
+\def \min{\,{\rm min}}
+\def \max{\,{\rm max}}
+\def \Mpc{\,{\rm Mpc}}
+\def \NGP{\,{\rm NGP}}
+\def \SGP{\,{\rm SGP}}
+\def \CIC{\,{\rm CIC}}
+\def \TSC{\,{\rm TSC}}
+
+
+%new commands with arguments
+\newcommand{\lab}[1]{
+	\label{eq: #1 }
+}
+\newcommand{\req}[1]{
+	~\ref{eq: #1 } 
+}
+
+\newcommand{\kms}{\mbox{km\ensuremath{\rm{s}^{-1}}}}
+
+%% Reference yet to find...
+
+\newcommand{\findcite}[1]{[!!! Find ref to: #1!!!]}
+\newcommand{\findref}[1]{[!!! Need to cross--reference to: #1!!!]}
+
+\newcommand{\todo}[1]{
+\vspace{0.5in}
+\textbf{Todo: #1}
+\vspace{0.5in}
+}
+
+%% commented out by ~m~
+%% because it clashes with \usepackage{caption} in typesetting.tex
+% 
+%\newcommand{\next}[1]{
+%\vspace{2in}
+%\begin{large}
+%\textbf{Next: #1}
+%\end{large}
+%\vspace{2in}
+%}
+
+\newcommand{\grumpy}				% draws a grumpy face
+{\mbox{\begin{picture}(20,20)(0,7)
+\put(10,10){\circle{15}}
+\put(12.5,12.5){\circle*{2}}
+\put(7.5,12.5){\circle*{2}}
+\put(6,1){\shortstack[l]{$\mbox{}^{\frown}$}}
+\end{picture}}}
+
+\newcommand{\happy}				% draws a happy face
+{\mbox{\begin{picture}(20,20)(0,7)
+\put(10,10){\circle{15}}
+\put(12.5,12.5){\circle*{2}}
+\put(7.5,12.5){\circle*{2}}
+\put(6,1){\shortstack[l]{$\mbox{}^{\smile}$}}
+\end{picture}}}
+
+% Stuff from 2dF bias paper:
+
+\def\bj{b_{\rm J}}
+\def\sqdeg{{\rm~deg}^2}
+\def \Halpha {${\rm H} \alpha $}
+\def \etapar {$\eta $}
+
+%%
+%% End of file...
+%%

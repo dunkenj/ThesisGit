@@ -1,0 +1,294 @@
+% This file is cut from the mn2e.cls class file and enables macros used in mnras papers to be used in our thesis:
+
+\makeatletter
+
+% cut bits to make the stuff below work...
+
+\newif\ifNHT@useAMS
+\def\ds@useAMS{\NHT@useAMStrue}
+
+% -------------
+
+%%%%%%%%%%%%%%%%%%%%%%%% Extra Math / Symbol code %%%%%%%%%%%%%%%%%%%%%%%%
+
+  \newcommand{\rmn}[1]{{\mathrm{#1}}}
+  \newcommand{\itl}[1]{{\mathit{#1}}}
+  \newcommand{\bld}[1]{{\mathbf{#1}}}
+
+\DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
+\DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
+\DeclareOldFontCommand{\tt}{\normalfont\ttfamily}{\mathtt}
+\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+\DeclareOldFontCommand{\it}{\normalfont\itshape}{\mathit}
+\DeclareOldFontCommand{\sl}{\normalfont\slshape}{\@nomath\sl}
+\DeclareOldFontCommand{\sc}{\normalfont\scshape}{\@nomath\sc}
+\DeclareRobustCommand\cal{\@fontswitch{\relax}{\mathcal}}
+\DeclareRobustCommand\mit{\@fontswitch{\relax}{\mathchoice}}
+%
+
+\def\hexnumber#1{\ifcase#1 0\or1\or2\or3\or4\or5\or6\or7%
+  \or8\or9\or A\or B\or C\or D\or E\or F\fi}
+
+\def\setboxz@h{\setbox\z@\hbox}
+\def\wdz@{\wd\z@}
+\def\boxz@{\box\z@}
+\def\setbox@ne{\setbox\@ne}
+\def\wd@ne{\wd\@ne}
+
+\def\math@atom#1#2{%
+   \binrel@{#1}\binrel@@{#2}}
+\def\binrel@#1{\setboxz@h{\thinmuskip0mu
+  \medmuskip\m@ne mu\thickmuskip\@ne mu$#1\m@th$}%
+ \setbox@ne\hbox{\thinmuskip0mu\medmuskip\m@ne mu\thickmuskip
+  \@ne mu${}#1{}\m@th$}%
+ \setbox\tw@\hbox{\hskip\wd@ne\hskip-\wdz@}}
+\def\binrel@@#1{\ifdim\wd2<\z@\mathbin{#1}\else\ifdim\wd\tw@>\z@
+ \mathrel{#1}\else{#1}\fi\fi}
+
+% These must be here because \newif and \newtoks are defined \outer.
+\newif\iffirstta
+\newtoks\math@groups
+\newif\ifd@f
+
+
+% Make these do nothing (for backwards compatibility}
+\let\loadboldmathitalic=\relax
+\let\loadboldgreek=\relax
+
+% font definitions for NFSS release 2
+
+\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+\newcommand{\mathbfit}[1]{\textbf{\textit{#1}}}
+\newcommand{\textbfss}[1]{\textbf{\textsf{#1}}}
+\newcommand{\mathbfss}[1]{\textbf{\textsf{#1}}}
+
+  %
+  \def\mathch{\protect\p@mathch}
+  \def\p@mathch#1#2{%
+    \begingroup
+    \let\@nomath\@gobble \mathversion{#1}%
+    \math@atom{#2}{%
+    \mathchoice%
+      {\hbox{$\m@th\displaystyle#2$}}%
+      {\hbox{$\m@th\textstyle#2$}}%
+      {\hbox{$\m@th\scriptstyle#2$}}%
+      {\hbox{$\m@th\scriptscriptstyle#2$}}}%
+  \endgroup}
+  %
+  \def\bmath{\protect\p@boldm}
+  \def\p@boldm#1{\mathch{bold}{#1}}
+%
+
+  \let\mit=\mathnormal
+  %
+  % The following is needed because NFSS release 2
+  % does not define the bold
+  % math symbol font to be available!
+  %
+  \SetSymbolFont{symbols}{bold}{OMS}{cmsy}{b}{n}
+  %
+  \DeclareSymbolFont{bmisymbols}{OML}{cmm}{b}{it}
+  \DeclareMathSymbol{\balpha}{0}{bmisymbols}{"0B}
+  \DeclareMathSymbol{\bbeta}{0}{bmisymbols}{"0C}
+  \DeclareMathSymbol{\bgamma}{0}{bmisymbols}{"0D}
+  \DeclareMathSymbol{\bdelta}{0}{bmisymbols}{"0E}
+  \DeclareMathSymbol{\bepsilon}{0}{bmisymbols}{"0F}
+  \DeclareMathSymbol{\bzeta}{0}{bmisymbols}{"10}
+  \DeclareMathSymbol{\boldeta}{0}{bmisymbols}{"11}
+  \DeclareMathSymbol{\btheta}{0}{bmisymbols}{"12}
+  \DeclareMathSymbol{\biota}{0}{bmisymbols}{"13}
+  \DeclareMathSymbol{\bkappa}{0}{bmisymbols}{"14}
+  \DeclareMathSymbol{\blambda}{0}{bmisymbols}{"15}
+  \DeclareMathSymbol{\bmu}{0}{bmisymbols}{"16}
+  \DeclareMathSymbol{\bnu}{0}{bmisymbols}{"17}
+  \DeclareMathSymbol{\bxi}{0}{bmisymbols}{"18}
+  \DeclareMathSymbol{\bpi}{0}{bmisymbols}{"19}
+  \DeclareMathSymbol{\brho}{0}{bmisymbols}{"1A}
+  \DeclareMathSymbol{\bsigma}{0}{bmisymbols}{"1B}
+  \DeclareMathSymbol{\btau}{0}{bmisymbols}{"1C}
+  \DeclareMathSymbol{\bupsilon}{0}{bmisymbols}{"1D}
+  \DeclareMathSymbol{\bphi}{0}{bmisymbols}{"1E}
+  \DeclareMathSymbol{\bchi}{0}{bmisymbols}{"1F}
+  \DeclareMathSymbol{\bpsi}{0}{bmisymbols}{"20}
+  \DeclareMathSymbol{\bomega}{0}{bmisymbols}{"21}
+  \DeclareMathSymbol{\bvarepsilon}{0}{bmisymbols}{"22}
+  \DeclareMathSymbol{\bvartheta}{0}{bmisymbols}{"23}
+  \DeclareMathSymbol{\bvarpi}{0}{bmisymbols}{"24}
+  \DeclareMathSymbol{\bvarrho}{0}{bmisymbols}{"25}
+  \DeclareMathSymbol{\bvarsigma}{0}{bmisymbols}{"26}
+  \DeclareMathSymbol{\bvarphi}{0}{bmisymbols}{"27}
+  %
+
+%% Define font shapes for Euler upright Math
+\ifNHT@useAMS
+      \DeclareSymbolFont{UPM}{U}{eur}{m}{n}
+      \SetSymbolFont{UPM}{bold}{U}{eur}{b}{n}
+      \DeclareSymbolFont{AMSa}{U}{msa}{m}{n}
+      \DeclareMathSymbol{\upi}{0}{UPM}{"19}
+      \DeclareMathSymbol{\umu}{0}{UPM}{"16}
+      \DeclareMathSymbol{\upartial}{0}{UPM}{"40}
+      \DeclareMathSymbol{\leqslant}{3}{AMSa}{"36}
+      \DeclareMathSymbol{\geqslant}{3}{AMSa}{"3E}
+      \DeclareMathSymbol{\la}{3}{AMSa}{46}
+      \DeclareMathSymbol{\ga}{3}{AMSa}{38}
+      %
+      \let\oldle=\le     \let\oldleq=\leq
+      \let\oldge=\ge     \let\oldgeq=\geq
+      \let\leq=\leqslant \let\le=\leqslant
+      \let\geq=\geqslant \let\ge=\geqslant
+
+\else
+     \newcommand{\upi}{\pi}
+     \newcommand{\umu}{\mu}
+     \newcommand{\upartial}{\partial}
+     \newcommand{\la}{\,\rlap{\raise 0.5ex\hbox{$<$}}{\lower 1.0ex\hbox{$\sim$}}\,}
+     \newcommand{\ga}{\,\rlap{\raise 0.5ex\hbox{$>$}}{\lower 1.0ex\hbox{$\sim$}}\,}
+
+\fi
+
+% Astronomy and Astrophysics symbol macros
+
+\newcommand\getsto{\mathrel{\mathchoice {\vcenter{\offinterlineskip
+\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\gets\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\gets
+\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr\gets
+\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\gets\cr\to\cr}}}}}
+
+\newcommand\cor{\mathrel{\mathchoice {\hbox{$\widehat=$}}{\hbox{$\widehat=$}}
+{\hbox{$\reset@font\scriptstyle\hat=$}}
+{\hbox{$\reset@font\scriptscriptstyle\hat=$}}}}
+
+\newcommand\lid{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr<\cr
+\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr<\cr
+\noalign{\vskip1pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr
+\noalign{\vskip0.9pt}=\cr}}}}}
+
+\newcommand\gid{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr>\cr
+\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr>\cr
+\noalign{\vskip1pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr
+\noalign{\vskip0.9pt}=\cr}}}}}
+
+\newcommand\sol{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\sim\cr<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\sim\cr
+<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr\sim\cr
+<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\sim\cr<\cr}}}}}
+
+\newcommand\sog{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\sim\cr>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\sim\cr
+>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+\sim\cr>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\sim\cr>\cr}}}}}
+
+\newcommand\lse{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\simeq\cr}}}}}
+
+\newcommand\gse{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\simeq\cr}}}}}
+
+\newcommand\grole{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-1pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-0.5pt}<\cr}}}}}
+
+\newcommand\leogr{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\noalign{\vskip-1.5pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\noalign{\vskip-1.5pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\noalign{\vskip-1pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\noalign{\vskip-0.5pt}>\cr}}}}}
+
+\newcommand\loa{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\approx\cr}}}}}
+
+\newcommand\goa{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\approx\cr}}}}}
+
+\newcommand\sun{\hbox{$\odot$}}
+\newcommand\earth{\hbox{$\oplus$}}
+\newcommand\degr{\hbox{$^\circ$}}
+\newcommand\diameter{{\ifmmode\mathchoice
+{\ooalign{\hfil\hbox{$\reset@font\displaystyle/$}\hfil\crcr
+{\hbox{$\reset@font\displaystyle\mathchar"20D$}}}}
+{\ooalign{\hfil\hbox{$\reset@font\textstyle/$}\hfil\crcr
+{\hbox{$\reset@font\textstyle\mathchar"20D$}}}}
+{\ooalign{\hfil\hbox{$\reset@font\scriptstyle/$}\hfil\crcr
+{\hbox{$\reset@font\scriptstyle\mathchar"20D$}}}}
+{\ooalign{\hfil\hbox{$\reset@font\scriptscriptstyle/$}\hfil\crcr
+{\hbox{$\reset@font\scriptscriptstyle\mathchar"20D$}}}}
+\else{\ooalign{\hfil/\hfil\crcr\mathhexbox20D}}%
+\fi}}
+
+\newcommand\sq{\ifmmode\squareforqed\else{\unskip\nobreak\hfil
+\penalty50\hskip1em\null\nobreak\hfil\squareforqed
+\parfillskip=0pt\finalhyphendemerits=0\endgraf}\fi}
+\newcommand\squareforqed{\hbox{\rlap{$\sqcap$}$\sqcup$}}
+
+\newcommand{\romn}[1] {{\mathrm #1}}
+
+\newcommand\fd{\hbox{$.\!\!^{\reset@font\romn d}$}}
+\newcommand\fh{\hbox{$.\!\!^{\reset@font\romn h}$}}
+\newcommand\fm{\hbox{$.\!\!^{\reset@font\romn m}$}}
+\newcommand\fs{\hbox{$.\!\!^{\reset@font\romn s}$}}
+\newcommand\fdg{\hbox{$.\!\!^\circ$}}
+\newcommand\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\newcommand\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\newcommand\fp{\hbox{$.\!\!^{\reset@font\reset@font\scriptscriptstyle\romn p}$}}
+\newcommand\arcmin{\hbox{$^\prime$}}
+\newcommand\arcsec{\hbox{$^{\prime\prime}$}}
+
+\def\micron{\hbox{$\umu$m}}
+
+%%%%%%%%%%%%%%%%%%%%% End of Extra Math / Symbol code %%%%%%%%%%%%%%%%%%%%%
+
+\makeatother

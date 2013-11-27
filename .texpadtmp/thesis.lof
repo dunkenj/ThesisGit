@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Comparison between spectroscopic and photometric redshift for the galaxies in our sample with available spectroscopy and spectroscopic redshift quality of `Good" or better. The photometric redshift shown is the peak of the probability distribution ($\chi ^2$ minimum) with 1-$\sigma $ lower and upper limits. Of the 11 galaxies classed as outliers, 6 are low-redshift interlopes at $z < 3$.\relax }}{7}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The colours of our photometric redshift selected samples in relation to the two-colour cuts typically used to select Lyman break galaxies. Non-detections in a filter are converted to 2-$\sigma $ upper limits when calculating the colours. The shaded blue regions show the region in colour space used to select dropout galaxies in that redshift bin as described in \citet {2007ApJ...670..928B}. Red symbols represent galaxies selected in our sample by our selection criteria, where the transparency of the symbols is determined by the number of Monte Carlo samples in which it is selected i.e. the fainter the symbol, the smaller the fraction of MC samples that galaxy is selected in. Example error bars corresponding to 5-$\sigma $ detections (for both filters in a given colour) are shown for each of the corresponding drop-out colours.\relax }}{9}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Intrinsic colours of galaxies at $4.5 < z < 5.5$ from the CANDELS semi-analytic mock catalog. The colour coding corresponds to the apparent H$_{160}$ magnitude where blue = bright and red = faint. The background blue dots show the observed colours for the full CANDELS GOODS South catalog.\relax }}{11}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Observed colours of galaxies at $4.5 < z < 5.5$ from SAM mock sample after the photometry has been perturbed by flux errors proportional to the observed flux errors in the CANDELS DEEP region of observed photometry. The colour coding corresponds to the apparent H$_{160}$ magnitude (after perturbation by the error) where blue = bright and red = faint.\relax }}{11}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Observed colours of galaxies from SAM mock sample selected as $z \sim 5$ by our photometric redshift method. Red circles correspond to input galaxies with an input redshift $4.5 < z < 5.5$, blue circles correspond to low-redshift interlopers incorrectly selected in the sample.\relax }}{12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Completeness as a function of H magnitude for each region of the GOODS South field. The vertical dashed lines show the magnitude at which the recovery fraction equals 0.5 for each region of the field.\relax }}{18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Selection efficiencies for the Ultra Deep Field region of the CANDELS field. The colour scale represents the fraction of input galaxies which pass the $P(z)$ criteria for a given redshift bin as a function of input redshift and apparent magnitude. The dashed white line in the lower sections of the figure shows the 80\% contour in the fraction of recovered galaxies. The upper panels show the recovery fraction as a function of redshift at a fixed input magnitude, $\textup {H}_{160} = 25$ (continuous) and $\textup {H}_{160} = 27$ (dashed).\relax }}{20}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 2D histograms showing the recovered SED parameters for a set of input SEDs incorporating nebular emission when fitted with nebular emission. The values for the age (centre) and dust (right) are those corresponding to the single best-fitting model whilst the measured mass (left) is taken as $\DOTSI \intop \ilimits@ M P(M)dM$. Each histogram is normalised by the number of input galaxies in each bin and the colour scale corresponds to the fraction of input galaxies at the observed mass (/age/dust extinction) i.e. darker = more galaxies.\relax }}{21}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Comparison of the recovered versus input $M_{UV}$, for the full mock galaxy sample.\relax }}{22}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
