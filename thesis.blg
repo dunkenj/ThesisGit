@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: style/mnras_biblist.bst
+Database file #1: style/bibtex_lib.bib
+Warning--I didn't find a database entry for "ref1"
+Warning--I didn't find a database entry for "ref2"
+You've used 51 entries,
+            1863 wiz_defined-function locations,
+            807 strings with 25969 characters,
+and the built_in function-call counts, 42442 in all, are:
+= -- 3301
+> -- 4489
+< -- 0
++ -- 1713
+- -- 1712
+* -- 4823
+:= -- 10453
+add.period$ -- 152
+call.type$ -- 51
+change.case$ -- 889
+chr.to.int$ -- 50
+cite$ -- 51
+duplicate$ -- 457
+empty$ -- 864
+format.name$ -- 1763
+if$ -- 7019
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 257
+num.names$ -- 153
+pop$ -- 922
+preamble$ -- 0
+purify$ -- 940
+quote$ -- 0
+skip$ -- 775
+stack$ -- 0
+substring$ -- 725
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 165
+width$ -- 55
+write$ -- 662
+(There were 2 warnings)
