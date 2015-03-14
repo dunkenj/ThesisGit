@@ -7,6 +7,7 @@
 \usepackage{amsmath}
 \usepackage{mathrsfs}
 \usepackage{graphicx}
+\usepackage{pdflscape}
 \usepackage{color}
 
 %------ALIASED COMMANDS---------------------
@@ -17,7 +18,7 @@
 \subimport{preamble/}{quote}                    % quotation and supervisor/examiners names
 \dsp                                            % sets line spacing             
 \input{preamble/abstract}                       % abstract
-\subimport{preamble/}{acknow}                   % acknowledgements
+%\subimport{preamble/}{acknow}                   % acknowledgements
 \ssp                                            % sets line spacing
 \pagenumbering{roman}                           % sets page numbering style & restarts page count
 \tableofcontents                                % inserts TOC
@@ -34,10 +35,10 @@
 \dsp                                            % sets line spacing
 \subimport{preamble/}{tpage}                    % inserts blank page with title & line in TOC
 \newpage
-\subimport{chapter/chapter1/}{c1}               % chapter 1
-\subimport{chapter/chapter2/}{c2}               % chapter 2
-\subimport{chapter/chapter3/}{c3}               % chapter 3 
-\subimport{chapter/chapter4/}{c4}               % chapter 4
+\subimport{chapter/Introduction/}{Introduction}               % chapter 1
+\subimport{chapter/Chapter2/}{StellarMassFunctions}               % chapter 2
+\subimport{chapter/Chapter4/}{reionization}               % chapter 2
+
 
 \appendix
 \subimport{appendix/}{appendices}               % inserts blank page saying `Appendices' & line in TOC

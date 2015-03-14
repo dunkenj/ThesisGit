@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  27 NOV 2013 12:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 MAR 2015 20:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -42,9 +42,15 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -64,16 +70,16 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTright=\skip55
 \LTpre=\skip56
 \LTpost=\skip57
-\LTchunksize=\count89
+\LTchunksize=\count90
 \LTcapwidth=\dimen105
 \LT@head=\box26
 \LT@firsthead=\box27
 \LT@foot=\box28
 \LT@lastfoot=\box29
-\LT@cols=\count90
-\LT@rows=\count91
-\c@LT@tables=\count92
-\c@LT@chunks=\count93
+\LT@cols=\count91
+\LT@rows=\count92
+\c@LT@tables=\count93
+\c@LT@chunks=\count94
 \LT@p@ftn=\toks15
 ) (./style/import.sty) (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -86,10 +92,10 @@ Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
  (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/pict2e.cfg
 File: pict2e.cfg 2011/04/05 v0.1t pict2e configuration for teTeX/TeXLive
 )
-Package pict2e Info: Driver file: dvips.def on input line 119.
-Package pict2e Info: Driver file for pict2e: p2e-dvips.def on input line 121.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/p2e-dvips.def
-File: p2e-dvips.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
 )
 \pIIe@GRAPH=\toks16
 \@arclen=\dimen107
@@ -106,20 +112,20 @@ Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 \caption@parindent=\dimen114
 \caption@hangindent=\dimen115
 )
-\c@ContinuedFloat=\count94
+\c@ContinuedFloat=\count95
 Package caption Info: longtable package is loaded.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
 )) (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
-\c@tracingmulticols=\count95
+\c@tracingmulticols=\count96
 \mult@box=\box30
 \multicol@leftmargin=\dimen116
-\c@unbalance=\count96
-\c@collectmore=\count97
-\doublecol@number=\count98
-\multicoltolerance=\count99
-\multicolpretolerance=\count100
+\c@unbalance=\count97
+\c@collectmore=\count98
+\doublecol@number=\count99
+\multicoltolerance=\count100
+\multicolpretolerance=\count101
 \full@width=\dimen117
 \page@free=\dimen118
 \premulticols=\dimen119
@@ -149,8 +155,8 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \@tempa=\box51
 \@tempa=\box52
 \@tempa=\box53
-\c@columnbadness=\count101
-\c@finalcolumnbadness=\count102
+\c@columnbadness=\count102
+\c@finalcolumnbadness=\count103
 \last@try=\dimen121
 \multicolovershoot=\dimen122
 \multicolundershoot=\dimen123
@@ -208,13 +214,13 @@ Package: amsbsy 1999/11/29 v1.2d
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count103
+\inf@bad=\count104
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count104
-\leftroot@=\count105
+\uproot@=\count105
+\leftroot@=\count106
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count106
-\DOTSCASE@=\count107
+\classnum@=\count107
+\DOTSCASE@=\count108
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -223,15 +229,15 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen126
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count108
-\c@MaxMatrixCols=\count109
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
 \dotsspace@=\muskip10
-\c@parentequation=\count110
-\dspbrk@lvl=\count111
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
 \tag@help=\toks20
-\row@=\count112
-\column@=\count113
-\maxfields@=\count114
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
 \andhelp@=\toks21
 \eqnshift@=\dimen127
 \alignsep@=\dimen128
@@ -248,55 +254,100 @@ LaTeX Info: Redefining \] on input line 2667.
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup7
-) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Landscape pages in PDF (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
  (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 130.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
-)) (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.aux
+Package color Info: Driver file: pdftex.def on input line 130.
+) (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.aux
 
-LaTeX Warning: Label `ch:chapter2_label' multiply defined.
+LaTeX Warning: Label `fig:beta_z' multiply defined.
 
 
-LaTeX Warning: Label `sec:section2_label' multiply defined.
+LaTeX Warning: Label `eq:cont_sep' multiply defined.
 
 
-LaTeX Warning: Label `sec:subsec2_label' multiply defined.
+LaTeX Warning: Label `sec:results' multiply defined.
 
 
-LaTeX Warning: Label `ch:chapter1_label' multiply defined.
-
-
-LaTeX Warning: Label `sec:section1_label' multiply defined.
-
-
-LaTeX Warning: Label `sec:subsec1_label' multiply defined.
-
-
-LaTeX Warning: Label `ap:appendix2_label' multiply defined.
+LaTeX Warning: Label `sec:summary' multiply defined.
 
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 15.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen133
+\scratchbox=\box58
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen134
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+)) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./preamble/title.tex
@@ -304,12 +355,25 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-File: preamble/un_tf_blk.eps Graphic file (type eps)
- <preamble/un_tf_blk.eps> [1
+Package epstopdf Info: Source file: <preamble/un_tf_blk.eps>
+(epstopdf)                    date: 2006-07-21 15:22:30
+(epstopdf)                    size: 303449 bytes
+(epstopdf)             Output file: <preamble/un_tf_blk-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 16:15:24
+(epstopdf)                    size: 6760 bytes
+(epstopdf)             Command: <repstopdf --outfile=preamble/un_tf_blk-eps-converted-to.pdf preamble/un_tf_blk.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+ <preamble/un_tf_blk-eps-converted-to.pdf, id=1, 143.53625pt x 43.16125pt>
+File: preamble/un_tf_blk-eps-converted-to.pdf Graphic file (type pdf)
+ <use preamble/un_tf_blk-eps-converted-to.pdf>
+Package pdftex.def Info: preamble/un_tf_blk-eps-converted-to.pdf used on input line 24.
+(pdftex.def)             Requested size: 206.28247pt x 62.03094pt.
+ [1
 
 
 
-]) (./preamble/quote.tex
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./preamble/un_tf_blk-eps-converted-to.pdf>]) (./preamble/quote.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Try loading font information for U+msa on input line 21.
@@ -323,15 +387,17 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 21.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+Overfull \hbox (58.20514pt too wide) in paragraph at lines 21--27
+[][] 
+ []
+
+[1
 
 ]) (./preamble/abstract.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
  [2
-
-
-]) (./preamble/acknow.tex [3
 
 
 ]) (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.toc [1
@@ -343,129 +409,649 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 
  [2] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.lof [3
 
-])
+] [4] [5])
 \tf@lof=\write4
 \openout4 = `thesis.lof'.
 
- [4] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.lot)
+ [6] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.lot)
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [5
+ [7
 
 ] (./preamble/tpage.tex [1
 
-]) (./chapter/chapter1/c1.tex
+]) (./chapter/Introduction/Introduction.tex
 Chapter 1.
+
+Overfull \hbox (1.09499pt too wide) in paragraph at lines 9--10
+\OT1/ptm/m/n/12 One of the most re-mark-able achieve-ments in phys-i-cal sci-ences over the last few decades
+ []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 
-Package natbib Warning: Citation `ref1' on page 2 undefined on input line 17.
+Overfull \hbox (2.31905pt too wide) in paragraph at lines 12--13
+\OT1/ptm/m/n/12 pos-si-ble is the de-tailed ob-ser-va-tion of the old-est cos-mic mi-crowave back-ground (CMB).
+ []
 
-
-Package natbib Warning: Citation `ref1' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `ref2' on page 2 undefined on input line 19.
-
-) (./chapter/chapter2/c2.tex [2
+[2
 
 
-]
-Chapter 2.
-[3
-
-]) (./chapter/chapter3/c3.tex [4]
-Chapter 3.
-[5
-
-] [6]
+] <chapter/Introduction/CobeWmapPlanckComparison.jpg, id=54, 3613.5pt x 2007.5pt>
+File: chapter/Introduction/CobeWmapPlanckComparison.jpg Graphic file (type jpg)
+ <use chapter/Introduction/CobeWmapPlanckComparison.jpg>
+Package pdftex.def Info: chapter/Introduction/CobeWmapPlanckComparison.jpg used on input line 19.
+(pdftex.def)             Requested size: 371.30594pt x 206.27551pt.
+ <chapter/Introduction/Planck_CMB.jpg, id=55, 1927.2pt x 963.6pt>
+File: chapter/Introduction/Planck_CMB.jpg Graphic file (type jpg)
+ <use chapter/Introduction/Planck_CMB.jpg>
+Package pdftex.def Info: chapter/Introduction/Planck_CMB.jpg used on input line 23.
+(pdftex.def)             Requested size: 330.05322pt x 165.0155pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 25.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 25.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
- [7] [8] [9] [10] [11]
-
-Package natbib Warning: Citation `ref1' on page 12 undefined on input line 143.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 
 
-Package natbib Warning: Citation `ref1' on page 12 undefined on input line 145.
+Package natbib Warning: Citation `Steidel:1995kx' on page 3 undefined on input line 49.
 
 
-Package natbib Warning: Citation `ref2' on page 12 undefined on input line 145.
+Package natbib Warning: Citation `Steidel:1996jd' on page 3 undefined on input line 50.
 
-) (./chapter/chapter4/c4.tex [12]
-Chapter 4.
-[13
+[3] [4 <./chapter/Introduction/CobeWmapPlanckComparison.jpg> <./chapter/Introduction/Planck_CMB.jpg>]
+Overfull \hbox (5.53525pt too wide) in paragraph at lines 80--81
+[]\OT1/ptm/m/n/12 Another novel ap-proach to con-struct-ing plau-si-ble and ac-cu-rate star-formation and metal-
+ []
 
-] [14] [15]
-Overfull \hbox (5.09416pt too wide) in paragraph at lines 53--54
+[5] [6]
+Overfull \hbox (6.81561pt too wide) in paragraph at lines 113--115
+[]\OT1/ptm/m/n/12 CD2  Con-strain star for-ma-tion rates, ages, metal-lic-i-ties, stel-lar masses,
+ []
+
+[7]) (./chapter/Chapter2/StellarMassFunctions.tex [8]
+Chapter 2.
+
+Overfull \hbox (6.97568pt too wide) in paragraph at lines 8--9
+\OT1/ptm/m/n/12 `break' in-duced by blan-ket-ing hy-dro-gen ab-sorp-tion of the UV con-tin-uum (Guhathakurta,
+ []
+
+[9
+
+] [10] [11]
+Overfull \hbox (5.1633pt too wide) in paragraph at lines 22--23
+\OT1/ptm/m/n/12 Cos-mic As-sem-bly Near-infrared Deep Ex-tra-galac-tic Sur-vey (CAN-DELS; Co-PIs: Faber
+ []
+
+[12] [13]
+
+Package natbib Warning: Citation `Henriques:2012gs' on page 14 undefined on input line 46.
+
+[14] [15] <chapter/Chapter2/plots/fig1.pdf, id=101, 396.96744pt x 272.24522pt>
+File: chapter/Chapter2/plots/fig1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig1.pdf used on input line 76.
+(pdftex.def)             Requested size: 270.30118pt x 185.38599pt.
+ [16 <./chapter/Chapter2/plots/fig1.pdf>] [17] [18] <chapter/Chapter2/plots/fig2.pdf, id=317, 545.45186pt x 543.64825pt>
+File: chapter/Chapter2/plots/fig2.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig2.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig2.pdf used on input line 119.
+(pdftex.def)             Requested size: 398.33858pt x 397.02583pt.
+ [19] [20 <./chapter/Chapter2/plots/fig2.pdf>] [21]
+
+Package caption Warning: \label before \caption on input line 146.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:eg_photom' on page 22 undefined on input line 141.
+
+[22] [23] <chapter/Chapter2/plots/figA1.pdf, id=411, 288.34538pt x 556.21523pt>
+File: chapter/Chapter2/plots/figA1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA1.pdf used on input line 165.
+(pdftex.def)             Requested size: 227.62204pt x 439.07422pt.
+
+
+Package caption Warning: \label before \caption on input line 146.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:eg_photom' on page 24 undefined on input line 176.
+
+[24
+
+
+] [25 <./chapter/Chapter2/plots/figA1.pdf>] <chapter/Chapter2/plots/figA2a.pdf, id=493, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA2a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA2a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA2a.pdf used on input line 182.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ <chapter/Chapter2/plots/figA2b.pdf, id=494, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA2b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA2b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA2b.pdf used on input line 183.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+
+
+Package caption Warning: \label before \caption on input line 146.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:eg_photom' on page 26 undefined on input line 188.
+
+[26] [27 <./chapter/Chapter2/plots/figA2a.pdf> <./chapter/Chapter2/plots/figA2b.pdf>] <chapter/Chapter2/plots/figA3a.pdf, id=641, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA3a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA3a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA3a.pdf used on input line 200.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ <chapter/Chapter2/plots/figA3b.pdf, id=642, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA3b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA3b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA3b.pdf used on input line 201.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ [28] [29 <./chapter/Chapter2/plots/figA3a.pdf> <./chapter/Chapter2/plots/figA3b.pdf>] <chapter/Chapter2/plots/figA4.pdf, id=813, 294.7286pt x 288.97273pt>
+File: chapter/Chapter2/plots/figA4.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA4.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA4.pdf used on input line 214.
+(pdftex.def)             Requested size: 227.62204pt x 223.1799pt.
+ <chapter/Chapter2/plots/figA5.pdf, id=814, 279.67297pt x 378.55238pt>
+File: chapter/Chapter2/plots/figA5.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA5.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA5.pdf used on input line 222.
+(pdftex.def)             Requested size: 227.62204pt x 308.09868pt.
+ [30 <./chapter/Chapter2/plots/figA4.pdf>] [31 <./chapter/Chapter2/plots/figA5.pdf>] [32]
+
+Package natbib Warning: Citation `1995ApJ...441...18M' on page 33 undefined on input line 246.
+
+
+Package natbib Warning: Citation `Osterbrock:2006ul' on page 33 undefined on input line 249.
+
+[33]
+
+Package natbib Warning: Citation `Osterbrock:2006ul' on page 34 undefined on input line 265.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 279.
+
+[34]
+Overfull \hbox (5.09416pt too wide) in paragraph at lines 286--287
 \OT1/ptm/m/n/12 In or-der to cal-cu-late UV star-formation rates, the rest frame ab-so-lute mag-ni-tudes (M$[]$)
  []
 
-[16] [17] [18] [19] [20]
+[35] [36] <chapter/Chapter2/plots/fig3.pdf, id=973, 395.38028pt x 282.09608pt>
+File: chapter/Chapter2/plots/fig3.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig3.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig3.pdf used on input line 312.
+(pdftex.def)             Requested size: 270.30118pt x 192.85585pt.
+ [37] [38 <./chapter/Chapter2/plots/fig3.pdf>] <chapter/Chapter2/plots/fig4.pdf, id=1026, 801.86575pt x 403.22519pt>
+File: chapter/Chapter2/plots/fig4.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig4.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig4.pdf used on input line 335.
+(pdftex.def)             Requested size: 412.56496pt x 207.46332pt.
+ [39] [40 <./chapter/Chapter2/plots/fig4.pdf>]
 
-LaTeX Warning: Reference `app:beta' on page 21 undefined on input line 126.
+LaTeX Warning: Command \r invalid in math mode on input line 352.
 
-[21]
+<chapter/Chapter2/plots/fig5.pdf, id=1355, 827.5075pt x 299.54007pt>
+File: chapter/Chapter2/plots/fig5.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig5.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig5.pdf used on input line 355.
+(pdftex.def)             Requested size: 412.56496pt x 149.34001pt.
+ <chapter/Chapter2/plots/fig6.pdf, id=1356, 339.04166pt x 364.03818pt>
+File: chapter/Chapter2/plots/fig6.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig6.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig6.pdf used on input line 364.
+(pdftex.def)             Requested size: 239.00314pt x 256.63028pt.
+ [41 <./chapter/Chapter2/plots/fig5.pdf>] [42 <./chapter/Chapter2/plots/fig6.pdf>] [43] <chapter/Chapter2/plots/fig7.pdf, id=2901, 567.1109pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig7.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig7.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig7.pdf used on input line 405.
+(pdftex.def)             Requested size: 412.56496pt x 308.64784pt.
+ [44 <./chapter/Chapter2/plots/fig7.pdf>] [45] <chapter/Chapter2/plots/fig8a.pdf, id=3115, 553.23093pt x 421.62833pt>
+File: chapter/Chapter2/plots/fig8a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig8a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig8a.pdf used on input line 464.
+(pdftex.def)             Requested size: 369.88582pt x 281.89763pt.
+ <chapter/Chapter2/plots/fig8b.pdf, id=3116, 553.23093pt x 421.62833pt>
+File: chapter/Chapter2/plots/fig8b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig8b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig8b.pdf used on input line 465.
+(pdftex.def)             Requested size: 369.88582pt x 281.89763pt.
 
-Package natbib Warning: Citation `ref1' on page 22 undefined on input line 138.
+Underfull \hbox (badness 10000) in paragraph at lines 464--466
+[][]
+ []
 
 
-Package natbib Warning: Citation `ref1' on page 22 undefined on input line 140.
+LaTeX Warning: Float too large for page by 45.70274pt on input line 468.
+
+[46] [47 <./chapter/Chapter2/plots/fig8a.pdf> <./chapter/Chapter2/plots/fig8b.pdf>] [48] [49]
+
+Package caption Warning: \label before \caption on input line 534.
+See the caption package documentation for explanation.
 
 
-Package natbib Warning: Citation `ref2' on page 22 undefined on input line 140.
+LaTeX Warning: Reference `tab:mass_schecter' on page 50 undefined on input line 516.
 
-) (./appendix/appendices.tex [22] [23
+[50] <chapter/Chapter2/plots/fig9.pdf, id=3343, 619.51451pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig9.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig9.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig9.pdf used on input line 527.
+(pdftex.def)             Requested size: 412.56496pt x 282.5393pt.
+ [51 <./chapter/Chapter2/plots/fig9.pdf>] [52] [53] <chapter/Chapter2/plots/fig10.pdf, id=3593, 414.53996pt x 285.68701pt>
+File: chapter/Chapter2/plots/fig10.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig10.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig10.pdf used on input line 576.
+(pdftex.def)             Requested size: 284.52756pt x 196.08673pt.
+ [54 <./chapter/Chapter2/plots/fig10.pdf>] <chapter/Chapter2/plots/fig11.pdf, id=3685, 847.165pt x 286.95015pt>
+File: chapter/Chapter2/plots/fig11.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig11.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig11.pdf used on input line 593.
+(pdftex.def)             Requested size: 412.56496pt x 139.74423pt.
+ [55]
+
+Package caption Warning: \label before \caption on input line 615.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:smd' on page 56 undefined on input line 603.
+
+[56 <./chapter/Chapter2/plots/fig11.pdf>] <chapter/Chapter2/plots/fig12.pdf, id=3820, 397.1682pt x 334.83061pt>
+File: chapter/Chapter2/plots/fig12.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig12.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig12.pdf used on input line 607.
+(pdftex.def)             Requested size: 284.52756pt x 239.8721pt.
+
+
+Package caption Warning: \label before \caption on input line 534.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:mass_schecter' on page 57 undefined on input line 616.
+
+
+Package caption Warning: \label before \caption on input line 534.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:mass_schecter' on page 57 undefined on input line 616.
+
+[57 <./chapter/Chapter2/plots/fig12.pdf>] <chapter/Chapter2/plots/fig13.pdf, id=3940, 409.31042pt x 272.45851pt>
+File: chapter/Chapter2/plots/fig13.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig13.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig13.pdf used on input line 641.
+(pdftex.def)             Requested size: 284.52756pt x 189.40591pt.
+ [58]
+Overfull \hbox (0.95024pt too wide) in paragraph at lines 648--649
+[]\OT1/ptm/m/n/12 Performing a sim-ple best fit to our ob-served sSFR across all four red-shift bins, weighted
+ []
+
+[59 <./chapter/Chapter2/plots/fig13.pdf>] [60] <chapter/Chapter2/plots/fig14.pdf, id=4034, 567.80882pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig14.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig14.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig14.pdf used on input line 665.
+(pdftex.def)             Requested size: 398.33858pt x 297.64899pt.
+ <chapter/Chapter2/plots/fig15.pdf, id=4035, 398.72089pt x 277.0146pt>
+File: chapter/Chapter2/plots/fig15.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig15.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig15.pdf used on input line 672.
+(pdftex.def)             Requested size: 227.62204pt x 158.14088pt.
+ [61] [62 <./chapter/Chapter2/plots/fig14.pdf>] [63 <./chapter/Chapter2/plots/fig15.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 693.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 693.
+ [64] [65] <chapter/Chapter2/plots/figB1.pdf, id=4423, 271.88138pt x 278.92015pt>
+File: chapter/Chapter2/plots/figB1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB1.pdf used on input line 709.
+(pdftex.def)             Requested size: 213.39566pt x 218.923pt.
+ [66 <./chapter/Chapter2/plots/figB1.pdf>] <chapter/Chapter2/plots/figB2.pdf, id=4475, 361.35pt x 469.755pt>
+File: chapter/Chapter2/plots/figB2.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB2.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB2.pdf used on input line 718.
+(pdftex.def)             Requested size: 227.62204pt x 295.91138pt.
+ <chapter/Chapter2/plots/figB3.pdf, id=4476, 355.96112pt x 223.97395pt>
+File: chapter/Chapter2/plots/figB3.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB3.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB3.pdf used on input line 727.
+(pdftex.def)             Requested size: 227.62204pt x 143.22322pt.
+) (./chapter/Chapter4/reionization.tex [67 <./chapter/Chapter2/plots/figB2.pdf>] [68 <./chapter/Chapter2/plots/figB3.pdf>]
+Chapter 3.
+[69
+
+] [70] [71] [72] [73] <chapter/Chapter4/plots/Fig1a.pdf, id=4737, 776.9025pt x 523.9575pt>
+File: chapter/Chapter4/plots/Fig1a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig1a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig1a.pdf used on input line 52.
+(pdftex.def)             Requested size: 173.27652pt x 116.862pt.
+ <chapter/Chapter4/plots/Fig1b.pdf, id=4738, 776.9025pt x 523.9575pt>
+File: chapter/Chapter4/plots/Fig1b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig1b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig1b.pdf used on input line 54.
+(pdftex.def)             Requested size: 173.27652pt x 116.862pt.
+ [74] [75 <./chapter/Chapter4/plots/Fig1a.pdf> <./chapter/Chapter4/plots/Fig1b.pdf>] [76] <chapter/Chapter4/plots/Fig2.pdf, id=4880, 456.43651pt x 437.19899pt>
+File: chapter/Chapter4/plots/Fig2.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig2.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig2.pdf used on input line 76.
+(pdftex.def)             Requested size: 198.0294pt x 189.68636pt.
+ [77 <./chapter/Chapter4/plots/Fig2.pdf>] <chapter/Chapter4/plots/Fig3.pdf, id=5072, 456.43651pt x 205.48984pt>
+File: chapter/Chapter4/plots/Fig3.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig3.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig3.pdf used on input line 92.
+(pdftex.def)             Requested size: 198.0294pt x 89.15532pt.
+ [78 <./chapter/Chapter4/plots/Fig3.pdf>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 109.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 109.
+
+[79] [80]
+
+LaTeX Warning: Command \r invalid in math mode on input line 117.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 117.
+
+[81] [82] <chapter/Chapter4/plots/Fig4.pdf, id=5181, 422.56996pt x 295.54039pt>
+File: chapter/Chapter4/plots/Fig4.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig4.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig4.pdf used on input line 151.
+(pdftex.def)             Requested size: 198.0294pt x 138.49812pt.
+ [83 <./chapter/Chapter4/plots/Fig4.pdf>]
+
+LaTeX Warning: Reference `app:tables' on page 84 undefined on input line 161.
+
+[84]
+
+LaTeX Warning: Command \r invalid in math mode on input line 166.
+
+
+Overfull \hbox (1.68257pt too wide) in paragraph at lines 171--172
+[]\OT1/ptm/m/n/12 Due to the ob-ser-va-tional re-stric-tions on high-resolution rest-frame op-ti-cal spec-troscopy,
+ []
+
+[85] [86]
+
+Package natbib Warning: Citation `Osterbrock:2006ul' on page 87 undefined on input line 195.
+
+[87]
+
+LaTeX Warning: Command \r invalid in math mode on input line 204.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 204.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 204.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 204.
+
+
+Package caption Warning: \label before \caption on input line 12.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:bouwens_N' on page 88 undefined on input line 204.
+
+[88] [89] <chapter/Chapter4/plots/Fig5a.pdf, id=5303, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5a.pdf used on input line 222.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ <chapter/Chapter4/plots/Fig5b.pdf, id=5304, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5b.pdf used on input line 223.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ <chapter/Chapter4/plots/Fig5c.pdf, id=5305, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5c.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5c.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5c.pdf used on input line 224.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ <chapter/Chapter4/plots/Fig6a.pdf, id=5306, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6a.pdf used on input line 232.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ <chapter/Chapter4/plots/Fig6b.pdf, id=5307, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6b.pdf used on input line 233.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ <chapter/Chapter4/plots/Fig6c.pdf, id=5308, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6c.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6c.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6c.pdf used on input line 234.
+(pdftex.def)             Requested size: 136.14719pt x 166.40276pt.
+ [90] [91 <./chapter/Chapter4/plots/Fig5a.pdf> <./chapter/Chapter4/plots/Fig5b.pdf> <./chapter/Chapter4/plots/Fig5c.pdf>]
+Overfull \hbox (21.20433pt too wide) in paragraph at lines 249--250
+\OT1/ptm/m/n/12 In the cen-tre and right pan-els of Fig-ures 3.5[] and 3.6[] we show $[][] \OML/cmm/m/it/12 f[]^^X[]$ \OT1/ptm/m/n/12 and $[][] \OML/cmm/m/it/12 f[]^^T[]$
+ []
+
+[92 <./chapter/Chapter4/plots/Fig6a.pdf> <./chapter/Chapter4/plots/Fig6b.pdf> <./chapter/Chapter4/plots/Fig6c.pdf>] [93] <chapter/Chapter4/plots/Fig7a.pdf, id=7121, 397.485pt x 578.16pt>
+File: chapter/Chapter4/plots/Fig7a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig7a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig7a.pdf used on input line 288.
+(pdftex.def)             Requested size: 173.27652pt x 252.04453pt.
+ <chapter/Chapter4/plots/Fig7b.pdf, id=7122, 397.485pt x 578.16pt>
+File: chapter/Chapter4/plots/Fig7b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig7b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig7b.pdf used on input line 289.
+(pdftex.def)             Requested size: 173.27652pt x 252.04453pt.
+ [94] [95 <./chapter/Chapter4/plots/Fig7a.pdf> <./chapter/Chapter4/plots/Fig7b.pdf>] [96] [97] [98] <chapter/Chapter4/plots/Fig8.pdf, id=7216, 641.60326pt x 362.91208pt>
+File: chapter/Chapter4/plots/Fig8.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig8.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig8.pdf used on input line 336.
+(pdftex.def)             Requested size: 371.30594pt x 210.02399pt.
+ [99 <./chapter/Chapter4/plots/Fig8.pdf>] [100] [101] [102] <chapter/Chapter4/plots/Fig9a.pdf, id=7301, 473.18156pt x 279.80159pt>
+File: chapter/Chapter4/plots/Fig9a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig9a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig9a.pdf used on input line 375.
+(pdftex.def)             Requested size: 198.0294pt x 117.09744pt.
+ <chapter/Chapter4/plots/Fig9b.pdf, id=7302, 473.18156pt x 279.80159pt>
+File: chapter/Chapter4/plots/Fig9b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig9b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig9b.pdf used on input line 376.
+(pdftex.def)             Requested size: 198.0294pt x 117.09744pt.
+ [103 <./chapter/Chapter4/plots/Fig9a.pdf> <./chapter/Chapter4/plots/Fig9b.pdf>] [104]
+Overfull \hbox (6.30482pt too wide) in paragraph at lines 392--393
+[]\OT1/ptm/m/n/12 Fig. 3.10[] shows the evo-lu-tion of $[]$ based on these as-sump-tions, again for the Bouwens
+ []
+
+<chapter/Chapter4/plots/Fig10a.pdf, id=7425, 473.18156pt x 279.80159pt>
+File: chapter/Chapter4/plots/Fig10a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig10a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig10a.pdf used on input line 395.
+(pdftex.def)             Requested size: 198.0294pt x 117.09744pt.
+ <chapter/Chapter4/plots/Fig10b.pdf, id=7426, 473.18156pt x 279.80159pt>
+File: chapter/Chapter4/plots/Fig10b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig10b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig10b.pdf used on input line 396.
+(pdftex.def)             Requested size: 198.0294pt x 117.09744pt.
+ [105 <./chapter/Chapter4/plots/Fig10a.pdf> <./chapter/Chapter4/plots/Fig10b.pdf>] [106] [107] [108] [109] [110]) (./appendix/appendices.tex [111] [112
 
 ]) (./appendix/app1/a1.tex
 Appendix A.
-) (./appendix/app2/a2.tex [24
 
+Package caption Warning: \label before \caption on input line 12.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:bouwens_N' on page 113 undefined on input line 9.
+
+
+Package caption Warning: \label before \caption on input line 71.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:finkelstein_N' on page 113 undefined on input line 9.
+
+(./appendix/app1/EoR_data/EoRtable_Bouwens_rho.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_rho_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_rho_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_m13.txt)
+Overfull \hbox (202.45174pt too wide) in paragraph at lines 14--69
+[][] 
+ []
+
+(./appendix/app1/EoR_data/EoRtable_Fink_rho.txt) (./appendix/app1/EoR_data/EoRtable_Fink_rho_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_rho_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink.txt) (./appendix/app1/EoR_data/EoRtable_Fink_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_m13.txt)
+Overfull \hbox (202.45174pt too wide) in paragraph at lines 73--123
+[][] 
+ []
+
+) (./appendix/app2/a2.tex [113
+
+
+] [114] [115]
+Appendix B.
+) [116
+
+] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.bbl [117
 
 ]
-Appendix B.
-) [25
-
-] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.bbl
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
- [26
-
-]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no í in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no • in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no © in font ptmri7t!
+Missing character: There is no æ in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [118]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no § in font ptmri7t!
+ [119]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
 Missing character: There is no À in font ptmri7t!
 Missing character: There is no ú in font ptmri7t!
+ [120] [121]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no É in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no É in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ê in font ptmri7t!
- [27]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no § in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no § in font ptmri7t!
+ [122] [123]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no § in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no É in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+
+Underfull \hbox (badness 1383) in paragraph at lines 585--589
+\OT1/ptm/m/it/12 A Low Up-per Limit to the Ly-man Con-tin-uum Emis-sion of Two Galax-ies at
+ []
+
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+[124]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
-Missing character: There is no ‚ in font ptmri7t!
-Missing character: There is no à in font ptmri7t!
-Missing character: There is no º in font ptmri7t!
- [28]
+ [125]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no É in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
- [29]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [126]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+ [127]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ê in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
-Missing character: There is no Ä in font ptmri7t!
-Missing character: There is no ê in font ptmri7t!
- [30]
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no í in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no í in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ≤ in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ≤ in font ptmri7t!
+ [128]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [129]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
@@ -475,31 +1061,111 @@ Missing character: There is no à in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
- [31]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no É in font ptmri7t!
+ [130]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [131]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+ [132]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+
+Underfull \hbox (badness 1072) in paragraph at lines 1334--1340
+[]\OT1/ptm/m/n/12 Rodriguez Es-pinosa J. M., Gonzalez-Martin O., Cas-tro Ro-driguez N., P[]erez-
+ []
+
+[133]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no § in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+ [134]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ê in font ptmri7t!
- [32]
-Missing character: There is no ‚ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no à in font ptmri7t!
-Missing character: There is no ‚ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no à in font ptmri7t!
-Missing character: There is no ‚ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no à in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no à in font ptmri7t!
 Missing character: There is no º in font ptmri7t!
- [33])
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [135]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ê in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+ [136]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+Missing character: There is no º in font ptmri7t!
+ [137]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no à in font ptmri7t!
+ [138])
 
 Package natbib Warning: There were undefined citations.
 
-[34] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.aux)
+[139] (/Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -508,12 +1174,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4049 strings out of 493634
- 58411 string characters out of 3143401
- 118909 words of memory out of 3000000
- 7222 multiletter control sequences out of 15000+200000
- 23035 words of font info for 71 fonts, out of 3000000 for 9000
+ 5898 strings out of 493633
+ 97216 string characters out of 3143378
+ 170657 words of memory out of 3000000
+ 8837 multiletter control sequences out of 15000+200000
+ 58284 words of font info for 131 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,12n,49p,1191b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,18n,48p,1800b,777s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.pdf (149 pages, 12729943 bytes).
+PDF statistics:
+ 7712 PDF objects out of 8907 (max. 8388607)
+ 1373 compressed objects within 14 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on /Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.dvi (43 pages, 119092 bytes).
