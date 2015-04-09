@@ -34,6 +34,17 @@ Avni Y., Bahcall J.~N., 1980.
 \newblock {\it {On the simultaneous analysis of several complete samples - The
   V/Vmax and Ve/Va variables, with applications to quasars}}.
 
+\bibitem[Bacon {\it et~al.}(2015)]{Bacon:2015eh}
+Bacon R., Brinchmann J., Richard J., Contini T., Drake A., Franx M., Tacchella
+  S., Vernet J., Wisotzki L., Blaizot J., Bouch{\'e} N., Bouwens R., Cantalupo
+  S., Carollo C.~M., Carton D., Caruana J., Cl{\'e}ment B., Dreizler S., Epinat
+  B., Guiderdoni B., Herenz C., Husser T.~O., Kamann S., Kerutt J., Kollatschny
+  W., Krajnovic D., Lilly S., Martinsson T., Michel-Dansac L., Patricio V.,
+  Schaye J., Shirazi M., Soto K., Soucail G., Steinmetz M., Urrutia T.,
+  Weilbacher P., de~Zeeuw T., 2015.
+\newblock {\it A{\&}A}, {\bf 575}, A75.
+\newblock {\it {The MUSE 3D view of the HubbleDeep Field South}}.
+
 \bibitem[Balestra {\it et~al.}(2010)]{Balestra:2010bt}
 Balestra I., Mainieri V., Popesso P., Dickinson M., Nonino M., Rosati P.,
   Teimoorinia H., Vanzella E., Cristiani S., Cesarsky C., Fosbury R. A.~E.,
@@ -60,6 +71,17 @@ Behroozi P.~S., Wechsler R.~H., Conroy C., 2013.
 \newblock {\it {THE AVERAGE STAR FORMATION HISTORIES OF GALAXIES IN DARK MATTER
   HALOS FROM z= 0-8}}.
 
+\bibitem[Bell {\it et~al.}(2006)]{Bell:2006ey}
+Bell E.~F., Phleps S., Somerville R.~S., Wolf C., Borch A., Meisenheimer K.,
+  2006.
+\newblock {\it ApJ}, {\bf 652(1)}, 270.
+\newblock {\it {The Merger Rate of Massive Galaxies}}.
+
+\bibitem[Ben{\'\i}tez(2000)]{Benitez:2000jr}
+Ben{\'\i}tez N., 2000.
+\newblock {\it ApJ}, {\bf 536(2)}, 571.
+\newblock {\it {Bayesian Photometric Redshift Estimation}}.
+
 \bibitem[Bennett {\it et~al.}(2013)]{Bennett:2013ew}
 Bennett C.~L., Larson D., Weiland J.~L., Jarosik N., Hinshaw G., Odegard N.,
   Smith K.~M., Hill R.~S., Gold B., Halpern M., Komatsu E., Nolta M.~R., Page
@@ -69,6 +91,33 @@ Bennett C.~L., Larson D., Weiland J.~L., Jarosik N., Hinshaw G., Odegard N.,
 \newblock {\it {NINE-YEAR WILKINSON MICROWAVE ANISOTROPY PROBE( WMAP)
   OBSERVATIONS: FINAL MAPS AND RESULTS}}.
 
+\bibitem[Benson {\it et~al.}(2003)]{Benson:2003ch}
+Benson A.~J., Bower R.~G., Frenk C.~S., Lacey C.~G., Baugh C.~M., Cole S.,
+  2003.
+\newblock {\it ApJ}, {\bf 599(1)}, 38.
+\newblock {\it {What Shapes the Luminosity Function of Galaxies?}}
+
+\bibitem[Bertone \& Conselice(2009)]{Bertone:2009jc}
+Bertone S., Conselice C.~J., 2009.
+\newblock {\it MNRAS}, {\bf 396(4)}, 2345.
+\newblock {\it {A comparison of galaxy merger history observations and
+  predictions from semi-analytic models}}.
+
+\bibitem[Bluck {\it et~al.}(2009)]{Bluck:2009in}
+Bluck A. F.~L., Conselice C.~J., Bouwens R.~J., Daddi E., Dickinson M.,
+  Papovich C., Yan H., 2009.
+\newblock {\it MNRAS: Letters}, {\bf 394(1)}, L51.
+\newblock {\it {A surprisingly high pair fraction for extremely massive
+  galaxies at z∼ 3 in the GOODS NICMOS survey}}.
+
+\bibitem[Bluck {\it et~al.}(2012)]{Bluck:2012dh}
+Bluck A. F.~L., Conselice C.~J., Buitrago F., Gr{\"u}tzbauch R., Hoyos C.,
+  Mortlock A., Bauer A.~E., 2012.
+\newblock {\it ApJ}, {\bf 747(1)}, 34.
+\newblock {\it {THE STRUCTURES AND TOTAL (MINOR + MAJOR) MERGER HISTORIES OF
+  MASSIVE GALAXIES UP TO z∼ 3 IN THE HSTGOODS NICMOS SURVEY: A POSSIBLE
+  SOLUTION TO THE SIZE EVOLUTION PROBLEM}}.
+
 \bibitem[Bolton \& Haehnelt(2007)]{Bolton:2007gc}
 Bolton J.~S., Haehnelt M.~G., 2007.
 \newblock {\it MNRAS}, {\bf 382(1)}, 325.
@@ -76,10 +125,24 @@ Bolton J.~S., Haehnelt M.~G., 2007.
   the ionizing emissivity at z >= 5: evidence for a photon-starved and extended
   epoch of reionization}}.
 
+\bibitem[Bolzonella, Miralles \& Pello(2000)]{Bolzonella:2000uw}
+Bolzonella M., Miralles J.~M., Pello R., 2000.
+\newblock {\it A{\&}A}, {\bf 363}, 476.
+\newblock {\it {Photometric redshifts based on standard SED fitting
+  procedures}}.
+
 \bibitem[Borthakur {\it et~al.}(2014)]{Borthakur:2014bz}
 Borthakur S., Heckman T.~M., Leitherer C., Overzier R.~A., 2014.
 \newblock {\it Science}, {\bf 346(6206)}, 216.
 \newblock {\it {A local clue to the reionization of the universe}}.
+
+\bibitem[Bouwens {\it et~al.}(2004)]{Bouwens:2004gn}
+Bouwens R.~J., Thompson R.~I., Illingworth G.~D., Franx M., van Dokkum P.~G.,
+  Fan X., Dickinson M.~E., Eisenstein D.~J., Rieke M.~J., 2004.
+\newblock {\it ApJ}, {\bf 616(2)}, L79.
+\newblock {\it {Galaxies at [FORMULA][F]z~7-8[/F][/FORMULA]:
+  [FORMULA][F]z[INF]850[/INF][/F][/FORMULA]-Dropouts in the Hubble Ultra Deep
+  Field}}.
 
 \bibitem[Bouwens {\it et~al.}(2007)]{2007ApJ...670..928B}
 Bouwens R.~J., Illingworth G.~D., Franx M., Ford H., 2007.
@@ -139,7 +202,7 @@ Bouwens R.~J., Illingworth G.~D., Oesch P.~A., Trenti M., Labb{\'e} I., Franx
 \bibitem[Bouwens {\it et~al.}(2014a)]{Bouwens:2013vf}
 Bouwens R.~J., Illingworth G.~D., Oesch P.~A., Labb{\'e} I., van Dokkum P.~G.,
   Trenti M., Franx M., Smit R., Gonz{\'a}lez V., Magee D., 2014a.
-\newblock {\it eprint arXiv:13062950}, {\bf 793(2)}, 115.
+\newblock {\it ApJ}, {\bf 793(2)}, 115.
 \newblock {\it {UV-CONTINUUM SLOPES OF >4000 z∼ 4-8 GALAXIES FROM THE
   HUDF/XDF, HUDF09, ERS, CANDELS-SOUTH, AND CANDELS-NORTH FIELDS}}.
 
@@ -151,10 +214,55 @@ Bouwens R.~J., Illingworth G.~D., Oesch P.~A., Trenti M., Labb{\'e} I., Bradley
 \newblock {\it {UV Luminosity Functions at redshifts z~4 to z~10: 11000
   Galaxies from HST Legacy Fields}}.
 
+\bibitem[Bouwens {\it et~al.}(2015)]{Bouwens:2015tm}
+Bouwens R.~J., Illingworth G.~D., Oesch P.~A., Caruana J., Holwerda B., Smit
+  R., Wilkins S., 2015.
+\newblock {\it eprint arXiv:1503.08228}.
+\newblock {\it {Cosmic Reionization after Planck: The Derived Growth of the
+  Ionizing Background now matches the Growth of the Galaxy UV Luminosity
+  Density}}.
+
+\bibitem[Bower {\it et~al.}(2006)]{2006MNRAS.370..645B}
+Bower R.~G., Benson A.~J., Malbon R., Helly J.~C., Frenk C.~S., Baugh C.~M.,
+  Cole S., Lacey C.~G., 2006.
+\newblock {\it MNRAS}, {\bf 370(2)}, 645.
+\newblock {\it {Breaking the hierarchy of galaxy formation}}.
+
+\bibitem[Bowler {\it et~al.}(2012)]{Bowler:vl}
+Bowler R.~A., Dunlop J.~S., McLure R.~J., McCracken H.~J., Milvang-Jensen B.,
+  Furusawa H., Fynbo J. P.~U., Le~F{\`e}vre O., Holt J., Ideue Y., 2012.
+\newblock {\it MNRAS}, {\bf 426(4)}, 2772.
+\newblock {\it {Discovery of bright z ≃ 7 galaxies in the UltraVISTA
+  survey}}.
+
+\bibitem[Bowler {\it et~al.}(2013)]{Bowler:2013wz}
+Bowler R. A.~A., Dunlop J.~S., McLure R.~J., Rogers A.~B., McCracken H.~J.,
+  Milvang-Jensen B., Furusawa H., Fynbo J. P.~U., Taniguchi Y., Afonso J.,
+  Bremer M.~N., Fevre O.~L., 2013.
+\newblock {\it {The bright end of the galaxy luminosity function at z ~ 7:
+  before the onset of mass quenching?}}
+
+\bibitem[Brammer {\it et~al.}(2012)]{Brammer:2012bu}
+Brammer G.~B., van Dokkum P.~G., Franx M., Fumagalli M., Patel S., Rix H.-W.,
+  Skelton R.~E., Kriek M., Nelson E., Schmidt K.~B., Bezanson R., da~Cunha E.,
+  Erb D.~K., Fan X., F{\"o}rster~Schreiber N., Illingworth G.~D., Labb{\'e} I.,
+  Leja J., Lundgren B., Magee D., Marchesini D., McCarthy P., Momcheva I.,
+  Muzzin A., Quadri R., Steidel C.~C., Tal T., Wake D., Whitaker K.~E.,
+  Williams A., 2012.
+\newblock {\it ApJS}, {\bf 200(2)}, 13.
+\newblock {\it {3D-HST: A WIDE-FIELD GRISM SPECTROSCOPIC SURVEY WITH THE HUBBLE
+  SPACE TELESCOPE}}.
+
 \bibitem[Brammer, vanDokkum \& Coppi(2008)]{Brammer:2008gn}
 Brammer G.~B., van Dokkum P.~G., Coppi P., 2008.
 \newblock {\it ApJ}, {\bf 686(2)}, 1503.
 \newblock {\it {EAZY: A Fast, Public Photometric Redshift Code}}.
+
+\bibitem[Bridge, Carlberg \& Sullivan(2010)]{Bridge:2010ft}
+Bridge C.~R., Carlberg R.~G., Sullivan M., 2010.
+\newblock {\it ApJ}, {\bf 709(2)}, 1067.
+\newblock {\it {THE CFHTLS-DEEP CATALOG OF INTERACTING GALAXIES. I. MERGER RATE
+  EVOLUTION TO z= 1.2}}.
 
 \bibitem[Bridge {\it et~al.}(2010)]{Bridge:2010ie}
 Bridge C.~R., Teplitz H.~I., Siana B., Scarlata C., Conselice C.~J., Ferguson
@@ -164,10 +272,47 @@ Bridge C.~R., Teplitz H.~I., Siana B., Scarlata C., Conselice C.~J., Ferguson
 \newblock {\it {A SPECTROSCOPIC SEARCH FOR LEAKING LYMAN CONTINUUM AT z∼
   0.7}}.
 
+\bibitem[Bromm(2013)]{Bromm:2013dk}
+Bromm V., 2013.
+\newblock {\it Rep. Prog. Phys.}, {\bf 76(11)}, 112901.
+\newblock {\it {Formation of the first stars}}.
+
 \bibitem[Bruzual \& Charlot(2003)]{Bruzual:2003ckb}
 Bruzual G., Charlot S., 2003.
 \newblock {\it MNRAS}, {\bf 344(4)}, 1000.
 \newblock {\it {Stellar population synthesis at the resolution of 2003}}.
+
+\bibitem[Buat {\it et~al.}(2012)]{Buat:2012ku}
+Buat V., Noll S., Burgarella D., Giovannoli E., Charmandaris V., Pannella M.,
+  Hwang H.~S., Elbaz D., Dickinson M., Magdis G., Reddy N., Murphy E.~J., 2012.
+\newblock {\it A{\&}A}, {\bf 545}, A141.
+\newblock {\it {GOODS- Herschel: dust attenuation properties of UV selected
+  high redshift galaxies}}.
+
+\bibitem[Bundy {\it et~al.}(2009)]{Bundy:2009jw}
+Bundy K., Fukugita M., Ellis R.~S., Targett T.~A., Belli S., Kodama T., 2009.
+\newblock {\it ApJ}, {\bf 697(2)}, 1369.
+\newblock {\it {THE GREATER IMPACT OF MERGERS ON THE GROWTH OF MASSIVE
+  GALAXIES: IMPLICATIONS FOR MASS ASSEMBLY AND EVOLUTION SINCE z≃ 1}}.
+
+\bibitem[Bunker {\it et~al.}(2003)]{Bunker:2003hc}
+Bunker A.~J., Stanway E.~R., Ellis R.~S., McMahon R.~G., McCarthy P.~J., 2003.
+\newblock {\it MNRAS}, {\bf 342(3)}, L47.
+\newblock {\it {A star-forming galaxy at z= 5.78 in the ChandraDeep Field
+  South}}.
+
+\bibitem[Bunker {\it et~al.}(2010)]{Bunker:2010gx}
+Bunker A.~J., Wilkins S.~M., Ellis R.~S., Stark D.~P., Lorenzoni S., Chiu K.,
+  Lacy M., Jarvis M.~J., Hickey S., 2010.
+\newblock {\it MNRAS}, {\bf 409(2)}, 855.
+\newblock {\it {The contribution of high-redshift galaxies to cosmic
+  reionization: new results from deep WFC3 imaging of the Hubble Ultra Deep
+  Field}}.
+
+\bibitem[Burles, Nollett \& Turner(2001)]{Burles:2001kr}
+Burles S., Nollett K.~M., Turner M.~S., 2001.
+\newblock {\it ApJ}, {\bf 552(1)}, L1.
+\newblock {\it {Big Bang Nucleosynthesis Predictions for Precision Cosmology}}.
 
 \bibitem[Calzetti {\it et~al.}(2000)]{2000ApJ...533..682C}
 Calzetti D., Armus L., Bohlin R.~C., Kinney A.~L., Koornneef J.,
@@ -207,6 +352,16 @@ Caputi K.~I., Cirasuolo M., Dunlop J.~S., McLure R.~J., Farrah D., Almaini O.,
 \newblock {\it {The stellar mass function of the most-massive galaxies at 3
   ≤z }}.
 
+\bibitem[Castellano {\it et~al.}(2010)]{2010A&A...524A..28C}
+Castellano M., Fontana A., Paris D., Grazian A., Pentericci L., Boutsia K.,
+  Santini P., Testa V., Dickinson M., Giavalisco M., Bouwens R., Cuby J.~G.,
+  Mannucci F., Cl{\'e}ment B., Cristiani S., Fiore F., Gallozzi S., Giallongo
+  E., Maiolino R., Menci N., Moorwood A., Nonino M., Renzini A., Rosati P.,
+  Salimbeni S., Vanzella E., 2010.
+\newblock {\it A{\&}A}, {\bf 524}, 28.
+\newblock {\it {The bright end of the z ~ 7 UV luminosity function from a wide
+  and deep HAWK-I survey}}.
+
 \bibitem[Castellano {\it et~al.}(2014)]{Castellano:2014db}
 Castellano M., Sommariva V., Fontana A., Pentericci L., Santini P., Grazian A.,
   Amorin R., Donley J.~L., Dunlop J.~S., Ferguson H.~C., Fiore F., Galametz A.,
@@ -221,11 +376,26 @@ Chabrier G., 2003.
 \newblock {\it PUBL ASTRON SOC PAC}, {\bf 115(809)}, 763.
 \newblock {\it {Galactic Stellar and Substellar Initial Mass Function}}.
 
+\bibitem[Charlot \& Fall(2000)]{2000ApJ...539..718C}
+Charlot S., Fall S.~M., 2000.
+\newblock {\it ApJ}, {\bf 539(2)}, 718.
+\newblock {\it {A Simple Model for the Absorption of Starlight by Dust in
+  Galaxies}}.
+
 \bibitem[Ciardi {\it et~al.}(2012)]{Ciardi:2012hl}
 Ciardi B., Bolton J.~S., Maselli A., Graziani L., 2012.
 \newblock {\it MNRAS}, {\bf 423(1)}, 558.
 \newblock {\it {The effect of intergalactic helium on hydrogen reionization:
   implications for the sources of ionizing photons at z>6}}.
+
+\bibitem[Cirasuolo {\it et~al.}(2007)]{Cirasuolo:2007bz}
+Cirasuolo M., McLure R.~J., Dunlop J.~S., Almaini O., Foucaud S., Smail I.,
+  Sekiguchi K., Simpson C., Eales S., Dye S., Watson M.~G., Page M.~J., Hirst
+  P., 2007.
+\newblock {\it MNRAS}, {\bf 380(2)}, 585.
+\newblock {\it {The evolution of the near-infrared galaxy luminosity function
+  and colour bimodality up to z = 2 from the UKIDSS Ultra Deep Survey Early
+  Data Release}}.
 
 \bibitem[Coe, Bradley \& Zitrin(2014)]{Coe:2014tq}
 Coe D., Bradley L., Zitrin A., 2014.
@@ -240,6 +410,12 @@ Coe D., Zitrin A., Carrasco M., Shu X., Zheng W., Postman M., Bradley L.,
 \newblock {\it ApJ}, {\bf 762(1)}, 32.
 \newblock {\it {CLASH: THREE STRONGLY LENSED IMAGES OF A CANDIDATE z≈ 11
   GALAXY}}.
+
+\bibitem[Collister \& Lahav(2004)]{Collister:2004fx}
+Collister A.~A., Lahav O., 2004.
+\newblock {\it PUBL ASTRON SOC PAC}, {\bf 116(818)}, 345.
+\newblock {\it {ANN z: Estimating Photometric Redshifts Using Artificial Neural
+  Networks}}.
 
 \bibitem[Conroy \& Kratter(2012)]{Conroy:2012fc}
 Conroy C., Kratter K.~M., 2012.
@@ -274,11 +450,71 @@ Conroy C., 2013.
 \newblock {\it {Modeling the Panchromatic Spectral Energy Distributions of
   Galaxies}}.
 
+\bibitem[Conselice \& Arnold(2009)]{2009MNRAS.397..208C}
+Conselice C.~J., Arnold J., 2009.
+\newblock {\it MNRAS}, {\bf 397(1)}, 208.
+\newblock {\it {The structures of distant galaxies - II. Diverse galaxy
+  structures and local environments at z = 4-6 implications for early galaxy
+  assembly}}.
+
+\bibitem[Conselice {\it et~al.}(2003)]{Conselice:2003jz}
+Conselice C.~J., Bershady M.~A., Dickinson M., Papovich C., 2003.
+\newblock {\it The Astronomical Journal}, {\bf 126(3)}, 1183.
+\newblock {\it {A Direct Measurement of Major Galaxy Mergers at z3}}.
+
+\bibitem[Conselice {\it et~al.}(2011)]{Conselice:2011ia}
+Conselice C.~J., Bluck A. F.~L., Buitrago F., Bauer A.~E., Gruetzbauch R.,
+  Bouwens R.~J., Bevan S., Mortlock A., Dickinson M., Daddi E., Yan H.-J.,
+  Scott D., Chapman S.~C., Chary R.-R., Ferguson H.~C., Giavalisco M., Grogin
+  N.~A., Illingworth G.~D., Jogee S., Koekemoer A.~M., Lucas R.~A., Mobasher
+  B., Moustakas L.~A., Papovich C., Ravindranath S., Siana B., Teplitz H.~I.,
+  Trujillo I., Urry M., Weinzirl T., 2011.
+\newblock {\it MNRAS}, {\bf 413(1)}, 80.
+\newblock {\it {The Hubble Space Telescope GOODS NICMOS Survey: overview and
+  the evolution of massive galaxies at 1.5}}.
+
+\bibitem[Conselice, Rajgor \& Myers(2008)]{Conselice:2008de}
+Conselice C.~J., Rajgor S., Myers R., 2008.
+\newblock {\it MNRAS}, {\bf 386(2)}, 909.
+\newblock {\it {The structures of distant galaxies -- I. Galaxy structures and
+  the merger rate to z ∼ 3 in the Hubble Ultra-Deep Field}}.
+
+\bibitem[Conselice, Yang \& Bluck(2009)]{Conselice:2009fe}
+Conselice C.~J., Yang C., Bluck A. F.~L., 2009.
+\newblock {\it MNRAS}, {\bf 394(4)}, 1956.
+\newblock {\it {The structures of distant galaxies - III. The merger history of
+  over 20 000 massive galaxies at z}}.
+
+\bibitem[Conselice(2009)]{Conselice:2009bi}
+Conselice C.~J., 2009.
+\newblock {\it MNRAS: Letters}, {\bf 399(1)}, L16.
+\newblock {\it {The structures of distant galaxies - IV. A new empirical
+  measurement of the time-scale for galaxy mergers - implications for the
+  merger history}}.
+
+\bibitem[Conselice(2014)]{Conselice:2014ct}
+Conselice C.~J., 2014.
+\newblock {\it ANNU REV ASTRON ASTR}, {\bf 52(1)}, 291.
+\newblock {\it {The Evolution of Galaxy Structure Over Cosmic Time}}.
+
 \bibitem[Cooke {\it et~al.}(2014)]{Cooke:2014dd}
 Cooke J., Ryan-Weber E.~V., Garel T., D{\'\i}az C.~G., 2014.
 \newblock {\it MNRAS}, {\bf 441}, 837.
 \newblock {\it {Lyman-continuum galaxies and the escape fraction of Lyman-break
   galaxies}}.
+
+\bibitem[Cowie \& Hu(1998)]{Cowie:1998dt}
+Cowie L.~L., Hu E.~M., 1998.
+\newblock {\it The Astronomical Journal}, {\bf 115(4)}, 1319.
+\newblock {\it {High-[CLC][ITAL]z[/ITAL][/CLC] L[CLC]y[/CLC]$\alpha$ Emitters.
+  I. A Blank-Field Search for Objects near Redshift [CLC][ITAL]z[/ITAL][/CLC] =
+  3.4 in and around the Hubble Deep Field and the Hawaii Deep Field SSA 22}}.
+
+\bibitem[Cowie {\it et~al.}(1996)]{Cowie:1996fb}
+Cowie L.~L., Songaila A., Hu E.~M., Cohen J.~G., 1996.
+\newblock {\it The Astronomical Journal}, {\bf 112}, 839.
+\newblock {\it {New Insight on Galaxy Formation and Evolution From Keck
+  Spectroscopy of the Hawaii Deep Fields}}.
 
 \bibitem[Croton {\it et~al.}(2006)]{Croton:2006ew}
 Croton D.~J., Springel V., White S. D.~M., De~Lucia G., Frenk C.~S., Gao L.,
@@ -356,6 +592,16 @@ De~Breuck C., Williams R.~J., Swinbank M., Caselli P., Coppin K., Davis T.~A.,
 \newblock {\it {ALMA resolves turbulent, rotating [CII] emission in a young
   starburst galaxy at z= 4.8}}.
 
+\bibitem[De~Lucia {\it et~al.}(2006)]{DeLucia:2006gl}
+De~Lucia G., Springel V., White S. D.~M., Croton D., Kauffmann G., 2006.
+\newblock {\it MNRAS}, {\bf 366(2)}, 499.
+\newblock {\it {The formation history of elliptical galaxies}}.
+
+\bibitem[de~Vaucouleurs(1959)]{deVaucouleurs:1959vq}
+de~Vaucouleurs G., 1959.
+\newblock {\it Handbuch der Physik}, {\bf 53}, 275.
+\newblock {\it {Classification and Morphology of External Galaxies.}}
+
 \bibitem[deBarros, Schaerer \& Stark(2012)]{deBarros:2012wa}
 de~Barros S., Schaerer D., Stark D.~P., 2012.
 \newblock {\it eprint arXiv:12073663}.
@@ -396,6 +642,11 @@ Duncan K., Conselice C.~J., Mortlock A., Hartley W.~G., Guo Y., Ferguson H.~C.,
 \newblock {\it {The mass evolution of the first galaxies: stellar mass
   functions and star formation rates at 4 }}.
 
+\bibitem[Dunlop, Cirasuolo \& McLure(2007)]{Dunlop:2007fo}
+Dunlop J.~S., Cirasuolo M., McLure R.~J., 2007.
+\newblock {\it MNRAS}, {\bf 376(3)}, 1054.
+\newblock {\it {A systematic search for very massive galaxies at z > 4}}.
+
 \bibitem[Dunlop {\it et~al.}(2011)]{Dunlop:2011jl}
 Dunlop J.~S., McLure R.~J., Robertson B.~E., Ellis R.~S., Stark D.~P.,
   Cirasuolo M., de~Ravel L., 2011.
@@ -424,12 +675,38 @@ Eales S., 1993.
 \newblock {\it {Direct construction of the galaxy luminosity function as a
   function of redshift}}.
 
+\bibitem[Efron(1979)]{Efron:1979uf}
+Efron B., 1979.
+\newblock {\it The annals of statistics}.
+\newblock {\it {Bootstrap methods: another look at the jackknife}}.
+
+\bibitem[Efron(1981)]{EFRON:HJ2mD4hg}
+Efron B., 1981.
+\newblock {\it Biometrika}, {\bf 68(3)}, 589.
+\newblock {\it {Nonparametric estimates of standard error: the jackknife, the
+  bootstrap and other methods}}.
+
 \bibitem[Ekstr{\"o}m {\it et~al.}(2012)]{Ekstrom:2012ke}
 Ekstr{\"o}m S., Georgy C., Eggenberger P., Meynet G., Mowlavi N., Wyttenbach
   A., Granada A., Decressin T., Hirschi R., Frischknecht U., Charbonnel C.,
   Maeder A., 2012.
 \newblock {\it A{\&}A}, {\bf 537}, A146.
 \newblock {\it {Grids of stellar models with rotation}}.
+
+\bibitem[Elbaz {\it et~al.}(2011)]{Elbaz:2011ix}
+Elbaz D., Dickinson M., Hwang H.~S., D{\'\i}az-Santos T., Magdis G., Magnelli
+  B., Le~Borgne D., Galliano F., Pannella M., Chanial P., Armus L.,
+  Charmandaris V., Daddi E., Aussel H., Popesso P., Kartaltepe J., Altieri B.,
+  Valtchanov I., Coia D., Dannerbauer H., Dasyra K., Leiton R., Mazzarella J.,
+  Alexander D.~M., Buat V., Burgarella D., Chary R.-R., Gilli R., Ivison R.~J.,
+  Juneau S., Le~Floc'h E., Lutz D., Morrison G.~E., Mullaney J.~R., Murphy E.,
+  Pope A., Scott D., Brodwin M., Calzetti D., Cesarsky C., Charlot S., Dole H.,
+  Eisenhardt P., Ferguson H.~C., F{\"o}rster~Schreiber N., Frayer D.,
+  Giavalisco M., Huynh M., Koekemoer A.~M., Papovich C., Reddy N., Surace C.,
+  Teplitz H.~I., Yun M.~S., Wilson G., 2011.
+\newblock {\it A{\&}A}, {\bf 533}, A119.
+\newblock {\it {GOODS-- Herschel: an infrared main sequence for star-forming
+  galaxies}}.
 
 \bibitem[Eldridge \& Stanway(2009)]{Eldridge:2009bi}
 Eldridge J.~J., Stanway E.~R., 2009.
@@ -512,6 +789,13 @@ Ferreras I., Barbera F.~L., Rosa I. G. d.~l., Vazdekis A., Carvalho R. R.~d.,
 \newblock {\it {Systematic variation of the stellar initial mass function with
   velocity dispersion in early-type galaxies}}.
 
+\bibitem[Finkelstein {\it et~al.}(2010)]{Finkelstein:2010fw}
+Finkelstein S.~L., Papovich C., Giavalisco M., Reddy N.~A., Ferguson H.~C.,
+  Koekemoer A.~M., Dickinson M., 2010.
+\newblock {\it ApJ}, {\bf 719(2)}, 1250.
+\newblock {\it {ON THE STELLAR POPULATIONS AND EVOLUTION OF STAR-FORMING
+  GALAXIES AT 6.3 }}.
+
 \bibitem[Finkelstein {\it et~al.}(2012a)]{Finkelstein:2012hr}
 Finkelstein S.~L., Papovich C., Ryan R.~E., Pawlik A.~H., Dickinson M.,
   Ferguson H.~C., Finlator K., Koekemoer A.~M., Giavalisco M., Cooray A.~R.,
@@ -570,6 +854,11 @@ Fontanot F., Cristiani S., Pfrommer C., Cupani G., Vanzella E., 2014.
 \newblock {\it MNRAS}, {\bf 438(3)}, 2097.
 \newblock {\it {On the evolution of the cosmic ionizing background}}.
 
+\bibitem[Foreman-Mackey {\it et~al.}(2013)]{ForemanMackey:2013io}
+Foreman-Mackey D., Hogg D.~W., Lang D., Goodman J., 2013.
+\newblock {\it PUBL ASTRON SOC PAC}, {\bf 125(925)}, 306.
+\newblock {\it {emcee: The MCMC Hammer}}.
+
 \bibitem[F{\"o}rster~Schreiber {\it et~al.}(2009)]{ForsterSchreiber:2009hm}
 F{\"o}rster~Schreiber N.~M., Genzel R., Bouch{\'e} N., Cresci G., Davies R.,
   Buschkamp P., Shapiro K., Tacconi L.~J., Hicks E. K.~S., Genel S., Shapley
@@ -580,6 +869,27 @@ F{\"o}rster~Schreiber N.~M., Genzel R., Bouch{\'e} N., Cresci G., Davies R.,
 \newblock {\it ApJ}, {\bf 706(2)}, 1364.
 \newblock {\it {THE SINS SURVEY: SINFONI INTEGRAL FIELD SPECTROSCOPY OF z∼ 2
   STAR-FORMING GALAXIES}}.
+
+\bibitem[Franx {\it et~al.}(2003)]{Franx:2003cx}
+Franx M., Labb I., Rudnick G., van Dokkum P.~G., Daddi E., Frster~Schreiber
+  N.~M., Moorwood A., Rix H.-W., Rttgering H., van~de Wel A., van~der Werf P.,
+  van Starkenburg L., 2003.
+\newblock {\it ApJ}, {\bf 587(2)}, L79.
+\newblock {\it {A Significant Population of Red, Near-Infrared-selected
+  High-Redshift Galaxies}}.
+
+\bibitem[Galametz {\it et~al.}(2013)]{Galametz:2013dd}
+Galametz A., Grazian A., Fontana A., Ferguson H.~C., Ashby M. L.~N., Barro G.,
+  Castellano M., Dahlen T., Donley J.~L., Faber S.~M., Grogin N., Guo Y., Huang
+  K.-H., Kocevski D.~D., Koekemoer A.~M., Lee K.-S., McGrath E.~J., Peth M.,
+  Willner S.~P., Almaini O., Cooper M., Cooray A.~R., Conselice C.~J.,
+  Dickinson M., Dunlop J.~S., Fazio G.~G., Foucaud S., Gardner J.~P.,
+  Giavalisco M., Hathi N.~P., Hartley W.~G., Koo D.~C., Lai K., de~Mello D.~F.,
+  McLure R.~J., Lucas R.~A., Paris D., Pentericci L., Santini P., Simpson C.,
+  Sommariva V., Targett T., Weiner B.~J., Wuyts S., {the CANDELS team}, 2013.
+\newblock {\it ApJS}, {\bf 206(2)}, 10.
+\newblock {\it {CANDELS MULTIWAVELENGTH CATALOGS: SOURCE IDENTIFICATION AND
+  PHOTOMETRY IN THE CANDELS UKIDSS ULTRA-DEEP SURVEY FIELD}}.
 
 \bibitem[Giallongo {\it et~al.}(2002)]{Giallongo:2002hi}
 Giallongo E., Cristiani S., D'Odorico S., Fontana A., 2002.
@@ -718,6 +1028,23 @@ Hagele G.~F., Perez-Montero E., Diaz A.~I., Terlevich E., Terlevich R., 2006.
 \newblock {\it {The temperature and ionization structure of the emitting gas in
   H II galaxies: implications for the accuracy of abundance determinations}}.
 
+\bibitem[Haislip {\it et~al.}(2006)]{Haislip:2006gx}
+Haislip J.~B., Nysewander M.~C., Reichart D.~E., Levan A., Tanvir N., Cenko
+  S.~B., Fox D.~B., Price P.~A., Castro-Tirado A.~J., Gorosabel J., Evans
+  C.~R., Figueredo E., MacLeod C.~L., Kirschbrown J.~R., Jelinek M., Guziy S.,
+  Postigo A. d.~U., Cypriano E.~S., LaCluyze A., Graham J., Priddey R., Chapman
+  R., Rhoads J., Fruchter A.~S., Lamb D.~Q., Kouveliotou C., Wijers R. A.
+  M.~J., Bayliss M.~B., Schmidt B.~P., Soderberg A.~M., Kulkarni S.~R.,
+  Harrison F.~A., Moon D.~S., Gal-Yam A., Kasliwal M.~M., Hudec R., Vitek S.,
+  Kubanek P., Crain J.~A., Foster A.~C., Clemens J.~C., Bartelme J.~W.,
+  Canterna R., Hartmann D.~H., Henden A.~A., Klose S., Park H.~S., Williams
+  G.~G., Rol E., O'Brien P., Bersier D., Prada F., Pizarro S., Maturana D.,
+  Ugarte P., Alvarez A., Fernandez A. J.~M., Jarvis M.~J., Moles M., Alfaro E.,
+  Ivarsen K.~M., Kumar N.~D., Mack C.~E., Zdarowicz C.~M., Gehrels N.,
+  Barthelmy S., Burrows D.~N., 2006.
+\newblock {\it Nature}, {\bf 440(7081)}, 181.
+\newblock {\it {A photometric redshift of z = 6.39 $\pm$ 0.12 for GRB 050904}}.
+
 \bibitem[Hathi {\it et~al.}(2007)]{Hathi:2007fh}
 Hathi N.~P., Jansen R.~A., Windhorst R.~A., Cohen S.~H., Keel W.~C., Corbin
   M.~R., Ryan, Jr R.~E., 2007.
@@ -730,12 +1057,30 @@ Hathi N.~P., Malhotra S., Rhoads J.~E., 2008.
 \newblock {\it ApJ}, {\bf 673(2)}, 686.
 \newblock {\it {Starburst Intensity Limit of Galaxies at z5- 6}}.
 
+\bibitem[Hauser \& Dwek(2001)]{Hauser:2001fs}
+Hauser M.~G., Dwek E., 2001.
+\newblock {\it ANNU REV ASTRON ASTR}, {\bf 39(1)}, 249.
+\newblock {\it {The Cosmic Infrared Background: Measurements and Implications
+  1}}.
+
 \bibitem[Heckman {\it et~al.}(2011)]{Heckman:2011ju}
 Heckman T.~M., Borthakur S., Overzier R., Kauffmann G., Basu-Zych A., Leitherer
   C., Sembach K., Martin D.~C., Rich R.~M., Schiminovich D., Seibert M., 2011.
 \newblock {\it ApJ}, {\bf 730(1)}, 5.
 \newblock {\it {EXTREME FEEDBACK AND THE EPOCH OF REIONIZATION: CLUES IN THE
   LOCAL UNIVERSE}}.
+
+\bibitem[Henriques {\it et~al.}(2012)]{Henriques:2012gsa}
+Henriques B. M.~B., White S. D.~M., Lemson G., Thomas P.~A., Guo Q., Marleau
+  G.-D., Overzier R.~A., 2012.
+\newblock {\it MNRAS}, {\bf 421(4)}, 2904.
+\newblock {\it {Confronting theoretical models with the observed evolution of
+  the galaxy population out to z= 4}}.
+
+\bibitem[Hildebrandt, Wolf \& Benitez(2008)]{Hildebrandt:2008jh}
+Hildebrandt H., Wolf C., Benitez N., 2008.
+\newblock {\it A{\&}A}, {\bf 480(3)}, 703.
+\newblock {\it {A blind test of photometric redshifts on ground-based data}}.
 
 \bibitem[Hinshaw {\it et~al.}(2013)]{Hinshaw:2013dd}
 Hinshaw G., Larson D., Komatsu E., Spergel D.~N., Bennett C.~L., Dunkley J.,
@@ -746,11 +1091,61 @@ Hinshaw G., Larson D., Komatsu E., Spergel D.~N., Bennett C.~L., Dunkley J.,
 \newblock {\it {NINE-YEAR WILKINSON MICROWAVE ANISOTROPY PROBE( WMAP)
   OBSERVATIONS: COSMOLOGICAL PARAMETER RESULTS}}.
 
+\bibitem[Hopkins \& Beacom(2006)]{Hopkins:2006bq}
+Hopkins A.~M., Beacom J.~F., 2006.
+\newblock {\it ApJ}, {\bf 651(1)}, 142.
+\newblock {\it {On the Normalization of the Cosmic Star Formation History}}.
+
+\bibitem[Hopkins {\it et~al.}(2008a)]{Hopkins:2008ip}
+Hopkins P.~F., Cox T.~J., Keres D., Hernquist L., 2008a.
+\newblock {\it ApJS}, {\bf 175(2)}, 390.
+\newblock {\it {A Cosmological Framework for the Co‐evolution of Quasars,
+  Supermassive Black Holes, and Elliptical Galaxies. II. Formation of Red
+  Ellipticals}}.
+
+\bibitem[Hopkins {\it et~al.}(2008b)]{Hopkins:2008gr}
+Hopkins P.~F., Hernquist L., Cox T.~J., Keres D., 2008b.
+\newblock {\it ApJS}, {\bf 175(2)}, 356.
+\newblock {\it {A Cosmological Framework for the Co‐evolution of Quasars,
+  Supermassive Black Holes, and Elliptical Galaxies. I. Galaxy Mergers and
+  Quasar Activity}}.
+
+\bibitem[Hopkins {\it et~al.}(2010)]{Hopkins:2010ip}
+Hopkins P.~F., Croton D., Bundy K., Khochfar S., van~den Bosch F., Somerville
+  R.~S., Wetzel A., Keres D., Hernquist L., Stewart K., Younger J.~D., Genel
+  S., Ma C.-P., 2010.
+\newblock {\it ApJ}, {\bf 724(2)}, 915.
+\newblock {\it {MERGERS IN $\Lambda$CDM: UNCERTAINTIES IN THEORETICAL
+  PREDICTIONS AND INTERPRETATIONS OF THE MERGER RATE}}.
+
+\bibitem[Hopkins(2004)]{Hopkins:2004eu}
+Hopkins A.~M., 2004.
+\newblock {\it ApJ}, {\bf 615(1)}, 209.
+\newblock {\it {On the Evolution of Star‐forming Galaxies}}.
+
+\bibitem[Hu \& McMahon(1996)]{Hu:1996eq}
+Hu E.~M., McMahon R.~G., 1996.
+\newblock {\it Nature}, {\bf 382(6588)}, 231.
+\newblock {\it {Detection of Lyman-$\alpha$-emitting galaxies at redshift
+  4.55}}.
+
+\bibitem[Hu(1998)]{Hu:1998uh}
+Hu E.~M., 1998.
+\newblock {\it The Young Universe: Galaxy Formation and Evolution at
+  Intermediate and High Redshift}, {\bf 146}, 148.
+\newblock {\it {Pushing Back Studies of Galaxies Toward the Dark Ages:
+  High-Redshift Ly-alpha Emission-Line Galaxies in the Field}}.
+
 \bibitem[Huang {\it et~al.}(2013)]{Huang:2013kb}
 Huang K.-H., Ferguson H.~C., Ravindranath S., Su J., 2013.
 \newblock {\it ApJ}, {\bf 765(1)}, 68.
 \newblock {\it {THE BIVARIATE SIZE-LUMINOSITY RELATIONS FOR LYMAN BREAK
   GALAXIES AT z∼ 4-5}}.
+
+\bibitem[Hubble(1926)]{Hubble:1926be}
+Hubble E.~P., 1926.
+\newblock {\it ApJ}, {\bf 64}, 321.
+\newblock {\it {Extragalactic nebulae.}}
 
 \bibitem[Ilbert {\it et~al.}(2005)]{2005A&A...439..863I}
 Ilbert O., Tresse L., Zucca E., Bardelli S., Arnouts S., Zamorani G., Pozzetti
@@ -764,6 +1159,17 @@ Ilbert O., Tresse L., Zucca E., Bardelli S., Arnouts S., Zamorani G., Pozzetti
 \newblock {\it A{\&}A}, {\bf 439(3)}, 863.
 \newblock {\it {The VIMOS-VLT deep survey. Evolution of the galaxy luminosity
   function up to z = 2 in first epoch data}}.
+
+\bibitem[Ilbert {\it et~al.}(2013)]{Ilbert:2013dq}
+Ilbert O., McCracken H.~J., Le~F{\`e}vre O., Capak P., Dunlop J., Karim A.,
+  Renzini M.~A., Caputi K., Boissier S., Arnouts S., Aussel H., Comparat J.,
+  Guo Q., Hudelot P., Kartaltepe J., Kneib J.~P., Krogager J.~K., Le~Floc'h E.,
+  Lilly S., Mellier Y., Milvang-Jensen B., Moutard T., Onodera M., Richard J.,
+  Salvato M., Sanders D.~B., Scoville N., Silverman J.~D., Taniguchi Y., Tasca
+  L., Thomas R., Toft S., Tresse L., Vergani D., Wolk M., Zirm A., 2013.
+\newblock {\it A{\&}A}, {\bf 556}, A55.
+\newblock {\it {Mass assembly in quiescent and star-forming galaxies since z≃
+  4 from UltraVISTA}}.
 
 \bibitem[Iwata {\it et~al.}(2009)]{Iwata:2009dy}
 Iwata I., Inoue A.~K., Matsuda Y., Furusawa H., Hayashino T., Kousai K.,
@@ -784,10 +1190,48 @@ Izotov Y.~I., Thuan T.~X., Lipovetsky V.~A., 1994.
 \newblock {\it {The primordial helium abundance from a new sample of
   metal-deficient blue compact galaxies}}.
 
+\bibitem[Jarvis {\it et~al.}(2012)]{Jarvis:2012hr}
+Jarvis M.~J., Bonfield D.~G., Bruce V.~A., Geach J.~E., McAlpine K., McLure
+  R.~J., Gonzalez-Solares E., Irwin M., Lewis J., Yoldas A.~K., Andreon S.,
+  Cross N. J.~G., Emerson J.~P., Dalton G., Dunlop J.~S., Hodgkin S.~T., Le
+  F.~O., Karouzos M., Meisenheimer K., Oliver S., Rawlings S., Simpson C.,
+  Smail I., Smith D. J.~B., Sullivan M., Sutherland W., White S.~V., Zwart J.
+  T.~L., 2012.
+\newblock {\it MNRAS}, {\bf 428(2)}, 1281.
+\newblock {\it {The VISTA Deep Extragalactic Observations (VIDEO) survey}}.
+
+\bibitem[Jogee {\it et~al.}(2009)]{Jogee:2009iz}
+Jogee S., Miller S.~H., Penner K., Skelton R.~E., Conselice C.~J., Somerville
+  R.~S., Bell E.~F., Zheng X.~Z., Rix H.-W., Robaina A.~R., Barazza F.~D.,
+  Barden M., Borch A., Beckwith S. V.~W., Caldwell J. A.~R., Peng C.~Y.,
+  Heymans C., McIntosh D.~H., H{\"a}ussler B., Jahnke K., Meisenheimer K.,
+  Sanchez S.~F., Wisotzki L., Wolf C., Papovich C., 2009.
+\newblock {\it ApJ}, {\bf 697(2)}, 1971.
+\newblock {\it {HISTORY OF GALAXY INTERACTIONS AND THEIR IMPACT ON STAR
+  FORMATION OVER THE LAST 7 Gyr FROM GEMS}}.
+
 \bibitem[Jones, Stark \& Ellis(2012)]{Jones:2012kn}
 Jones T., Stark D.~P., Ellis R.~S., 2012.
 \newblock {\it ApJ}, {\bf 751(1)}, 51.
 \newblock {\it {KECK SPECTROSCOPY OF FAINT 3 }}.
+
+\bibitem[Kartaltepe {\it et~al.}(2007)]{Kartaltepe:2007dv}
+Kartaltepe J.~S., Sanders D.~B., Scoville N.~Z., Calzetti D., Capak P.,
+  Koekemoer A., Mobasher B., Murayama T., Salvato M., Sasaki S.~S., Taniguchi
+  Y., 2007.
+\newblock {\it ApJS}, {\bf 172(1)}, 320.
+\newblock {\it {Evolution of the Frequency of Luminous Close Galaxy Pairs at
+  z}}.
+
+\bibitem[Kawai {\it et~al.}(2006)]{Kawai:2006kk}
+Kawai N., Kosugi G., Aoki K., Yamada T., Totani T., Ohta K., Iye M., Hattori
+  T., Aoki W., Furusawa H., Hurley K., Kawabata K.~S., Kobayashi N., Komiyama
+  Y., Mizumoto Y., Nomoto K., Noumaru J., Ogasawara R., Sato R., Sekiguchi K.,
+  Shirasaki Y., Suzuki M., Takata T., Tamagawa T., Terada H., Watanabe J.,
+  Yatsu Y., Yoshida A., 2006.
+\newblock {\it Nature}, {\bf 440(7081)}, 184.
+\newblock {\it {An optical spectrum of the afterglow of a $\gamma$-ray burst at
+  a redshift of z = 6.295}}.
 
 \bibitem[Kennicutt(1998)]{KennicuttJr:1998id}
 Kennicutt, Jr R.~C., 1998.
@@ -799,6 +1243,12 @@ Kimm T., Cen R., 2014.
 \newblock {\it ApJ}, {\bf 788(2)}, 121.
 \newblock {\it {ESCAPE FRACTION OF IONIZING PHOTONS DURING REIONIZATION:
   EFFECTS DUE TO SUPERNOVA FEEDBACK AND RUNAWAY OB STARS}}.
+
+\bibitem[Kitzbichler \& White(2008)]{Kitzbichler:2008gi}
+Kitzbichler M.~G., White S. D.~M., 2008.
+\newblock {\it MNRAS}, {\bf 391(4)}, 1489.
+\newblock {\it {A calibration of the relation between the abundance of close
+  galaxy pairs and the rate of galaxy mergers}}.
 
 \bibitem[Koekemoer {\it et~al.}(2011)]{Koekemoer:2011br}
 Koekemoer A.~M., Faber S.~M., Ferguson H.~C., Grogin N.~A., Kocevski D.~D., Koo
@@ -836,6 +1286,12 @@ Koekemoer A.~M., Ellis R.~S., McLure R.~J., Dunlop J.~S., Robertson B.~E., Ono
 \newblock {\it ApJS}, {\bf 209(1)}, 3.
 \newblock {\it {THE 2012 HUBBLE ULTRA DEEP FIELD (UDF12): OBSERVATIONAL
   OVERVIEW}}.
+
+\bibitem[Kriek \& Conroy(2013)]{Kriek:2013kx}
+Kriek M., Conroy C., 2013.
+\newblock {\it ApJ}, {\bf 775(1)}, L16.
+\newblock {\it {THE DUST ATTENUATION LAW IN DISTANT GALAXIES: EVIDENCE FOR
+  VARIATION WITH SPECTRAL TYPE}}.
 
 \bibitem[Kriek {\it et~al.}(2014)]{Kriek:2014uw}
 Kriek M., Shapley A.~E., Reddy N.~A., Siana B., Coil A.~L., Mobasher B.,
@@ -893,6 +1349,23 @@ Laskar T., Berger E., Chary R.-R., 2011.
 \newblock {\it {EXPLORING THE GALAXY MASS−METALLICITY RELATION AT z∼
   3−5}}.
 
+\bibitem[Lawrence {\it et~al.}(2007)]{Lawrence:2007hu}
+Lawrence A., Warren S.~J., Almaini O., Edge A.~C., Hambly N.~C., Jameson R.~F.,
+  Lucas P., Casali M., Adamson A., Dye S., Emerson J.~P., Foucaud S., Hewett
+  P., Hirst P., Hodgkin S.~T., Irwin M.~J., Lodieu N., McMahon R.~G., Simpson
+  C., Smail I., Mortlock D., Folger M., 2007.
+\newblock {\it MNRAS}, {\bf 379(4)}, 1599.
+\newblock {\it {The UKIRT Infrared Deep Sky Survey (UKIDSS)}}.
+
+\bibitem[Le~F{\`e}vre {\it et~al.}(2000)]{LeFevre:2000iq}
+Le~F{\`e}vre O., Abraham R., Lilly S.~J., Ellis R.~S., Brinchmann J., Schade
+  D., Tresse L., Colless M., Crampton D., Glazebrook K., Hammer F., Broadhurst
+  T., 2000.
+\newblock {\it MNRAS}, {\bf 311(3)}, 565.
+\newblock {\it {Hubble Space Telescope imaging of the CFRS and LDSS redshift
+  surveys--IV. Influence of mergers in the evolution of faint field galaxies
+  from z 1}}.
+
 \bibitem[Le~F{\`e}vre {\it et~al.}(2004)]{LeFvre:2004ge}
 Le~F{\`e}vre O., Vettolani G., Paltani S., Tresse L., Zamorani G., Le~Brun V.,
   Moreau C., Bottini D., Maccagni D., Picat J.~P., Scaramella R., Scodeggio M.,
@@ -947,12 +1420,63 @@ Leitherer C., Ekstr{\"o}m S., Meynet G., Schaerer D., Agienko K.~B., Levesque
 \newblock {\it {THE EFFECTS OF STELLAR ROTATION. II. A COMPREHENSIVE SET OF
   STARBURST99 MODELS}}.
 
+\bibitem[Lin {\it et~al.}(2004)]{Lin:2004ki}
+Lin L., Koo D.~C., Willmer C. N.~A., Patton D.~R., Conselice C.~J., Yan R.,
+  Coil A.~L., Cooper M.~C., Davis M., Faber S.~M., Gerke B.~F., Guhathakurta
+  P., Newman J.~A., 2004.
+\newblock {\it ApJ}, {\bf 617(1)}, L9.
+\newblock {\it {The DEEP2 Galaxy Redshift Survey: Evolution of Close Galaxy
+  Pairs and Major-Merger Rates up to z~ 1.2}}.
+
+\bibitem[L{\'o}pez-Sanjuan {\it et~al.}(2010)]{LopezSanjuan:2010cz}
+L{\'o}pez-Sanjuan C., Balcells M., P{\'e}rez-Gonz{\'a}lez P.~G., Barro G.,
+  Gallego J., Zamorano J., 2010.
+\newblock {\it A{\&}A}, {\bf 518}, A20.
+\newblock {\it {Spectro-photometric close pairs in GOODS-S: major and minor
+  companions of intermediate-mass galaxies}}.
+
+\bibitem[L{\'o}pez-Sanjuan {\it et~al.}(2015)]{LopezSanjuan:2014uj}
+L{\'o}pez-Sanjuan C., Cenarro A.~J., Varela J., Viironen K., Molino A., Benitez
+  N., Arnalte-Mur P., Ascaso B., D{\'\i}az-Garc{\'\i}a L.~A.,
+  Fern{\'a}ndez-Soto A., Jimenez-Teja Y., M{\'a}rquez I., Masegosa J., Moles
+  M., Povi{\'c} M., Aguerri J. A.~L., Alfaro E., Aparicio-Villegas T.,
+  Broadhurst T., Cabrera-Ca{\~n}o J., Castander J.~F., Cepa J., Cervi{\~n}o M.,
+  Crist{\'o}bal-Hornillos D., Del~Olmo A., Delgado R. M.~G., Husillos C.,
+  Infante L., Mart{\'\i}nez V.~J., Perea J., Prada F., Quintana J.~M., 2015.
+\newblock {\it A{\&}A}, {\bf 576}, A53.
+\newblock {\it {The ALHAMBRA survey: accurate merger fractions derived by PDF
+  analysis of photometrically close pairs}}.
+
 \bibitem[Lorenzoni {\it et~al.}(2011)]{Lorenzoni:2011iz}
 Lorenzoni S., Bunker A.~J., Wilkins S.~M., Stanway E.~R., Jarvis M.~J., Caruana
   J., 2011.
 \newblock {\it MNRAS}, {\bf 414(2)}, 1455.
 \newblock {\it {Star-forming galaxies at z≈ 8-9 from Hubble Space
   Telescope/WFC3: implications for reionization}}.
+
+\bibitem[Lotz {\it et~al.}(2008)]{Lotz:2008kr}
+Lotz J.~M., Jonsson P., Cox T.~J., Primack J.~R., 2008.
+\newblock {\it MNRAS}, {\bf 391(3)}, 1137.
+\newblock {\it {Galaxy merger morphologies and time-scales from simulations of
+  equal-mass gas-rich disc mergers}}.
+
+\bibitem[Lotz {\it et~al.}(2010a)]{Lotz:2010ie}
+Lotz J.~M., Jonsson P., Cox T.~J., Primack J.~R., 2010a.
+\newblock {\it MNRAS}, {\bf 404(2)}, 575.
+\newblock {\it {The effect of mass ratio on the morphology and time-scales of
+  disc galaxy mergers}}.
+
+\bibitem[Lotz {\it et~al.}(2010b)]{Lotz:2010hf}
+Lotz J.~M., Jonsson P., Cox T.~J., Primack J.~R., 2010b.
+\newblock {\it MNRAS}, {\bf 404(2)}, 590.
+\newblock {\it {The effect of gas fraction on the morphology and time-scales of
+  disc galaxy mergers}}.
+
+\bibitem[Lotz {\it et~al.}(2011)]{Lotz:2011bu}
+Lotz J.~M., Jonsson P., Cox T.~J., Croton D., Primack J.~R., Somerville R.~S.,
+  Stewart K., 2011.
+\newblock {\it ApJ}, {\bf 742(2)}, 103.
+\newblock {\it {THE MAJOR AND MINOR GALAXY MERGER RATES AT z}}.
 
 \bibitem[Lu {\it et~al.}(2011)]{Lu:2011hj}
 Lu Y., Mo H.~J., Weinberg M.~D., Katz N., 2011.
@@ -967,6 +1491,14 @@ Lu Y., Wechsler R.~H., Somerville R.~S., Croton D., Porter L., Primack J.,
 \newblock {\it arXiv:1312.3233}.
 \newblock {\it {A Comparison between Semi-Analytic Model Predictions for the
   CANDELS Survey}}.
+
+\bibitem[Lu {\it et~al.}(2014)]{Lu:2014kl}
+Lu Y., Wechsler R.~H., Somerville R.~S., Croton D., Porter L., Primack J.,
+  Behroozi P.~S., Ferguson H.~C., Koo D.~C., Guo Y., Safarzadeh M., Finlator
+  K., Castellano M., White C.~E., Sommariva V., Moody C., 2014.
+\newblock {\it ApJ}, {\bf 795(2)}, 123.
+\newblock {\it {SEMI-ANALYTIC MODELS FOR THE CANDELS SURVEY: COMPARISON OF
+  PREDICTIONS FOR INTRINSIC GALAXY PROPERTIES}}.
 
 \bibitem[Madau {\it et~al.}(1996)]{1996MNRAS.283.1388M}
 Madau P., Ferguson H.~C., Dickinson M.~E., Giavalisco M., Steidel C.~C.,
@@ -1002,6 +1534,11 @@ Maiolino R., Nagao T., Grazian A., Cocchia F., Marconi A., Mannucci F., Cimatti
 \newblock {\it A{\&}A}, {\bf 488(2)}, 463.
 \newblock {\it {AMAZE}}.
 
+\bibitem[Man {\it et~al.}(2011)]{Man:2011jo}
+Man A. W.~S., Toft S., Zirm A.~W., Wuyts S., van~der Wel A., 2011.
+\newblock {\it ApJ}, {\bf 744(2)}, 85.
+\newblock {\it {THE PAIR FRACTION OF MASSIVE GALAXIES AT 0 ⩽ z⩽ 3}}.
+
 \bibitem[Maraston {\it et~al.}(2010)]{Maraston:2010dl}
 Maraston C., Pforr J., Renzini A., Daddi E., Dickinson M., Cimatti A., Tonini
   C., 2010.
@@ -1029,6 +1566,14 @@ Mart{\'\i}n-Navarro I., P{\'e}rez-Gonz{\'a}lez P.~G., Trujillo I., Esquej P.,
   Ferreras I., Espino N., La~Barbera F., 2014.
 \newblock {\it {The stellar initial mass function at z>1}}.
 
+\bibitem[McCracken {\it et~al.}(2012)]{McCracken:2012gd}
+McCracken H.~J., Milvang-Jensen B., Dunlop J., Franx M., Fynbo J. P.~U.,
+  Le~F{\`e}vre O., Holt J., Caputi K.~I., Goranova Y., Buitrago F., Emerson
+  J.~P., Freudling W., Hudelot P., L{\'o}pez-Sanjuan C., Magnard F., Mellier
+  Y., M{\o}ller P., Nilsson K.~K., Sutherland W., Tasca L., Zabl J., 2012.
+\newblock {\it A{\&}A}, {\bf 544}, A156.
+\newblock {\it {UltraVISTA: a new ultra-deep near-infrared survey in COSMOS}}.
+
 \bibitem[McLeod {\it et~al.}(2014)]{McLeod:2014wz}
 McLeod D.~J., McLure R.~J., Dunlop J.~S., Robertson B.~E., Ellis R.~S., Targett
   T.~T., 2014.
@@ -1036,11 +1581,25 @@ McLeod D.~J., McLure R.~J., Dunlop J.~S., Robertson B.~E., Ellis R.~S., Targett
 \newblock {\it {New redshift z ~ 9 galaxies in the Hubble Frontier Fields:
   Implications for early evolution of the UV luminosity density}}.
 
+\bibitem[McLure {\it et~al.}(2006)]{McLure:2006fg}
+McLure R.~J., Cirasuolo M., Dunlop J.~S., Sekiguchi K., Almaini O., Foucaud S.,
+  Simpson C., Watson M.~G., Hirst P., Page M.~J., Smail I., 2006.
+\newblock {\it MNRAS}, {\bf 372(1)}, 357.
+\newblock {\it {The discovery of a significant sample of massive galaxies at
+  redshifts 5 }}.
+
 \bibitem[McLure {\it et~al.}(2009)]{2009MNRAS.395.2196M}
 McLure R.~J., Cirasuolo M., Dunlop J.~S., Foucaud S., Almaini O., 2009.
 \newblock {\it MNRAS}, {\bf 395(4)}, 2196.
 \newblock {\it {The luminosity function, halo masses and stellar masses of
   luminous Lyman-break galaxies at redshifts 5 }}.
+
+\bibitem[McLure {\it et~al.}(2010)]{McLure:2010hq}
+McLure R.~J., Dunlop J.~S., Cirasuolo M., Koekemoer A.~M., Sabbi E., Stark
+  D.~P., Targett T.~A., Ellis R.~S., 2010.
+\newblock {\it MNRAS}, {\bf 403(2)}, 960.
+\newblock {\it {Galaxies at z= 6-9 from the WFC3/IR imaging of the Hubble Ultra
+  Deep Field}}.
 
 \bibitem[McLure {\it et~al.}(2011)]{2011MNRAS.418.2074M}
 McLure R.~J., Dunlop J.~S., de~Ravel L., Cirasuolo M., Ellis R.~S., Schenker
@@ -1057,11 +1616,47 @@ McLure R.~J., Dunlop J.~S., Bowler R. A.~A., Curtis-Lake E., Schenker M., Ellis
 \newblock {\it {A new multifield determination of the galaxy luminosity
   function at z = 7-9 incorporating the 2012 Hubble Ultra-Deep Field imaging}}.
 
+\bibitem[Meier(1976)]{Meier:1976ch}
+Meier D.~L., 1976.
+\newblock {\it ApJ}, {\bf 203}, L103.
+\newblock {\it {Have primeval galaxies been detected}}.
+
 \bibitem[Meurer, Heckman \& Calzetti(1999)]{Meurer:1999jm}
 Meurer G.~R., Heckman T.~M., Calzetti D., 1999.
 \newblock {\it ApJ}, {\bf 521(1)}, 64.
 \newblock {\it {Dust Absorption and the Ultraviolet Luminosity Density at
   z ≈ 3 as Calibrated by Local Starburst Galaxies}}.
+
+\bibitem[Molino {\it et~al.}(2014)]{Molino:2014iz}
+Molino A., Benitez N., Moles M., Fern{\'a}ndez-Soto A., Crist{\'o}bal-Hornillos
+  D., Ascaso B., Jimenez-Teja Y., Schoenell W., Arnalte-Mur P., Povi M., Coe
+  D., L{\'o}pez-Sanjuan C., D{\'\i}az-Garc{\'\i}a L.~A., Varela J., Stefanon
+  M., Cenarro J., Matute I., Masegosa J., M{\'a}rquez I., Perea J., Del~Olmo
+  A., Husillos C., Alfaro E., Aparicio-Villegas T., Cervi{\~n}o M.,
+  Huertas-Company M., Aguerri J. A.~L., Broadhurst T., Cabrera-Ca{\~n}o J.,
+  Cepa J., Gonzalez R.~M., Infante L., Mart{\'\i}nez V.~J., Prada F., Quintana
+  J.~M., 2014.
+\newblock {\it MNRAS}, {\bf 441(4)}, 2891.
+\newblock {\it {The ALHAMBRA Survey: Bayesian photometric redshifts with 23
+  bands for 3 deg2}}.
+
+\bibitem[Mortlock {\it et~al.}(2013)]{Mortlock:2013dg}
+Mortlock A., Conselice C.~J., Hartley W.~G., Ownsworth J.~R., Lani C., Bluck A.
+  F.~L., Almaini O., Duncan K., Wel A. v.~d., Koekemoer A.~M., Dekel A.,
+  Dav{\'e} R., Ferguson H.~C., de~Mello D.~F., Newman J.~A., Faber S.~M.,
+  Grogin N.~A., Kocevski D.~D., Lai K., 2013.
+\newblock {\it MNRAS}, {\bf 433(2)}, 1185.
+\newblock {\it {The redshift and mass dependence on the formation of the Hubble
+  sequence at z > 1 from CANDELS/UDS}}.
+
+\bibitem[Mortlock {\it et~al.}(2014)]{Mortlock:2014et}
+Mortlock A., Conselice C.~J., Hartley W.~G., Duncan K., Lani C., Ownsworth
+  J.~R., Almaini O., van~der Wel A., Huang K.-H., Ashby M. L.~N., Willner
+  S.~P., Fontana A., Dekel A., Koekemoer A.~M., Ferguson H.~C., Faber S.~M.,
+  Grogin N.~A., Kocevski D.~D., 2014.
+\newblock {\it MNRAS}, {\bf 447(1)}, 2.
+\newblock {\it {Deconstructing the galaxy stellar mass function with UKIDSS and
+  CANDELS: the impact of colour, structure and environment}}.
 
 \bibitem[Moster {\it et~al.}(2011)]{Moster:2011ip}
 Moster B.~P., Somerville R.~S., Newman J.~A., Rix H.-W., 2011.
@@ -1122,6 +1717,13 @@ Oesch P.~A., Bouwens R.~J., Carollo C.~M., Illingworth G.~D., Trenti M.,
 \newblock {\it {Structure and Morphologies of z ~ 7-8 Galaxies from Ultra-deep
   WFC3/IR Imaging of the Hubble Ultra-deep Field}}.
 
+\bibitem[Oesch {\it et~al.}(2012)]{2012ApJ...759..135O}
+Oesch P.~A., Bouwens R.~J., Illingworth G.~D., Gonz{\'a}lez V., Trenti M., van
+  Dokkum P.~G., Franx M., Labb{\'e} I., Carollo C.~M., Magee D., 2012.
+\newblock {\it ApJ}, {\bf 759(2)}, 135.
+\newblock {\it {The Bright End of the Ultraviolet Luminosity Function at z ~ 8:
+  New Constraints from CANDELS Data in GOODS-South}}.
+
 \bibitem[Oesch {\it et~al.}(2013)]{Oesch:2013eb}
 Oesch P.~A., Labb{\'e} I., Bouwens R.~J., Illingworth G.~D., Gonz{\'a}lez V.,
   Franx M., Trenti M., Holden B.~P., van Dokkum P.~G., Magee D., 2013.
@@ -1151,6 +1753,11 @@ Ono Y., Shimasaku K., Dunlop J., Farrah D., McLure R., Okamura S., 2010.
   CONSTRAINTS ON THE ESCAPE FRACTION OF IONIZING PHOTONS FROM GALAXY BUILDING
   BLOCKS}}.
 
+\bibitem[Osterbrock \& Ferland(2006)]{Osterbrock:2006ula}
+Osterbrock D.~E., Ferland G.~J., 2006.
+\newblock {\it {Astrophysics of Gaseous Nebulae and Active Galactic Nuclei}},
+  University Science Books.
+
 \bibitem[Ota {\it et~al.}(2014)]{Ota:2014du}
 Ota K., Walter F., Ohta K., Hatsukade B., Carilli C.~L., da~Cunha E.,
   Gonz{\'a}lez-L{\'o}pez J., Decarli R., Hodge J.~A., Nagai H., Egami E., Jiang
@@ -1175,6 +1782,19 @@ Ouchi M., Ellis R., Ono Y., Nakanishi K., Kohno K., Momose R., Kurono Y., Ashby
 \newblock {\it {An Intensely Star-forming Galaxy at z ~ 7 with Low Dust and
   Metal Content Revealed by Deep ALMA and HST Observations}}.
 
+\bibitem[Ownsworth {\it et~al.}(2014)]{Ownsworth:2014gt}
+Ownsworth J.~R., Conselice C.~J., Mortlock A., Hartley W.~G., Almaini O.,
+  Duncan K., Mundy C.~J., 2014.
+\newblock {\it MNRAS}, {\bf 445(3)}, 2198.
+\newblock {\it {Minor versus major mergers: the stellar mass growth of massive
+  galaxies from z = 3 using number density selection techniques}}.
+
+\bibitem[Pacifici {\it et~al.}(2012)]{Pacifici:2012fr}
+Pacifici C., Charlot S., Blaizot J., Brinchmann J., 2012.
+\newblock {\it MNRAS}, {\bf 421(3)}, 2002.
+\newblock {\it {Relative merits of different types of rest-frame optical
+  observations to constrain galaxy physical parameters}}.
+
 \bibitem[Papovich {\it et~al.}(2011)]{2011MNRAS.412.1123P}
 Papovich C., Finkelstein S.~L., Ferguson H.~C., Lotz J.~M., Giavalisco M.,
   2011.
@@ -1187,6 +1807,14 @@ Partridge R.~B., Peebles P. J.~E., 1967.
 \newblock {\it ApJ}, {\bf 147}, 868.
 \newblock {\it {Are Young Galaxies Visible?}}
 
+\bibitem[Patton {\it et~al.}(2000)]{Patton:2000kt}
+Patton D.~R., Carlberg R.~G., Marzke R.~O., Pritchet C.~J., da~Costa L.~N.,
+  Pellegrini P.~S., 2000.
+\newblock {\it ApJ}, {\bf 536(1)}, 153.
+\newblock {\it {New Techniques for Relating Dynamically Close Galaxy Pairs to
+  Merger and Accretion Rates: Application to the Second Southern Sky Redshift
+  Survey}}.
+
 \bibitem[Pawlik, Schaye \& vanScherpenzeel(2009)]{Pawlik:2009id}
 Pawlik A.~H., Schaye J., van Scherpenzeel E., 2009.
 \newblock {\it MNRAS}, {\bf 394(4)}, 1812.
@@ -1198,6 +1826,22 @@ Pei Y.~C., 1992.
 \newblock {\it ApJ}, {\bf 395}, 130.
 \newblock {\it {Interstellar dust from the Milky Way to the Magellanic
   Clouds}}.
+
+\bibitem[Peng {\it et~al.}(2010)]{Peng:2010gn}
+Peng Y.-j., Lilly S.~J., Kova{\v c} K., Bolzonella M., Pozzetti L., Renzini A.,
+  Zamorani G., Ilbert O., Knobel C., Iovino A., Maier C., Cucciati O., Tasca
+  L., Carollo C.~M., Silverman J., Kampczyk P., de~Ravel L., Sanders D.,
+  Scoville N., Contini T., Mainieri V., Scodeggio M., Kneib J.-P., Le~F{\`e}vre
+  O., Bardelli S., Bongiorno A., Caputi K., Coppa G., de~la Torre S., Franzetti
+  P., Garilli B., Lamareille F., Le~Borgne J.-F., Le~Brun V., Mignoli M.,
+  Montero E.~P., Pello R., Ricciardelli E., Tanaka M., Tresse L., Vergani D.,
+  Welikala N., Zucca E., Oesch P.~A., Abbas U., Barnes L., Bordoloi R., Bottini
+  D., Cappi A., Cassata P., Cimatti A., Fumana M., Hasinger G., Koekemoer A.,
+  Leauthaud A., Maccagni D., Marinoni C., McCracken H., Memeo P., Meneux B.,
+  Nair P., Porciani C., Presotto V., Scaramella R., 2010.
+\newblock {\it ApJ}, {\bf 721(1)}, 193.
+\newblock {\it {MASS AND ENVIRONMENT AS DRIVERS OF GALAXY EVOLUTION IN SDSS AND
+  zCOSMOS AND THE ORIGIN OF THE SCHECHTER FUNCTION}}.
 
 \bibitem[Penzias \& Wilson(1965)]{Penzias:1965es}
 Penzias A.~A., Wilson R.~W., 1965.
@@ -1212,6 +1856,18 @@ P{\'e}rez~Gonz{\'a}lez P.~G., Rieke G.~H., Villar V., Barro G., Blaylock M.,
 \newblock {\it {The Stellar Mass Assembly of Galaxies from z= 0 to z= 4:
   Analysis of a Sample Selected in the Rest‐Frame Near‐Infrared with
   Spitzer}}.
+
+\bibitem[P{\'e}rez~Gonz{\'a}lez {\it et~al.}(2012)]{PerezGonzalez:2012fo}
+P{\'e}rez~Gonz{\'a}lez P.~G., Cava A., Barro G., Villar V., Cardiel N.,
+  Ferreras I., Rodr{\'\i}guez-Espinosa J.~M., Alonso-Herrero A., Balcells M.,
+  Cenarro J., Cepa J., Charlot S., Cimatti A., Conselice C.~J., Daddi E.,
+  Donley J., Elbaz D., Espino N., Gallego J., Gobat R.,
+  Gonz{\'a}lez-Mart{\'\i}n O., Guzm{\'a}n R., Hern{\'a}n-Caballero A.,
+  Mu{\~n}oz-Tu{\~n}{\'o}n C., Renzini A., Rodr{\'\i}guez-Zaur{\'\i}n J., Tresse
+  L., Trujillo I., Zamorano J., 2012.
+\newblock {\it ApJ}, {\bf 762(1)}, 46.
+\newblock {\it {SHARDS: AN OPTICAL SPECTRO-PHOTOMETRIC SURVEY OF DISTANT
+  GALAXIES}}.
 
 \bibitem[Pirzkal {\it et~al.}(2012)]{2012ApJ...748..122P}
 Pirzkal N., Rothberg B., Nilsson K.~K., Finkelstein S., Koekemoer A., Malhotra
@@ -1254,6 +1910,21 @@ Popesso P., Dickinson M., Nonino M., Vanzella E., Daddi E., Fosbury R. A.~E.,
   A., GOODS~Team t., 2009.
 \newblock {\it A{\&}A}, {\bf 494(2)}, 443.
 \newblock {\it {The great observatories origins deep survey}}.
+
+\bibitem[Pozzetti {\it et~al.}(2010)]{Pozzetti:2010gw}
+Pozzetti L., Bolzonella M., Zucca E., Zamorani G., Lilly S., Renzini A.,
+  Moresco M., Mignoli M., Cassata P., Tasca L., Lamareille F., Maier C., Meneux
+  B., Halliday C., Oesch P.~A., Vergani D., Caputi K., Kova{\v c} K., Cimatti
+  A., Cucciati O., Iovino A., Peng Y., Carollo M., Contini T., Kneib J.~P.,
+  Le~F{\`e}vre O., Mainieri V., Scodeggio M., Bardelli S., Bongiorno A., Coppa
+  G., de~la Torre S., de~Ravel L., Franzetti P., Garilli B., Kampczyk P.,
+  Knobel C., Le~Borgne J.~F., Le~Brun V., Pello R., Perez-Montero E.,
+  Ricciardelli E., Silverman J.~D., Tanaka M., Tresse L., Abbas U., Bottini D.,
+  Cappi A., Guzzo L., Koekemoer A.~M., Leauthaud A., Maccagni D., Marinoni C.,
+  McCracken H.~J., Memeo P., Porciani C., Scaramella R., Scarlata C., Scoville
+  N., 2010.
+\newblock {\it A{\&}A}, {\bf 523}, A13.
+\newblock {\it {zCOSMOS -- 10k-bright spectroscopic sample}}.
 
 \bibitem[Ravindranath {\it et~al.}(2006)]{Ravindranath:2006ie}
 Ravindranath S., Giavalisco M., Ferguson H.~C., Conselice C., Katz N., Weinberg
@@ -1330,6 +2001,11 @@ Robertson B.~E., Ellis R.~S., Furlanetto S.~R., Dunlop J.~S., 2015.
 \newblock {\it {Cosmic Reionization and Early Star-Forming Galaxies: A Joint
   Analysis of New Constraints from Planck and Hubble Space Telescope}}.
 
+\bibitem[Robson {\it et~al.}(2004)]{Robson:2004gu}
+Robson I., Priddey R.~S., Isaak K.~G., McMahon R.~G., 2004.
+\newblock {\it MNRAS}, {\bf 351(2)}, L29.
+\newblock {\it {Submillimetre observations of z > 6 quasars}}.
+
 \bibitem[Rodriguez~Espinosa {\it et~al.}(2014)]{RodriguezEspinosa:2014cs}
 Rodriguez~Espinosa J.~M., Gonzalez-Martin O., Castro~Rodriguez N.,
   P{\'e}rez-Gonz{\'a}lez P.~G., Mas-Hesse J.~M., Munoz-Tunon C., Cava A.,
@@ -1357,6 +2033,12 @@ Rowlands K., Gomez H.~L., Dunne L., Aragon-Salamanca A., Dye S., Maddox S.,
 \newblock {\it MNRAS}, {\bf 441(2)}, 1040.
 \newblock {\it {The dust budget crisis in high-redshift submillimetre
   galaxies}}.
+
+\bibitem[Ryan {\it et~al.}(2008)]{RyanJr:2008ka}
+Ryan, Jr R.~E., Cohen S.~H., Windhorst R.~A., Silk J., 2008.
+\newblock {\it ApJ}, {\bf 678(2)}, 751.
+\newblock {\it {Galaxy Mergers at z ≳ 1 in the HUDF: Evidence for a Peak in
+  the Major Merger Rate of Massive Galaxies1}}.
 
 \bibitem[Salmon {\it et~al.}(2014)]{Salmon:2014tm}
 Salmon B., Papovich C., Finkelstein S.~L., Tilvi V., Finlator K., Behroozi P.,
@@ -1417,6 +2099,24 @@ Schaerer D., Boone F., Zamojski M., Staguhn J., Dessauges-Zavadsky M.,
 \newblock {\it {New constraints on dust emission and UV attenuation of
   z=6.5-7.5 galaxies from IRAM and ALMA observations}}.
 
+\bibitem[Schawinski {\it et~al.}(2014)]{Schawinski:2014ep}
+Schawinski K., Urry C.~M., Simmons B.~D., Fortson L., Kaviraj S., Keel W.~C.,
+  Lintott C.~J., Masters K.~L., Nichol R.~C., Sarzi M., Skibba R., Treister E.,
+  Willett K.~W., Wong O.~I., Yi S.~K., 2014.
+\newblock {\it MNRAS}, {\bf 440(1)}, 889.
+\newblock {\it {The green valley is a red herring: Galaxy Zoo reveals two
+  evolutionary pathways towards quenching of star formation in early- and
+  late-type galaxies}}.
+
+\bibitem[Schaye {\it et~al.}(2014)]{Schaye:2014gk}
+Schaye J., Crain R.~A., Bower R.~G., Furlong M., Schaller M., Theuns T.,
+  Dalla~Vecchia C., Frenk C.~S., McCarthy I.~G., Helly J.~C., Jenkins A.,
+  Rosas-Guevara Y.~M., White S. D.~M., Baes M., Booth C.~M., Camps P., Navarro
+  J.~F., Qu Y., Rahmati A., Sawala T., Thomas P.~A., Trayford J., 2014.
+\newblock {\it MNRAS}, {\bf 446(1)}, 521.
+\newblock {\it {The EAGLE project: simulating the evolution and assembly of
+  galaxies and their environments}}.
+
 \bibitem[Schechter(1976)]{Schechter:1976gl}
 Schechter P., 1976.
 \newblock {\it ApJ}, {\bf 203}, 297.
@@ -1449,6 +2149,11 @@ Schmidt M., 1968.
 \newblock {\it ApJ}, {\bf 151}, 394.
 \newblock {\it {Space Distribution and Luminosity Functions of Quasi-Stellar
   Radio Sources}}.
+
+\bibitem[Schwarz(1978)]{Schwarz:1978uv}
+Schwarz G., 1978.
+\newblock {\it The annals of statistics}, {\bf 6(2)}, 461.
+\newblock {\it {Estimating the dimension of a model}}.
 
 \bibitem[Shapley {\it et~al.}(2006)]{Shapley:2006cq}
 Shapley A.~E., Steidel C.~C., Pettini M., Adelberger K.~L., Erb D.~K., 2006.
@@ -1531,6 +2236,12 @@ Spitler L.~R., Straatman C. M.~S., Labb{\'e} I., Glazebrook K., Tran K.-V.~H.,
 \newblock {\it {EXPLORING THE z= 3-4 MASSIVE GALAXY POPULATION WITH ZFOURGE:
   THE PREVALENCE OF DUSTY AND QUIESCENT GALAXIES}}.
 
+\bibitem[Springel, Di~Matteo \& Hernquist(2005)]{Springel:2005co}
+Springel V., Di~Matteo T., Hernquist L., 2005.
+\newblock {\it MNRAS}, {\bf 361(3)}, 776.
+\newblock {\it {Modelling feedback from stars and black holes in galaxy
+  mergers}}.
+
 \bibitem[Stanway, Bunker \& McMahon(2003)]{Stanway:2003fx}
 Stanway E.~R., Bunker A.~J., McMahon R.~G., 2003.
 \newblock {\it MNRAS}, {\bf 342(2)}, 439.
@@ -1592,16 +2303,53 @@ Steidel C.~C., Hamilton D., 1992.
 \newblock {\it {Deep imaging of high redshift QSO fields below the Lyman limit.
   I - The field of Q0000-263 and galaxies at Z = 3.4}}.
 
+\bibitem[Steidel {\it et~al.}(1996)]{Steidel:1996jd}
+Steidel C.~C., Giavalisco M., Dickinson M., Adelberger K.~L., 1996.
+\newblock {\it The Astronomical Journal}, {\bf 112}, 352.
+\newblock {\it {Spectroscopy of Lyman Break Galaxies in the Hubble Deep
+  Field}}.
+
 \bibitem[Steidel {\it et~al.}(1999)]{1999ApJ...519....1S}
 Steidel C.~C., Adelberger K.~L., Giavalisco M., Dickinson M., Pettini M., 1999.
 \newblock {\it ApJ}, {\bf 519(1)}, 1.
 \newblock {\it {Lyman-Break Galaxies at z>~4 and the Evolution of the
   Ultraviolet Luminosity Density at High Redshift}}.
 
+\bibitem[Steidel, Pettini \& Hamilton(1995)]{Steidel:1995kx}
+Steidel C.~C., Pettini M., Hamilton D., 1995.
+\newblock {\it The Astronomical Journal}, {\bf 110}, 2519.
+\newblock {\it {Lyman Imaging of High-Redshift Galaxies.III.New Observations of
+  Four QSO Fields}}.
+
 \bibitem[Strukov {\it et~al.}(1992)]{Strukov:1992ua}
 Strukov I.~A., Brukhanov A.~A., Skulachev D.~P., Sazhin M.~V., 1992.
 \newblock {\it MNRAS}, {\bf 258}, 37P.
 \newblock {\it {The Relikt-1 experiment - New results}}.
+
+\bibitem[Tanvir {\it et~al.}(2009)]{Tanvir:2009gq}
+Tanvir N.~R., Fox D.~B., Levan A.~J., Berger E., Wiersema K., Fynbo J. P.~U.,
+  Cucchiara A., Kr{\"u}hler T., Gehrels N., Bloom J.~S., Greiner J., Evans
+  P.~A., Rol E., Olivares F., Hjorth J., Jakobsson P., Farihi J., Willingale
+  R., Starling R. L.~C., Cenko S.~B., Perley D., Maund J.~R., Duke J., Wijers
+  R. A. M.~J., Adamson A.~J., Allan A., Bremer M.~N., Burrows D.~N.,
+  Castro-Tirado A.~J., Cavanagh B., de~Ugarte~Postigo A., Dopita M.~A.,
+  Fatkhullin T.~A., Fruchter A.~S., Foley R.~J., Gorosabel J., Kennea J., Kerr
+  T., Klose S., Krimm H.~A., Komarova V.~N., Kulkarni S.~R., Moskvitin A.~S.,
+  Mundell C.~G., Naylor T., Page K., Penprase B.~E., Perri M., Podsiadlowski
+  P., Roth K., Rutledge R.~E., Sakamoto T., Schady P., Schmidt B.~P., Soderberg
+  A.~M., Sollerman J., Stephens A.~W., Stratta G., Ukwatta T.~N., Watson D.,
+  Westra E., Wold T., Wolf C., 2009.
+\newblock {\it Nature}, {\bf 461(7268)}, 1254.
+\newblock {\it {A $\gamma$-ray burst at a redshift of z ≈ 8.2}}.
+
+\bibitem[Tasca {\it et~al.}(2014)]{Tasca:2014gz}
+Tasca L. A.~M., Le~F{\`e}vre O., L{\'o}pez-Sanjuan C., Wang P.~W., Cassata P.,
+  Garilli B., Ilbert O., Le~Brun V., Lemaux B.~C., Maccagni D., Tresse L.,
+  Bardelli S., Contini T., Charlot S., Cucciati O., Fontana A., Giavalisco M.,
+  Kneib J.~P., Salvato M., Taniguchi Y., Vergani D., Zamorani G., Zucca E.,
+  2014.
+\newblock {\it A{\&}A}, {\bf 565}, A10.
+\newblock {\it {Evidence for major mergers of galaxies at 2 ≲ z}}.
 
 \bibitem[Teplitz {\it et~al.}(2013)]{Teplitz:2013jg}
 Teplitz H.~I., Rafelski M., Kurczynski P., Bond N.~A., Grogin N., Koekemoer
@@ -1625,6 +2373,14 @@ Thompson R.~I., 2003.
 \newblock {\it {Star Formation History and Other Properties of the Northern
   Hubble Deep Field}}.
 
+\bibitem[Torrey {\it et~al.}(2015)]{Torrey:2015kx}
+Torrey P., Snyder G.~F., Vogelsberger M., Hayward C.~C., Genel S., Sijacki D.,
+  Springel V., Hernquist L., Nelson D., Kriek M., Pillepich A., Sales L.~V.,
+  McBride C.~K., 2015.
+\newblock {\it MNRAS}, {\bf 447(3)}, 2753.
+\newblock {\it {Synthetic galaxy images and spectra from the Illustris
+  simulation}}.
+
 \bibitem[Treu {\it et~al.}(2010)]{Treu:2010kf}
 Treu T., Auger M.~W., Koopmans L. V.~E., Gavazzi R., Marshall P.~J., Bolton
   A.~S., 2010.
@@ -1638,6 +2394,14 @@ Troncoso P., Maiolino R., Sommariva V., Cresci G., Mannucci F., Marconi A.,
 \newblock {\it A{\&}A}, {\bf 563}, A58.
 \newblock {\it {Metallicity evolution, metallicity gradients, and gas fractions
   at z~ 3.4}}.
+
+\bibitem[van Dokkum {\it et~al.}(2003)]{vanDokkum:2003bl}
+van Dokkum P.~G., Frster~Schreiber N.~M., Franx M., Daddi E., Illingworth
+  G.~D., Labb I., Moorwood A., Rix H.-W., Rttgering H., Rudnick G., van~der Wel
+  A., van~der Werf P., van Starkenburg L., 2003.
+\newblock {\it ApJ}, {\bf 587(2)}, L83.
+\newblock {\it {Spectroscopic Confirmation of a Substantial Population of
+  Luminous Red Galaxies at Redshifts z2}}.
 
 \bibitem[vanDokkum \& Conroy(2010)]{vanDokkum:2010ha}
 van Dokkum P.~G., Conroy C., 2010.
@@ -1671,6 +2435,20 @@ Vanzella E., Siana B., Cristiani S., Nonino M., 2010.
 Vazquez G.~A., Leitherer C., Schaerer D., Meynet G., Maeder A., 2007.
 \newblock {\it ApJ}, {\bf 663(2)}, 995.
 \newblock {\it {Models for Massive Stellar Populations with Rotation}}.
+
+\bibitem[Vogelsberger {\it et~al.}(2014)]{Vogelsberger:2014gw}
+Vogelsberger M., Genel S., Springel V., Torrey P., Sijacki D., Xu D., Snyder
+  G., Nelson D., Hernquist L., 2014.
+\newblock {\it MNRAS}, {\bf 444(2)}, 1518.
+\newblock {\it {Introducing the Illustris Project: simulating the coevolution
+  of dark and visible matter in the Universe}}.
+
+\bibitem[Walter {\it et~al.}(2003)]{Walter:2003ul}
+Walter F., Bertoldi F., Carilli C., Cox P., Lo K.~Y., Neri R., Fan X., Omont
+  A., Strauss M.~A., Menten K.~M., 2003.
+\newblock {\it Nature}, {\bf 424}, 406.
+\newblock {\it {Molecular gas in the host galaxy of a quasar at redshift z =
+  6.42}}.
 
 \bibitem[Weinmann, Neistein \& Dekel(2011)]{Weinmann:2011hh}
 Weinmann S.~M., Neistein E., Dekel A., 2011.

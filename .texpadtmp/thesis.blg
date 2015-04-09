@@ -2,61 +2,59 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/ken/Documents/PhD/Thesis/ThesisGit/.texpadtmp/thesis.aux
 The style file: ../style/mnras_biblist.bst
-Reallocated field_info (elt_size=4) to 11696 items from 5000.
-Database file #1: ../style/bibtex_lib.bib
+Reallocated field_info (elt_size=4) to 14396 items from 5000.
+Database file #1: ../../bibtex_lib.bib
 Warning--entry type for "Bouwens:2011tj" isn't style-file defined
---line 395 of file ../style/bibtex_lib.bib
+--line 491 of file ../../bibtex_lib.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for "Steidel:1995kx"
-Warning--I didn't find a database entry for "Steidel:1996jd"
-Warning--I didn't find a database entry for "Henriques:2012gs"
 Warning--I didn't find a database entry for "1995ApJ...441...18M"
 Warning--I didn't find a database entry for "Osterbrock:2006ul"
 Warning--I didn't find a database entry for ""
 Warning: the publisher shouldn't be empty in Bouwens:2011tj
+Warning: the journal shouldn't be empty in Bowler:2013wz
 Warning: the journal shouldn't be empty in MartinNavarro:2014wr
 Warning: the journal shouldn't be empty in Pirzkal:2013ug
 Warning: the journal shouldn't be empty in Collaboration:2015tp
 Warning: the journal shouldn't be empty in Smit:2013ud
-You've used 242 entries,
+You've used 345 entries,
             1863 wiz_defined-function locations,
-            1908 strings with 84286 characters,
-and the built_in function-call counts, 155505 in all, are:
-= -- 12896
-> -- 14696
+            2470 strings with 118651 characters,
+and the built_in function-call counts, 226300 in all, are:
+= -- 18686
+> -- 21541
 < -- 0
-+ -- 5481
-- -- 5472
-* -- 17461
-:= -- 37525
-add.period$ -- 720
-call.type$ -- 242
-change.case$ -- 2902
-chr.to.int$ -- 233
-cite$ -- 247
-duplicate$ -- 2154
-empty$ -- 4050
-format.name$ -- 5714
-if$ -- 26506
-int.to.chr$ -- 9
++ -- 8046
+- -- 8035
+* -- 25435
+:= -- 54645
+add.period$ -- 1027
+call.type$ -- 345
+change.case$ -- 4262
+chr.to.int$ -- 334
+cite$ -- 351
+duplicate$ -- 3077
+empty$ -- 5792
+format.name$ -- 8380
+if$ -- 38508
+int.to.chr$ -- 11
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 1207
-num.names$ -- 726
-pop$ -- 3086
+newline$ -- 1720
+num.names$ -- 1035
+pop$ -- 4505
 preamble$ -- 0
-purify$ -- 3144
+purify$ -- 4607
 quote$ -- 0
-skip$ -- 3611
+skip$ -- 5213
 stack$ -- 0
-substring$ -- 3289
+substring$ -- 4850
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
-top$ -- 5
+top$ -- 6
 type$ -- 0
 warning$ -- 0
-while$ -- 765
-width$ -- 248
-write$ -- 3116
-(There were 7 warnings)
+while$ -- 1090
+width$ -- 351
+write$ -- 4448
+(There were 4 warnings)

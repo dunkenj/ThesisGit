@@ -5,17 +5,24 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Short caption}}{19}
-\contentsline {table}{\numberline {2.2}{\ignorespaces Short caption}}{23}
-\contentsline {table}{\numberline {2.3}{\ignorespaces Short caption}}{46}
-\contentsline {table}{\numberline {2.4}{\ignorespaces Short caption}}{49}
-\contentsline {table}{\numberline {2.5}{\ignorespaces Short caption}}{52}
-\contentsline {table}{\numberline {2.6}{\ignorespaces Short caption}}{57}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of the stellar population model assumptions\relax }}{94}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Average sample size and variance for each redshift bin for the 500 Monte Carlo samples.}}{35}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Intrinsic magnitudes, fluxes and typical observation errors for the example galaxy and the CANDELS GOODS South region.}}{39}
+\contentsline {table}{\numberline {2.3}{\ignorespaces \citet {Schechter:1976gl} function parameters for $\chi ^2$ fits to the $1/V_{\rm {max}}$ luminosity functions.}}{65}
+\contentsline {table}{\numberline {2.4}{\ignorespaces The best-fitting slope and intercepts of the $\qopname \relax o{log}_{10} (\text {M}_{*})$-$M_{UV}$ mass-to-light relation, averaged across all Monte Carlo samples.}}{69}
+\contentsline {table}{\numberline {2.5}{\ignorespaces Schecter function parameters for $\chi ^2$ fits to the $1/V_{\rm {max}}$ mass functions.}}{72}
+\contentsline {table}{\numberline {2.6}{\ignorespaces Stellar mass densities integrated from the Schecter parameters in Table\nobreakspace {}2.5\hbox {} for $\text {M} > 10^8 \text {M}_{\odot }$.}}{79}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Estimated merger fractions from PDF analysis, as plotted in Figure\nobreakspace {}3.5\hbox {}.}}{113}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Merger rate per galaxy, $\Gamma $ in Gyr for the merger fractions presented in Table\nobreakspace {}3.1\hbox {}.}}{116}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Comoving merger rate, $\mathcal {R}$ in units of $10^{-4}\nobreakspace {}\text {Gyr}^{-1}\nobreakspace {}\text {Mpc}^{-3}$ for the merger fractions presented in Table\nobreakspace {}3.1\hbox {}.}}{119}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Bayesian Information Criterion (BIC) for the assumption of either a colour-magnitude relation or a constant $\beta $.}}{132}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Bayesian Information Criterion (BIC) for the assumption of a redshift dependent or constant $\left \delimiter "426830A \beta \right \delimiter "526930B _{\rho _{\rm {UV}}}$.}}{135}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Summary of the stellar population assumptions for our fiducial $\beta = -2$ model.\relax }}{154}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Calculated values of $\rho _{UV}$ and $\mathaccentV {dot}05F{N}_{ion}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet {Bouwens:2014tx}. For each calculated value, we include statistical errors from the uncertainties in the \citet {Schechter:1976gl} parameters and $\beta $ observations. Also shown are the effects of some of the assumptions made in Section\nobreakspace {}3.3.1\hbox {} and their corresponding systematic changes to the estimated values.\relax }}{114}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Calculated values of $\rho _{UV}$ and $\mathaccentV {dot}05F{N}_{ion}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet {Finkelstein:2014ub}. For each calculated value, we include statistical errors from the uncertainties in the \citet {Schechter:1976gl} parameters and $\beta $ observations. Also shown are the effects of some of the assumptions made in Section\nobreakspace {}3.3.1\hbox {} and their corresponding systematic changes to the estimated values.\relax }}{115}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Calculated values of $\rho _{\rm {UV}}$ and $\mathaccentV {dot}85F{N}_{\rm {ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet {Bouwens:2014tx}.}}{183}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Calculated values of $\rho _{\rm {UV}}$ and $\mathaccentV {dot}85F{N}_{\rm {ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet {Finkelstein:2014ub}.}}{184}
 \addvspace {10\p@ }

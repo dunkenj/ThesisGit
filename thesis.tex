@@ -3,21 +3,24 @@
 %%
 
 \input{texfiles/typesetting} % Look here if you want to change the look of the thesis
-\usepackage{amssymb}
-\usepackage{amsmath}
+\usepackage{amssymb,amsmath,amsfonts}
 \usepackage{mathrsfs}
 \usepackage{graphicx}
 \usepackage{pdflscape}
 \usepackage{color}
+
+\usepackage[super]{nth}
+\defcitealias{LopezSanjuan:2014uj}{LS15}	
 
 %------ALIASED COMMANDS---------------------
 
 \begin{document}
 
 \subimport{preamble/}{title}                    % title page
-\subimport{preamble/}{quote}                    % quotation and supervisor/examiners names
+\subimport{preamble/}{quote}       % quotation and supervisor/examiners names
 \dsp                                            % sets line spacing             
 \input{preamble/abstract}                       % abstract
+\input{preamble/published}
 %\subimport{preamble/}{acknow}                   % acknowledgements
 \ssp                                            % sets line spacing
 \pagenumbering{roman}                           % sets page numbering style & restarts page count
@@ -37,14 +40,17 @@
 \newpage
 \subimport{chapter/Introduction/}{Introduction}               % chapter 1
 \subimport{chapter/Chapter2/}{StellarMassFunctions}               % chapter 2
+\subimport{chapter/Chapter3/}{Mergers}               % chapter 2
+
 \subimport{chapter/Chapter4/}{reionization}               % chapter 2
 
+\subimport{chapter/Conclusions/}{Conclusions}
 
 \appendix
 \subimport{appendix/}{appendices}               % inserts blank page saying `Appendices' & line in TOC
 \newpage
 \subimport{appendix/app1/}{a1}                  % appendix 1 
-\subimport{appendix/app2/}{a2}                  % appendix 2
+%\subimport{appendix/app2/}{a2}                  % appendix 2
 %\subimport{appendix/app3/}{a3}                  % appendix 3
 %\subimport {appendix/app3/}{a4}                 % appendix 4
 
@@ -53,7 +59,7 @@
 \addcontentsline{toc}{chapter}{Bibliography}    % add bibliography to TOC
 \bibliographystyle{style/mnras_biblist}         % include paper titles
 %\bibliographystyle{style/mnras}                 % ommit paper titles
-\bibliography{style/bibtex_lib}                       % bibtex file
+\bibliography{../bibtex_lib}                       % bibtex file
 
 %\newpage
 \ssp
@@ -63,4 +69,3 @@
 %%
 %% End of file...
 %%
-
