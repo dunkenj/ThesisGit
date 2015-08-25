@@ -1,0 +1,444 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdftex 2011.7.3)  22 JUN 2015 12:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex
+(/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:1: Undefined control sequence.
+l.1 \chapter
+            [Powering reionization]{Powering reionization: assessing the gal...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:1: Undefined control sequence.
+l.1 ...y ionizing photon budget at $z < 10$}\label
+                                                  {ch:reionization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:3: Undefined control sequence.
+l.3 \section
+            {Introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:4: Undefined control sequence.
+l.4 ...n-Peterson trough of distant quasars \citep
+                                                  {2006ARA&A..44..415F}, whi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:4: Misplaced alignment tab character &.
+l.4 ...n trough of distant quasars \citep{2006ARA&
+                                                  A..44..415F}, which indica...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:6: Undefined control sequence.
+l.6 ...models of instantaneous reionization \citep
+                                                  {Hinshaw:2013dd,Bennett:20...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...luminosity function at high redshift \citep
+                                                  {Willott:2010bk,Fontanot:2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ... to the ionizing emissivity at $z>4$ \citep
+                                                  {Giallongo:2015to}. Based ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...ptical depth constraints set by WMAP \citep
+                                                  {Hinshaw:2013dd} and eithe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...d IGM emissivities at lower redshift \citep
+                                                  {Kuhlen:2012ka,Robertson:2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...missivities predicted by simulations \citep
+                                                  {Ciardi:2012hl}, several s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...voured by the recent Planck analysis \citep
+                                                  {Collaboration:2015tp}, su...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:8: Undefined control sequence.
+l.8 ...l required to satisfy these criteria \citep
+                                                  {Robertson:2015wk}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:10: Undefined control sequence.
+l.10 ...n a study of $z \sim 1.3$ galaxies, \citet
+                                                  {Siana:2010bo} searched fo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:10: Undefined control sequence.
+l.10 ...< 0.02$ after stacking all sources. \citet
+                                                  {Bridge:2010ie} find an ev...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:10: Undefined control sequence.
+l.10 ...easured for galaxies at $z \sim 3$  \citep
+                                                  {Shapley:2006cq,Iwata:2009...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:10: Undefined control sequence.
+l.10 ... determined from Ly$\alpha$ forests \citep
+                                                  {Bolton:2007gc}. Furthermo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:10: Undefined control sequence.
+l.10 ...oduced by the Lyman-break technique \citep
+                                                  {Cooke:2014dd}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 As shown in \citet
+                       {Robertson:2013ji} (see also \citeauthor{Leitherer:19...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 ...et{Robertson:2013ji} (see also \citeauthor
+                                                  {Leitherer:1999jt}~\citeye...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 ...so \citeauthor{Leitherer:1999jt}~\citeyear
+                                                  {Leitherer:1999jt}), the n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 ... UV luminosity emitted (e.g. $L_{1500\text
+                                                  {\AA}}$) can vary signific...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 ...e UV continuum slope ($\beta$, \citeauthor
+                                                  {1994ApJ...429..582C}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:14: Undefined control sequence.
+l.14 ...\citeauthor{1994ApJ...429..582C}~\citeyear
+                                                  {1994ApJ...429..582C}).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:15: Undefined control sequence.
+l.15 ...d imaging surveys such as the UDF12 \citep
+                                                  {Koekemoer:2013db} and CAN...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:15: Undefined control sequence.
+l.15 ...citep{Koekemoer:2013db} and CANDELS \citep
+                                                  {2011ApJS..197...35G,Koeke...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:15: Undefined control sequence.
+l.15 ...osity and redshift out to $z\sim 8$ \citep
+                                                  {Bouwens:2013vf,Rogers:201...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:17: Undefined control sequence.
+l.17 ...ellar mass density at high redshift \citep
+                                                  {Duncan:2014gh,Grazian:201...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:17: Undefined control sequence.
+l.17 ...the star-formation rates during EoR \citep
+                                                  {Stark:2007gi,Gonzalez:201...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:19: Undefined control sequence.
+l.19 In Section~\ref
+                    {reion-sec:link}, we outline the physics and critical pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:19: Undefined control sequence.
+l.19 ...d galaxy luminosity. Next, in Section~\ref
+                                                  {reion-sec:models}, we exp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:19: Undefined control sequence.
+l.19 ...rates and UV luminosities. In Section~\ref
+                                                  {reion-sec:results}, we ap...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:19: Undefined control sequence.
+l.19 ...mproving these constraints in Section~\ref
+                                                  {reion-sec:discussion}. Fi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:19: Undefined control sequence.
+l.19 ...r findings and conclusions in Section~\ref
+                                                  {reion-sec:summary}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:21: Undefined control sequence.
+l.21 ...nitudes are quoted in the AB system \citep
+                                                  {1983ApJ...266..713O}. We ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:23: Undefined control sequence.
+l.23 \section
+             {Linking reionization with observations}\label{reion-sec:link}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:23: Undefined control sequence.
+l.23 ...king reionization with observations}\label
+                                                  {reion-sec:link}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:24: Undefined control sequence.
+l.24 \subsection
+                {The ionizing emissivity}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:25: Undefined control sequence.
+l.25 ...nization, as initially described by \citet
+                                                  {Madau:1999kl}, outlines t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:26: Undefined control sequence.
+l.26 \begin
+           {equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \mathaccent 
+\dot ->\mathaccent 
+                   "705F 
+l.27 \dot
+         {Q}_\textsc{Hii} = \frac{\dot{N}_{\rm{ion}}}{\left \langle n_{\text...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Undefined control sequence.
+l.27 \dot{Q}_\textsc
+                    {Hii} = \frac{\dot{N}_{\rm{ion}}}{\left \langle n_{\text...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Undefined control sequence.
+l.27 \dot{Q}_\textsc{Hii} = \frac
+                                 {\dot{N}_{\rm{ion}}}{\left \langle n_{\text...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Undefined control sequence.
+l.27 ...ot{N}_{\rm{ion}}}{\left \langle n_{\textsc
+                                                  {H}} \right \rangle} - \fr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Undefined control sequence.
+l.27 ...gle n_{\textsc{H}} \right \rangle} - \frac
+                                                  {{Q}_\textsc{Hii}}{\left \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:27: Undefined control sequence.
+l.27 ...sc{H}} \right \rangle} - \frac{{Q}_\textsc
+                                                  {Hii}}{\left \langle t_{\r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/PhD/Thesis/ThesisGit/chapter/Chapter4/reionization.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \end 
+l.28 \end
+         {equation}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[2] )</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on reionization.pdf (2 pages, 77238 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

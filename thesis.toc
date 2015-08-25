@@ -1,46 +1,100 @@
-\contentsline {chapter}{List of Figures}{iii}
-\contentsline {chapter}{List of Tables}{ix}
-\vspace \bigskipamount \bf My Thesis Title \normalfont \endgraf 
-\contentsline {chapter}{\numberline {1}Short chapter heading}{2}
-\contentsline {section}{\numberline {1.1}Sec}{2}
-\contentsline {subsection}{\numberline {1.1.1}Subsec}{2}
-\contentsline {chapter}{\numberline {2}Data}{3}
-\contentsline {section}{\numberline {2.1}Sec}{3}
-\contentsline {subsection}{\numberline {2.1.1}Imaging Data}{3}
-\contentsline {subsection}{\numberline {2.1.2}Source photometry and deconfusion}{4}
-\contentsline {subsection}{\numberline {2.1.3}Subsec}{4}
-\contentsline {chapter}{\numberline {3}Data and Sample Selection}{5}
-\contentsline {section}{\numberline {3.1}The Data}{5}
-\contentsline {subsection}{\numberline {3.1.1}Imaging Data}{5}
-\contentsline {subsection}{\numberline {3.1.2}Source photometry and deconfusion}{6}
-\contentsline {section}{\numberline {3.2}Photometric Redshifts and Sample Selection}{7}
-\contentsline {subsection}{\numberline {3.2.1}Selection Criteria}{7}
-\contentsline {subsection}{\numberline {3.2.2}Monte Carlo Samples}{10}
-\contentsline {section}{\numberline {3.3}Selection method comparison}{13}
-\contentsline {chapter}{\numberline {4}Sample Selection}{23}
-\contentsline {section}{\numberline {4.1}Mass Fitting}{23}
-\contentsline {subsection}{\numberline {4.1.1}Model SEDs}{23}
-\contentsline {subsection}{\numberline {4.1.2}Nebular Emission}{24}
-\contentsline {subsection}{\numberline {4.1.3}SED Fitting}{25}
-\contentsline {subsection}{\numberline {4.1.4}Star Formation Rates}{27}
-\contentsline {subsection}{\numberline {4.1.5}Image and Detection Simulations}{28}
-\contentsline {subsubsection}{\numberline {4.1.5.1}Completeness Simulations}{28}
-\contentsline {subsubsection}{\numberline {4.1.5.2}Sample Selection}{29}
-\contentsline {subsubsection}{\numberline {4.1.5.3}Uncertainties in measuring galaxy parameters}{31}
-\contentsline {subsubsection}{\numberline {4.1.5.4}Observed UV continuum slopes}{33}
-\contentsline {section}{\numberline {4.2}Results}{34}
-\contentsline {subsection}{\numberline {4.2.1}The $1/V_{\rm {max}}$ estimator}{34}
-\contentsline {subsection}{\numberline {4.2.2}UV Luminosity functions}{37}
-\contentsline {subsection}{\numberline {4.2.3}Observed mass-to-light ratios}{39}
-\contentsline {subsection}{\numberline {4.2.4}Stellar mass functions at high-redshift}{43}
-\contentsline {subsubsection}{\numberline {4.2.4.1}Comparison with the literature}{46}
-\contentsline {subsubsection}{\numberline {4.2.4.2}Comparison with theory}{48}
-\contentsline {subsection}{\numberline {4.2.5}Stellar Mass Density}{50}
-\contentsline {subsection}{\numberline {4.2.6}Star Formation Rates}{51}
-\contentsline {subsubsection}{\numberline {4.2.6.1}Specific star formation rates}{51}
-\contentsline {subsubsection}{\numberline {4.2.6.2}Star formation rate functions and the cosmic star formation rate density}{53}
-\contentsline {section}{\numberline {4.3}Summary}{57}
+\contentsline {chapter}{List of Figures}{iv}
+\contentsline {chapter}{List of Tables}{viii}
+\vspace \bigskipamount \bf The Growth of the First Galaxies \normalfont \endgraf 
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1.1}The Early Universe}{2}
+\contentsline {section}{\numberline {1.2}Galaxy Formation}{6}
+\contentsline {subsection}{\numberline {1.2.1}Illuminating the dark ages}{10}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Sample contamination}{14}
+\contentsline {subsection}{\numberline {1.2.2}The first billion years of galaxy evolution}{16}
+\contentsline {subsection}{\numberline {1.2.3}Numerical simulations and models of galaxy formation}{18}
+\contentsline {section}{\numberline {1.3}The spectral energy distributions of galaxies}{21}
+\contentsline {section}{\numberline {1.4}The CANDELS survey}{25}
+\contentsline {section}{\numberline {1.5}Thesis Outline}{28}
+\contentsline {chapter}{\numberline {2}The mass evolution of the first galaxies}{30}
+\contentsline {section}{\numberline {2.1}Introduction}{30}
+\contentsline {section}{\numberline {2.2}The Data}{34}
+\contentsline {subsection}{\numberline {2.2.1}Imaging Data}{34}
+\contentsline {subsection}{\numberline {2.2.2}Source photometry and deconfusion}{35}
+\contentsline {section}{\numberline {2.3}Photometric Redshifts and Sample Selection}{36}
+\contentsline {subsection}{\numberline {2.3.1}Selection Criteria}{36}
+\contentsline {subsection}{\numberline {2.3.2}Monte Carlo Samples}{40}
+\contentsline {section}{\numberline {2.4}Selection method comparison}{43}
+\contentsline {section}{\numberline {2.5}Mass Fitting}{54}
+\contentsline {subsection}{\numberline {2.5.1}Model SEDs}{56}
+\contentsline {subsection}{\numberline {2.5.2}Nebular Emission}{57}
+\contentsline {subsection}{\numberline {2.5.3}SED Fitting}{58}
+\contentsline {subsection}{\numberline {2.5.4}Star Formation Rates}{59}
+\contentsline {subsection}{\numberline {2.5.5}Observed UV continuum slopes}{60}
+\contentsline {subsection}{\numberline {2.5.6}Image and Detection Simulations}{63}
+\contentsline {subsubsection}{\numberline {2.5.6.1}Completeness Simulations}{64}
+\contentsline {subsubsection}{\numberline {2.5.6.2}Sample Selection}{65}
+\contentsline {subsubsection}{\numberline {2.5.6.3}Uncertainties in measuring galaxy parameters}{67}
+\contentsline {section}{\numberline {2.6}Results}{69}
+\contentsline {subsection}{\numberline {2.6.1}The $1/V_{\rm {max}}$ estimator}{69}
+\contentsline {subsection}{\numberline {2.6.2}UV Luminosity functions}{71}
+\contentsline {subsection}{\numberline {2.6.3}Observed mass-to-light ratios}{73}
+\contentsline {subsection}{\numberline {2.6.4}Stellar mass functions at high redshift}{78}
+\contentsline {subsubsection}{\numberline {2.6.4.1}Comparison with the literature}{81}
+\contentsline {subsubsection}{\numberline {2.6.4.2}Comparison with theory}{83}
+\contentsline {subsection}{\numberline {2.6.5}Stellar Mass Density}{87}
+\contentsline {subsection}{\numberline {2.6.6}Star Formation Rates}{89}
+\contentsline {subsubsection}{\numberline {2.6.6.1}Specific star formation rates}{89}
+\contentsline {subsubsection}{\numberline {2.6.6.2}Star formation rate functions and the cosmic star formation rate density}{91}
+\contentsline {section}{\numberline {2.7}Summary}{95}
+\contentsline {chapter}{\numberline {3}The merger history at $z \geq 2$}{98}
+\contentsline {section}{\numberline {3.1}Introduction}{98}
+\contentsline {section}{\numberline {3.2}Data}{101}
+\contentsline {section}{\numberline {3.3}Methodology}{102}
+\contentsline {subsection}{\numberline {3.3.1}Selecting initial potential close pairs}{102}
+\contentsline {subsection}{\numberline {3.3.2}The pair probability function}{103}
+\contentsline {subsection}{\numberline {3.3.3}Photometric redshifts}{107}
+\contentsline {subsection}{\numberline {3.3.4}Stellar mass estimation}{109}
+\contentsline {subsection}{\numberline {3.3.5}Correction for selection effects}{113}
+\contentsline {subsubsection}{\numberline {3.3.5.1}The redshift-dependent mass completeness limit}{113}
+\contentsline {subsubsection}{\numberline {3.3.5.2}Image boundary and excluded regions}{118}
+\contentsline {subsubsection}{\numberline {3.3.5.3}The Odds sampling rate}{120}
+\contentsline {subsubsection}{\numberline {3.3.5.4}The combined weights}{121}
+\contentsline {subsection}{\numberline {3.3.6}The merger fraction}{121}
+\contentsline {section}{\numberline {3.4}The merger evolution at $z > 2$}{122}
+\contentsline {subsection}{\numberline {3.4.1}Merger fractions for semi-analytical models}{123}
+\contentsline {subsubsection}{\numberline {3.4.1.1}Cosmic variance estimates from SAMs}{124}
+\contentsline {subsection}{\numberline {3.4.2}Evolution of the merger fraction}{124}
+\contentsline {subsection}{\numberline {3.4.3}Evolution of the merger rate}{128}
+\contentsline {subsection}{\numberline {3.4.4}Minor mergers}{134}
+\contentsline {section}{\numberline {3.5}Discussion}{135}
+\contentsline {section}{\numberline {3.6}Summary}{136}
+\contentsline {chapter}{\numberline {4}Powering reionization}{138}
+\contentsline {section}{\numberline {4.1}Introduction}{138}
+\contentsline {section}{\numberline {4.2}Linking reionization with observations}{142}
+\contentsline {subsection}{\numberline {4.2.1}The ionizing emissivity}{142}
+\contentsline {subsection}{\numberline {4.2.2}Mechanisms for Lyman continuum escape}{144}
+\contentsline {subsection}{\numberline {4.2.3}Observed UV Continuum Slopes}{147}
+\contentsline {section}{\numberline {4.3}Modelling $\beta $, $\xi _{\lowercase {ion}}$ and $\kappa _{\lowercase {ion}}$}{153}
+\contentsline {subsection}{\numberline {4.3.1}Modelling assumptions: current constraints on stellar populations at $z>3$}{154}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Star-formation history}{155}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Initial mass function}{156}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Metallicity}{158}
+\contentsline {subsubsection}{\numberline {4.3.1.4}Age}{158}
+\contentsline {subsubsection}{\numberline {4.3.1.5}Nebular continuum and line emission}{160}
+\contentsline {subsubsection}{\numberline {4.3.1.6}Dust Extinction}{161}
+\contentsline {subsubsection}{\numberline {4.3.1.7}Differing SSP models: the effects of stellar rotation and binarity}{162}
+\contentsline {subsection}{\numberline {4.3.2}Observed UV slopes as a function of $f_{\rm {esc}}$ and dust extinction}{163}
+\contentsline {subsection}{\numberline {4.3.3}$\xi _{\lowercase {ion}}$ and $\kappa _{\lowercase {ion}}$ as a function of $f_{\rm {esc}}$ and dust extinction}{169}
+\contentsline {subsection}{\numberline {4.3.4}Effect of different stellar population properties on $\xi _{\lowercase {ion}}$ and $\kappa _{\lowercase {ion}}$ vs $\beta $}{171}
+\contentsline {section}{\numberline {4.4}Estimated galaxy emissivity during reionization}{173}
+\contentsline {subsection}{\numberline {4.4.1}Observations}{174}
+\contentsline {subsection}{\numberline {4.4.2}$\mathaccentV {dot}05F{N}_{\rm {ion}}$ for constant $f_{\rm {esc}}\xi _{\rm {ion}}$ and $f_{\rm {esc}}\kappa _{\rm {ion}}$}{175}
+\contentsline {subsection}{\numberline {4.4.3}$\mathaccentV {dot}05F{N}_{\rm {ion}}$ for evolving $f_{\rm {esc}}\xi _{\rm {ion}}$}{179}
+\contentsline {subsubsection}{\numberline {4.4.3.1}Evolving luminosity-averaged $f_{\rm {esc}}\xi _{\rm {ion}}$}{180}
+\contentsline {subsubsection}{\numberline {4.4.3.2}Luminosity-dependent $f_{\rm {esc}}\xi _{\rm {ion}}$}{183}
+\contentsline {section}{\numberline {4.5}Discussion and future prospects}{185}
+\contentsline {section}{\numberline {4.6}Summary}{188}
+\contentsline {chapter}{\numberline {5}Conclusions and Future Prospects}{191}
+\contentsline {section}{\numberline {5.1}Finding and studying high redshift galaxies}{191}
+\contentsline {section}{\numberline {5.2}The growth of stellar mass in the early universe}{192}
+\contentsline {section}{\numberline {5.3}The contribution of galaxies to reionization}{194}
+\contentsline {section}{\numberline {5.4}Future prospects}{195}
 \vspace \bigskipamount \bf Appendices \normalfont \endgraf 
-\contentsline {chapter}{\numberline {A}Short appendix heading}{60}
-\contentsline {chapter}{\numberline {B}Short appendix heading}{61}
-\contentsline {chapter}{Bibliography}{62}
+\contentsline {chapter}{\numberline {A}Reionization Data Tables}{200}
+\contentsline {chapter}{Bibliography}{203}

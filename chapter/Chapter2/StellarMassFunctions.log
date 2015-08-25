@@ -1,0 +1,979 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdftex 2011.7.3)  5 AUG 2015 12:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex
+(/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:5: Undefined control sequence.
+l.5 \chapter
+            [The mass evolution of the first galaxies]{The mass evolution of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:5: Undefined control sequence.
+l.5 ... 7$ in the CANDELS GOODS-South field}\label
+                                                  {ch:smf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:7: Undefined control sequence.
+l.7 \section
+            {Introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:8: Undefined control sequence.
+l.8 ...rogen absorption of the UV continuum \citep
+                                                  {1990ApJ...357L...9G, 1992...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:10: Undefined control sequence.
+l.10 ...he redshift range $4 \leq z \leq 9$ \citep
+                                                  {2007ApJ...670..928B,2009M...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:10: Misplaced alignment tab character &.
+l.10 ...5.2196M,Oesch:2009ew,Bouwens:2010dk,2011A&
+                                                  A...532A..33G,Lorenzoni:20...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (267.9062pt too wide) in paragraph at lines 10--11
+\tenrm shift range $4 \tensy ^^T \teni z \tensy ^^T \tenrm 9$ 2007ApJ...670..928B,2009MNRAS.395.2196M,Oesch:2009ew,Bouwens:2010dk,2011AA...532A..33G,Lorenzoni:2011iz,McLure:2013hh,Schenker:2013cl|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm h
+.\tenrm i
+.\tenrm f
+.\tenrm t
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:12: Undefined control sequence.
+l.12 ...h the observed stellar mass density \citep
+                                                  {2010Natur.468...49R}. Suc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:14: Undefined control sequence.
+l.14 ...surements are available through deep \emph
+                                                  {Spitzer} 3.6 and 4.5 $\mu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:14: Undefined control sequence.
+l.14 ...and 4.5 $\mu m$ observations, e.g.  \citet
+                                                  {2009ApJ...697.1493S,Labbe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:14: Undefined control sequence.
+l.14 ...and metallicity are large (see \citeauthor
+                                                  {2013ASSL..396..223D}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:14: Undefined control sequence.
+l.14 ...\citeauthor{2013ASSL..396..223D}~\citeyear
+                                                  {2013ASSL..396..223D} for ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ..., for both photometrically selected \citep
+                                                  {2009A&A...502..423S,2010A...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Misplaced alignment tab character &.
+l.16 ...oth photometrically selected \citep{2009A&
+                                                  A...502..423S,2010A&A...51...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Misplaced alignment tab character &.
+l.16 ...selected \citep{2009A&A...502..423S,2010A&
+                                                  A...515A..73S,Ono:2010ed,2...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...spectroscopically confirmed samples \citep
+                                                  {Shim:2011cw,2013MNRAS.429...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ... at a constant number density (\citeauthor
+                                                  {2011MNRAS.412.1123P}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...\citeauthor{2011MNRAS.412.1123P}~\citeyear
+                                                  {2011MNRAS.412.1123P}, \ci...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...citeyear{2011MNRAS.412.1123P}, \citeauthor
+                                                  {2015ApJ...799..183S}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...\citeauthor{2015ApJ...799..183S}~\citeyear
+                                                  {2015ApJ...799..183S}) and...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...3S}) and hydrodynamical simulations \citep
+                                                  {2011MNRAS.410.1703F} impl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...only used at low-redshift (see \citeauthor
+                                                  {Conroy:2013dk}~\citeyear{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ... (see \citeauthor{Conroy:2013dk}~\citeyear
+                                                  {Conroy:2013dk} for a revi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:16: Undefined control sequence.
+l.16 ...ar{Conroy:2013dk} for a review). In \citet
+                                                  {Maraston:2010dl}, it is a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (196.42722pt too wide) in paragraph at lines 16--17
+\tenrm ies, for both pho-to-met-ri-cally se-lected 2009AA...502..423S,2010AA...515A..73S,Ono:2010ed,2011MNRAS.418.2074M,Lorenzoni:2011iz,2012ApJ...755..148G|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm e
+.\tenrm s
+.\tenrm ,
+.\glue 3.33333 plus 2.08331 minus 0.88889
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 \citet
+           {Gonzalez:2011dn} were amongst the first to make use of the capab...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...he Early Release Science (ERS; \citeauthor
+                                                  {2011ApJS..193...27W}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...\citeauthor{2011ApJS..193...27W}~\citeyear
+                                                  {2011ApJS..193...27W}) to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...UV luminosity function ($\alpha = -2~\text
+                                                  {to}~-1.7$) at high-redshi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...lower mass function ($\alpha = -1.6 ~\text
+                                                  {to}~-1.4$). Subsequent wo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...text{to}~-1.4$). Subsequent work by \citet
+                                                  {2012ApJ...752...66L} with...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ...and 5. In contrast, observations by \citet
+                                                  {2011MNRAS.413..162C} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:18: Undefined control sequence.
+l.18 ... by \citet{2011MNRAS.413..162C} and \citet
+                                                  {Santini:2012jq} observe a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 In \citet
+              {Gonzalez:2011dn}, the shallow low-mass slope arises due to th...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...atio with UV luminosity. Similarly, \citet
+                                                  {2012ApJ...752...66L} infe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...ing the UV continuum slope, $\beta$ \citep
+                                                  {1994ApJ...429..582C}, for...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ... samples of high-redshift galaxies, \citet
+                                                  {Wilkins:2011fs}, \citet{2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...t galaxies, \citet{Wilkins:2011fs}, \citet
+                                                  {2012ApJ...754...83B} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...s}, \citet{2012ApJ...754...83B} and \citet
+                                                  {Bouwens:2013vf} find evid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...3$. In contrast, similar studies by \citet
+                                                  {Dunlop:2011jl}, \citet{20...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...r studies by \citet{Dunlop:2011jl}, \citet
+                                                  {2012ApJ...756..164F} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 ...l}, \citet{2012ApJ...756..164F} and \citet
+                                                  {2013MNRAS.429.2456R} find...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:20: Undefined control sequence.
+l.20 .... To this end, more recent analyses \citep
+                                                  {Bouwens:2013vf,Rogers:201...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:22: Undefined control sequence.
+l.22 ...LS; Co-PIs: Faber \& Ferguson; \citeauthor
+                                                  {2011ApJS..197...35G}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:22: Undefined control sequence.
+l.22 ...\citeauthor{2011ApJS..197...35G}~\citeyear
+                                                  {2011ApJS..197...35G}; \ci...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:22: Undefined control sequence.
+l.22 ...citeyear{2011ApJS..197...35G}; \citeauthor
+                                                  {Koekemoer:2011br}~\citeye...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:22: Undefined control sequence.
+l.22 ...}; \citeauthor{Koekemoer:2011br}~\citeyear
+                                                  {Koekemoer:2011br}), combi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:22: Undefined control sequence.
+l.22 ...han the WFC3 ERS observations alone \citep
+                                                  {2011ApJS..193...27W}, and...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (69.1165pt too wide) in paragraph at lines 22--23
+\tenrm Near-infrared Deep Ex-tra-galac-tic Sur-vey (CAN-DELS; Co-PIs: Faber & Fer-gu-son; 2011ApJS..197...35G 2011ApJS..197...35G;|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm N
+.\tenrm e
+.\tenrm a
+.\tenrm r
+.\tenrm -
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...his chapter is as follows. In Section~\ref
+                                                  {smf-sec:data}, we describ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...hotometry extraction used. In Section~\ref
+                                                  {smf-sec:redshift}, we des...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...samples used in our analysis. Section~\ref
+                                                  {smf-sec:selection_comp} t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.24 ... analysis. Section~\ref{smf-sec:selection_
+                                                  comp} then investigates ho...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Extra }, or forgotten $.
+l.24 ...ysis. Section~\ref{smf-sec:selection_comp}
+                                                   then investigates how the...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...for our sample is outlined in Section~\ref
+                                                  {smf-sec:masses}. Section~...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...Section~\ref{smf-sec:masses}. Section~\ref
+                                                  {smf-sec:simulations} then...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...ness and sample selection. In Section~\ref
+                                                  {smf-sec:results} we prese...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:24: Undefined control sequence.
+l.24 ...rk and our analyses. Finally, Section~\ref
+                                                  {smf-sec:summary} presents...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:25: Undefined control sequence.
+l.25 ...nitudes are quoted in the AB system \citep
+                                                  {1983ApJ...266..713O} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \Lambda 
+l.25 ...3ApJ...266..713O} and we assume a $\Lambda
+                                                  $CDM cosmology with $H_{0}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (2751.49344pt too wide) in paragraph at lines 24--26
+\tenrm the high-redshift sam-ples used in our anal-y-sis. Sec-tion smf-sec:selection$[]\teni omptheninvestigateshowtheuseofphotometricredshiftcriteriacompareswithcolourselectionandtesttherobustnessofthismethod:TheSEDfittingmethodusedtoestimatethestellarmassesforoursampleisoutlinedinSection []:Section []thendescribesthesimulationsundertakentoaccountfortheeffectsofcompletenessandsampleselection:InSection []wepresenttheresultsofthisworkandouranalyses:Finally; Section []presentsoursummaryandconclusionsoftheworkinthischapter:ThroughoutthischapterallmagnitudesarequotedintheABsystem[]andweassumea$$\tenrm ^^C$CDM|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm h
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:27: Undefined control sequence.
+l.27 \section
+             {The Data}\label{smf-sec:data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:27: Undefined control sequence.
+l.27 \section{The Data}\label
+                             {smf-sec:data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:28: Undefined control sequence.
+l.28 ...s work is taken from the catalog of \citet
+                                                  {Guo:2013ig}, a UV to mid-...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.34311pt too wide) in paragraph at lines 27--29
+[]\tenrm The Datasmf-sec:data The pho-tom-e-try used through-out this work is taken from the cat-a-log of Guo:2013ig,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:30: Undefined control sequence.
+l.30 \subsection
+                {Imaging Data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:31: Undefined control sequence.
+l.31 ...bservations from the CANDELS survey \citep
+                                                  {2011ApJS..197...35G,Koeke...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:31: Undefined control sequence.
+l.31 ...C3 Early Release Science (ERS; \citeauthor
+                                                  {2011ApJS..193...27W}~\cit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:31: Undefined control sequence.
+l.31 ...\citeauthor{2011ApJS..193...27W}~\citeyear
+                                                  {2011ApJS..193...27W}) and...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:31: Undefined control sequence.
+l.31 ...p Field (HUDF; PI Illingworth; \citeauthor
+                                                  {Bouwens:2010dk}~\citeyear...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:31: Undefined control sequence.
+l.31 ...rth; \citeauthor{Bouwens:2010dk}~\citeyear
+                                                  {Bouwens:2010dk}) surveys....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (90.73236pt too wide) in paragraph at lines 30--32
+\tenrm 2011ApJS..197...35G,Koekemoer:2011br with the WFC3 Early Re-lease Sci-ence (ERS; 2011ApJS..193...27W 2011ApJS..193...27W)|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 2
+.\tenrm 0
+.\tenrm 1
+.\tenrm 1
+.\tenrm A
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:33: Undefined control sequence.
+l.33 ...sury Program, combining the data of \citet
+                                                  {2004ApJ...600L..93G} with...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:33: Undefined control sequence.
+l.33 ...subsequent observations obtained by \citet
+                                                  {2006AJ....132.1729B} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:33: Undefined control sequence.
+l.33 ... by \citet{2006AJ....132.1729B} and \citep
+                                                  {Koekemoer:2011br}. The fi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 The \emph
+              {Spitzer}/IRAC \citep{Fazio:2004eb} 3.6 and 4.5$\mu m$ images ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 The \emph{Spitzer}/IRAC \citep
+                                   {Fazio:2004eb} 3.6 and 4.5$\mu m$ images ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 ...ded Deep Survey (PI: G. Fazio, \citeauthor
+                                                  {Ashby:2013cc}~\citeyear{A...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 ...Fazio, \citeauthor{Ashby:2013cc}~\citeyear
+                                                  {Ashby:2013cc}) incorporat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 ...f the CTIO U band, VLT/VIMOS U band \citep
+                                                  {Nonino:2009hf}, VLT/ISAAC...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 ...p{Nonino:2009hf}, VLT/ISAAC $K_{s}$ \citep
+                                                  {Retzlaff:2010co} and VLT/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:35: Undefined control sequence.
+l.35 ...d VLT/HAWK-I $K_{s}$ (Fontana et al. \emph
+                                                  {in prep.}) bands.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2]
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:37: Undefined control sequence.
+l.37 \subsection
+                {Source photometry and deconfusion}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:38: Undefined control sequence.
+l.38 ...ometry was obtained are outlined in \citet
+                                                  {Guo:2013ig}, however we p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:40: Undefined control sequence.
+l.40 ...etry (TFIT). We refer the reader to \citet
+                                                  {Laidler:2007iy}, \citet{2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:40: Undefined control sequence.
+l.40 ...e reader to \citet{Laidler:2007iy}, \citet
+                                                  {2012ApJ...752...66L} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:42: Undefined control sequence.
+l.42 \section
+             {Photometric Redshifts and Sample Selection}\label{smf-sec:reds...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:42: Undefined control sequence.
+l.42 ...tric Redshifts and Sample Selection}\label
+                                                  {smf-sec:redshift}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:43: Undefined control sequence.
+l.43 ... EAZY photometric redshift software \citep
+                                                  {Brammer:2008gn}. The fitt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:43: Undefined control sequence.
+l.43 ...ed on the PEGASE spectral models of \citet
+                                                  {1997A&A...326..950F} with...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:43: Misplaced alignment tab character &.
+l.43 ...he PEGASE spectral models of \citet{1997A&
+                                                  A...326..950F} with an add...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:43: Undefined control sequence.
+l.43 ...l template based on the spectrum of \citet
+                                                  {2010ApJ...719.1168E}. The...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:46: Undefined control sequence.
+l.46 ...minosity function at high-redshifts \citep
+                                                  {Henriques:2012gsa}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (7.21802pt too wide) in paragraph at lines 45--47
+[]\tenrm For each galaxy we con-struct the full red-shift prob-a-bil-ity dis-tri-bu-tion func-tion (PDF), $\teni P\tenrm (\teni z\tenrm ) \tensy / \teni exp\tenrm (\tensy ^^@\teni ^^_[]=\tenrm 2)$,|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm F
+.\kern-0.83334
+.\tenrm o
+.\tenrm r
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:48: Undefined control sequence.
+l.48 \subsection
+                {Selection Criteria} \label{smf-sec:sample}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:48: Undefined control sequence.
+l.48 \subsection{Selection Criteria} \label
+                                           {smf-sec:sample}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:49: Undefined control sequence.
+l.49 ...ous high-redshift sample selections \citep
+                                                  {2011MNRAS.418.2074M,Finke...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:54: Undefined control sequence.
+l.54 \begin
+           {equation}\label{eq:crit1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:54: Undefined control sequence.
+l.54 \begin{equation}\label
+                           {eq:crit1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:55: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \intop 
+\int ->\intop 
+              \nolimits 
+l.55 \int
+         _{z_{\text{sample}}-0.5}^{z_{\text{sample}}+0.5} P(z)~dz > 0.4
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:55: Undefined control sequence.
+l.55 \int_{z_{\text
+                   {sample}}-0.5}^{z_{\text{sample}}+0.5} P(z)~dz > 0.4
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:55: Undefined control sequence.
+l.55 \int_{z_{\text{sample}}-0.5}^{z_{\text
+                                           {sample}}+0.5} P(z)~dz > 0.4
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter2/StellarMassFunctions.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \end 
+l.56 \end
+         {equation}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[3] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 24 ({)
+### bottom level</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on StellarMassFunctions.pdf (3 pages, 105878 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

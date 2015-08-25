@@ -1,49 +1,76 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: thesis.aux
-The style file: style/mnras_biblist.bst
-Database file #1: style/bibtex_lib.bib
-Warning--I didn't find a database entry for "ref1"
-Warning--I didn't find a database entry for "ref2"
-You've used 51 entries,
-            1863 wiz_defined-function locations,
-            807 strings with 25969 characters,
-and the built_in function-call counts, 42442 in all, are:
-= -- 3301
-> -- 4489
-< -- 0
-+ -- 1713
-- -- 1712
-* -- 4823
-:= -- 10453
-add.period$ -- 152
-call.type$ -- 51
-change.case$ -- 889
-chr.to.int$ -- 50
-cite$ -- 51
-duplicate$ -- 457
-empty$ -- 864
-format.name$ -- 1763
-if$ -- 7019
-int.to.chr$ -- 1
+The top-level auxiliary file: /Users/ken/Documents/Astro/Thesis/ThesisGit/thesis.aux
+The style file: style/mnras.bst
+Reallocated field_info (elt_size=4) to 15125 items from 5000.
+Database file #1: ../bibtex_lib.bib
+Warning--entry type for "Bouwens:2011tj" isn't style-file defined
+--line 491 of file ../bibtex_lib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for ""
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Bowler:2013wz
+while executing---line 1822 of file style/mnras.bst
+Warning--empty journal in Bowler:2013wz
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Bowler:2013wz
+while executing---line 1822 of file style/mnras.bst
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry MartinNavarro:2014wr
+while executing---line 1822 of file style/mnras.bst
+Warning--empty journal in MartinNavarro:2014wr
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry MartinNavarro:2014wr
+while executing---line 1822 of file style/mnras.bst
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Pirzkal:2013ug
+while executing---line 1822 of file style/mnras.bst
+Warning--empty journal in Pirzkal:2013ug
+"ArXiv e-prints" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Pirzkal:2013ug
+while executing---line 1822 of file style/mnras.bst
+You've used 374 entries,
+            2881 wiz_defined-function locations,
+            2869 strings with 131319 characters,
+and the built_in function-call counts, 166803 in all, are:
+= -- 14259
+> -- 12033
+< -- 598
++ -- 5217
+- -- 1722
+* -- 19635
+:= -- 26157
+add.period$ -- 0
+call.type$ -- 374
+change.case$ -- 748
+chr.to.int$ -- 362
+cite$ -- 377
+duplicate$ -- 8272
+empty$ -- 8251
+format.name$ -- 2930
+if$ -- 29168
+int.to.chr$ -- 13
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 257
-num.names$ -- 153
-pop$ -- 922
-preamble$ -- 0
-purify$ -- 940
+missing$ -- 374
+newline$ -- 1136
+num.names$ -- 2340
+pop$ -- 1557
+preamble$ -- 1
+purify$ -- 1496
 quote$ -- 0
-skip$ -- 775
+skip$ -- 4956
 stack$ -- 0
-substring$ -- 725
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 10006
+swap$ -- 3548
+text.length$ -- 1500
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 165
-width$ -- 55
-write$ -- 662
-(There were 2 warnings)
+type$ -- 3363
+warning$ -- 3
+while$ -- 2670
+width$ -- 0
+write$ -- 3737
+(There were 6 error messages)

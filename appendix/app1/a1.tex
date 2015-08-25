@@ -1,10 +1,10 @@
 \chapter{Reionization Data Tables}\label{app:tables}
-In this appendix we present the estimated $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ at $4 \leq z \leq 8$ for the range of assumptions outlined in Chapter~\ref{ch:reionization} Section~\ref{sec:results}.  we list the calculated properties for integration limits $M_{\rm{UV}} =$ -17, -15 and -13 respectively. In Table~\ref{tab:bouwens_N} we list the values based on the luminosity function parametrisations of \citet{Bouwens:2014tx} and are plotted in Figures~\ref{fig:Nion_constant}, \ref{fig:Nion_xi_kappa_z} and \ref{fig:Nion_xi_kappa_zMuv}. In Table~\ref{tab:finkelstein_N}, we list the corresponding values for the luminosity function parametrisations of \citep{Finkelstein:2014ub}.
-For both sets of values, we include errors based on the uncertainties in the luminosity function parameters and the random errors in the weighted average of $\beta$ or the best-fit $\beta-M_{\rm{UV}}$ slope parameters \citep{Bouwens:2013vf} as appropriate. When assuming an SMC-like dust attenuation \citep{Pei:1992ey}, to match the fiducial $\beta = -2$ and $\log_{10}f_{\rm{esc}} \xi_{\rm{ion}}=24.5$ for LyC escape Model B, we find $f_{\rm{esc}} = 0.375$ and $A_{V} = 0.08$ are required. 
+In this appendix we present the estimated $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ at $4 \leq z \leq 8$ for the range of assumptions outlined in Section~\ref{reion-sec:results}.  we list the calculated properties for integration limits $M_{\rm{UV}} =$ -17, -15 and -13 respectively. In Table~\ref{tab:bouwens_N} we list the values based on the luminosity function parametrisations of \citet{2015ApJ...803...34B} and are plotted in Figures~\ref{reion-fig:Nion_constant}, \ref{reion-fig:Nion_xi_kappa_z} and \ref{reion-fig:Nion_xi_kappa_zMuv}. In Table~\ref{tab:finkelstein_N}, we list the corresponding values for the luminosity function parametrisations of \citet{Finkelstein:2014ub}.
+For both sets of values, we include errors based on the uncertainties in the luminosity function parameters and the random errors in the weighted average of $\beta$ or the best-fit $\beta-M_{\rm{UV}}$ slope parameters \citep{Bouwens:2013vf} as appropriate. When assuming an SMC-like dust attenuation \citep{Pei:1992ey}, to match the fiducial $\beta = -2$ and $\log_{10}f_{\rm{esc}} \xi_{\rm{ion}}=24.5$ for LyC escape Model B, we find $f_{\rm{esc}} = 0.28$ and $A_{V} = 0.08$ are required. 
 
 \begin{table}
-  \caption[Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{Bouwens:2014tx}.]{Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{Bouwens:2014tx}. For each calculated value, we include statistical errors from the uncertainties in the \citet{Schechter:1976gl} parameters and $\beta$ observations. Also shown are the effects of some of the assumptions made in Section~\ref{sec:assumptions} and their corresponding systematic changes to the estimated values.}
-	\scriptsize
+  \caption{Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{2015ApJ...803...34B}. For each calculated value, we include statistical errors from the uncertainties in the \citet{Schechter:1976gl} parameters and $\beta$ observations. Also shown are the effects of some of the assumptions made in Section~\ref{reion-sec:assumptions} and their corresponding systematic changes to the estimated values.}	
+  \scriptsize
   \begin{tabular}{cc|cccccc}
   \hline
    & Limit ($M_{\rm{UV}}$) & $z\sim4$ & $z\sim5$ & $z\sim6$ & $z\sim7$ & $z\sim8$ & \\
@@ -54,23 +54,20 @@ $\log_{10} \dot{N}_{\rm{ion}}$	 		& -17 & \input{EoR_data/EoRtable_Bouwens_zMuv.
 	 \multicolumn{7}{c}{}\\
 	 \multicolumn{7}{c}{Systematic Uncertainties}\\\hline
 	 \multicolumn{2}{c}{Salpeter IMF} & \multicolumn{5}{c}{$\Delta log_{10}\kappa_{\rm{ion}} = -0.19$}\\
-%	 \multicolumn{2}{c}{Age $= 10$ Myr} &  \multicolumn{5}{c}{}\\
-%	 \multicolumn{2}{c}{Age $= 500$ Myr} &  \multicolumn{5}{c}{\emph{Add in?}}\\
-%	 \multicolumn{2}{c}{Metallicity $= Z_{\odot}$} &  \multicolumn{5}{c}{}\\
-	 \multicolumn{2}{c}{Dust: Calzetti w/ SMC-like extrapolation} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.12$}\\
+
+	 \multicolumn{2}{c}{Dust: Calzetti w/ SMC-like extrapolation} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.10$}\\
 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{ (For fiducial values)}\\
  
-	 	 \multicolumn{2}{c}{Dust: SMC \citep{Pei:1992ey}} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.19$} \\
-	 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{(For fiducial $f_{\rm{esc}}$, $A_{V} = 0.09$, $\beta = -2$)}
+	 	 \multicolumn{2}{c}{Dust: SMC \citep{Pei:1992ey}} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.18$} \\
+	 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{(For fiducial $f_{\rm{esc}} = 0.42$, $A_{V} = 0.08$, $\beta = -2$)}
 
 
-  \end{tabular}
-  \label{tab:bouwens_N}
+  \end{tabular} \label{tab:bouwens_N}
 \end{table}
 
 \begin{table}
-  \caption[Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{Finkelstein:2014ub}.]{Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{Finkelstein:2014ub}. For each calculated value, we include statistical errors from the uncertainties in the \citet{Schechter:1976gl} parameters and $\beta$ observations. Also shown are the effects of some of the assumptions made in Section~\ref{sec:assumptions} and their corresponding systematic changes to the estimated values.}
-  \scriptsize
+\caption{Calculated values of $\rho_{\rm{UV}}$ and $\dot{N}_{\rm{ion}}$ for the different integration limits and efficiency assumptions explored in the paper, based on the luminosity function parametrisations of \citet{Finkelstein:2014ub}. For each calculated value, we include statistical errors from the uncertainties in the \citet{Schechter:1976gl} parameters and $\beta$ observations. Also shown are the effects of some of the assumptions made in Section~\ref{reion-sec:assumptions} and their corresponding systematic changes to the estimated values.}
+\scriptsize
   \begin{tabular}{cc|cccccc}
    \hline
    & Limit ($M_{\rm{UV}}$) & $z\sim4$ & $z\sim5$ & $z\sim6$ & $z\sim7$ & $z\sim8$ \\
@@ -116,20 +113,16 @@ $\log_{10} \dot{N}_{\rm{ion}}$	 		& -17 & \input{EoR_data/EoRtable_Fink_zMuv.txt
 												& -13 & \input{EoR_data/EoRtable_Fink_zMuv_m13.txt} \\		
 
 \end{tabular}
+ 
  \begin{tabular}{cc|cccccc}
 	 \multicolumn{7}{c}{}\\
 	 \multicolumn{7}{c}{Systematic Uncertainties}\\\hline
 	 \multicolumn{2}{c}{Salpeter IMF} & \multicolumn{5}{c}{$\Delta log_{10}\kappa_{\rm{ion}} = -0.19$}\\
-%	 \multicolumn{2}{c}{Age $= 10$ Myr} &  \multicolumn{5}{c}{}\\
-%	 \multicolumn{2}{c}{Age $= 500$ Myr} &  \multicolumn{5}{c}{\emph{Add in?}}\\
-%	 \multicolumn{2}{c}{Metallicity $= Z_{\odot}$} &  \multicolumn{5}{c}{}\\
-	 \multicolumn{2}{c}{Dust: Calzetti w/ SMC-like extrapolation} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.12$}\\
+
+	 \multicolumn{2}{c}{Dust: Calzetti w/ SMC-like extrapolation} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.10$}\\
 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{ (For fiducial values)}\\
  
-	 	 \multicolumn{2}{c}{Dust: SMC \citep{Pei:1992ey}} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.19$} \\
-	 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{(For fiducial $f_{\rm{esc}}$, $A_{V} = 0.09$, $\beta = -2$)} \\
-
-
-  \end{tabular}
-  \label{tab:finkelstein_N}
+	 	 \multicolumn{2}{c}{Dust: SMC \citep{Pei:1992ey}} &  \multicolumn{2}{c}{Model A: $\Delta log_{10}\xi_{\rm{ion}} = 0$} & \multicolumn{3}{c}{Model B: $\Delta log_{10}\xi_{\rm{ion}} = +0.18$} \\
+	 	 \multicolumn{2}{c}{} &  \multicolumn{2}{c}{} & \multicolumn{3}{c}{(For fiducial $f_{\rm{esc}} = 0.42$, $A_{V} = 0.08$, $\beta = -2$)} \\
+\end{tabular} \label{tab:finkelstein_N}
 \end{table}

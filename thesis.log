@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  5 SEP 2014 13:20
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  25 AUG 2015 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,15 +12,15 @@ Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -29,8 +29,8 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count89
-) (./style/aas_macros.sty) (./style/noindent.sty) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+\c@NAT@ctr=\count88
+) (./style/noindent.sty) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
@@ -42,9 +42,15 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
- (/usr/local/texlive/2011/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -75,8 +81,8 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@tables=\count93
 \c@LT@chunks=\count94
 \LT@p@ftn=\toks15
-) (./style/import.sty) (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/bigstrut.sty
@@ -86,10 +92,10 @@ Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
  (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/pict2e.cfg
 File: pict2e.cfg 2011/04/05 v0.1t pict2e configuration for teTeX/TeXLive
 )
-Package pict2e Info: Driver file: xetex.def on input line 119.
-Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 121.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/p2e-xetex.def
-File: p2e-xetex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
 )
 \pIIe@GRAPH=\toks16
 \@arclen=\dimen107
@@ -156,6 +162,11 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \multicolundershoot=\dimen123
 \mult@nat@firstbox=\box54
 \colbreak@box=\box55
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/genmisc/nth.sty
+Package: nth 2002/02/27
 ) (./texfiles/mn2e_compat.tex
 LaTeX Info: Redefining \rm on input line 18.
 LaTeX Info: Redefining \sf on input line 19.
@@ -166,16 +177,16 @@ LaTeX Info: Redefining \sl on input line 23.
 LaTeX Info: Redefining \sc on input line 24.
 LaTeX Info: Redefining \cal on input line 25.
 LaTeX Info: Redefining \mit on input line 26.
-\math@groups=\toks17
+\math@groups=\toks18
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 88.
 \symbmisymbols=\mathgroup4
 ) (./texfiles/reg_margins.tex)
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 119.
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 124.
 
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 121.
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 126.
 
 \epswidth=\skip60
 \epsheight=\skip61
@@ -186,7 +197,7 @@ Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 Package: amssymb 2009/06/22 v3.00
  (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -200,7 +211,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01
  (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks19
+\@emptytoks=\toks20
 \ex@=\dimen124
 )) (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
@@ -228,1358 +239,737 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \dotsspace@=\muskip10
 \c@parentequation=\count111
 \dspbrk@lvl=\count112
-\tag@help=\toks20
+\tag@help=\toks21
 \row@=\count113
 \column@=\count114
 \maxfields@=\count115
-\andhelp@=\toks21
+\andhelp@=\toks22
 \eqnshift@=\dimen127
 \alignsep@=\dimen128
 \tagshift@=\dimen129
 \tagwidth@=\dimen130
 \totwidth@=\dimen131
 \lineht@=\dimen132
-\@envbody=\toks22
+\@envbody=\toks23
 \multlinegap=\skip63
 \multlinetaggap=\skip64
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup7
-) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Landscape pages in PDF (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)) (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
  (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: xetex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 130.
 ) (./thesis.aux
 
-LaTeX Warning: Label `ch:chapter1_label' multiply defined.
-
-
-LaTeX Warning: Label `ch:chapter2_label' multiply defined.
-
-
-LaTeX Warning: Label `ap:appendix2_label' multiply defined.
+LaTeX Warning: Label `eq:cont_sep' multiply defined.
 
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen133
+\scratchbox=\box58
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen134
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+)) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+ (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./preamble/title.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-File: preamble/un_tf_blk.eps Graphic file (type eps)
- <preamble/un_tf_blk.eps> [1
+Package epstopdf Info: Source file: <preamble/UoN_BlueCMYK.eps>
+(epstopdf)                    date: 2015-03-27 17:45:59
+(epstopdf)                    size: 79065 bytes
+(epstopdf)             Output file: <preamble/UoN_BlueCMYK-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-06-17 14:38:22
+(epstopdf)                    size: 9660 bytes
+(epstopdf)             Command: <repstopdf --outfile=preamble/UoN_BlueCMYK-eps-converted-to.pdf preamble/UoN_BlueCMYK.eps>
+(epstopdf)             \includegraphics on input line 25.
+Package epstopdf Info: Output file is already uptodate.
+ <preamble/UoN_BlueCMYK-eps-converted-to.pdf, id=1, 491.8375pt x 198.7425pt>
+File: preamble/UoN_BlueCMYK-eps-converted-to.pdf Graphic file (type pdf)
+ <use preamble/UoN_BlueCMYK-eps-converted-to.pdf>
+Package pdftex.def Info: preamble/UoN_BlueCMYK-eps-converted-to.pdf used on input line 25.
+(pdftex.def)             Requested size: 247.54149pt x 100.02603pt.
+ [1
 
 
 
-]) (./preamble/quote.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./preamble/UoN_BlueCMYK-eps-converted-to.pdf>]) (./preamble/quote.tex
+Missing character: There is no ‚ in font cmti12!
+Missing character: There is no Ä in font cmti12!
+Missing character: There is no ù in font cmti12!
+Missing character: There is no ‚ in font cmti12!
+Missing character: There is no Ä in font cmti12!
+Missing character: There is no ù in font cmti12!
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 21.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 30.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+Overfull \hbox (19.27917pt too wide) in paragraph at lines 30--42
+[][] 
+ []
 
-]) (./preamble/abstract.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
- [2
+[1
+
+]) (./preamble/abstract.tex [2
 
 
-]) (./preamble/acknow.tex [3
+] [3] [4]) (./preamble/published.tex
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+ [5
+
+
+] [6]) (./preamble/acknow.tex [7
 
 
 ]) (./thesis.toc [1
 
 
-])
+] [2])
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
- [2] (./thesis.lof
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page iii undefined on input line 11.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page iii undefined on input line 11.
-
-[3
-
-] [4]
-Overfull \hbox (3.36584pt too wide) in paragraph at lines 24--24
- [][] []\OT1/ptm/m/n/12 Comparison of the re-cov-ered ver-sus in-put $\OML/cmm/m/it/12 M[]$ \OT1/ptm/m/n/12 for the full mock galaxy 
- []
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page v undefined on input line 25.
-
-
-Package natbib Warning: Citation `2009MNRAS.395.2196M' on page v undefined on input line 25.
-
-
-Package natbib Warning: Citation `2011ApJ...737...90B' on page v undefined on input line 25.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page v undefined on input line 25.
-
-
-Package natbib Warning: Citation `Schenker:2013cl' on page v undefined on input line 25.
-
-
-Package natbib Warning: Citation `Koekemoer:2013db' on page v undefined on input line 25.
-
-[5]
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page vi undefined on input line 26.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page vi undefined on input line 27.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page vi undefined on input line 27.
-
-
-Package natbib Warning: Citation `Anonymous:96uKWdy6' on page vi undefined on input line 27.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page vi undefined on input line 27.
-
-
-Package natbib Warning: Citation `Moster:2011ip' on page vi undefined on input line 27.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page vi undefined on input line 28.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page vi undefined on input line 28.
-
-[6]
-
-Package natbib Warning: Citation `Croton:2006ew' on page vii undefined on input line 29.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page vii undefined on input line 29.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page vii undefined on input line 29.
-
-
-Package natbib Warning: Citation `Lu:2013ui' on page vii undefined on input line 29.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page vii undefined on input line 29.
-
-
-Package natbib Warning: Citation `Dekel:2013id' on page vii undefined on input line 31.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page vii undefined on input line 31.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page vii undefined on input line 32.
-
-
-Package natbib Warning: Citation `Behroozi:2013fg' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `Anonymous:r_woy2UF' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `Bouwens:2009ik' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page vii undefined on input line 33.
-
-
-Package natbib Warning: Citation `Dunlop:2013kp' on page vii undefined on input line 33.
-
-
-Overfull \hbox (7.75665pt too wide) in paragraph at lines 33--33
- \OT1/ptm/m/n/12 empty black cir-cles show the cor-re-spond-ing es-ti-mates us-ing SFR$[]$, 
+ [3] (./thesis.lof [4
+
+] [5]
+Overfull \hbox (21.95004pt too wide) in paragraph at lines 52--52
+ \OT1/cmr/m/n/12 povich et al. 2011) and ex-po-nen-tial (green dashed: Pa-povich et al. 2011) 
  []
 
 )
 \tf@lof=\write4
 \openout4 = `thesis.lof'.
 
- [7] [8] (./thesis.lot
+ [6] [7] (./thesis.lot
+Overfull \hbox (14.7905pt too wide) in paragraph at lines 22--22
+ [][] []\OT1/cmr/m/n/12 Bayesian In-for-ma-tion Cri-te-rion (BIC) for the as-sump-tion of a redshift- 
+ []
 
-Package natbib Warning: Citation `Schechter:1976gl' on page ix undefined on input line 13.
+[8
 
-
-Package natbib Warning: Citation `Schechter:1976gl' on page ix undefined on input line 15.
-
-
-Package caption Warning: \label before \caption on input line 338.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:mass_schecter' on page ix undefined on input line 16.
-
-)
+])
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [9
+ [9] (./preamble/tpage.tex [1
 
-] (./preamble/tpage.tex [1
-
-]) (./chapter/chapter1/c1.tex
+]) (./chapter/Introduction/Introduction.tex
 Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-
-Package natbib Warning: Citation `ref1' on page 2 undefined on input line 17.
-
-
-Package natbib Warning: Citation `ref1' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `ref2' on page 2 undefined on input line 19.
-
-) (./chapter/chapter2/c2.tex [2
-
-
-]
-Chapter 2.
-[3
-
-]) (./chapter/chapter3/c3.tex [4]
-Chapter 3.
-[5
-
-]
-
-Package natbib Warning: Citation `Brammer:2008gn' on page 6 undefined on input line 26.
-
-
-Package natbib Warning: Citation `1997A&A...326..950F' on page 6 undefined on input line 26.
-
-
-Package natbib Warning: Citation `2010ApJ...719.1168E' on page 6 undefined on input line 26.
-
-[6]
-
-Package natbib Warning: Citation `Henriques:2012gs' on page 7 undefined on input line 29.
-
-[7]
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-File: chapter/chapter3/plots/fig1.eps Graphic file (type eps)
- <chapter/chapter3/plots/fig1.eps>
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
- [8]
-
-Package natbib Warning: Citation `Dahlen:2013eu' on page 9 undefined on input line 65.
-
-
-Package natbib Warning: Citation `Dahlen:2013eu' on page 9 undefined on input line 67.
-
-
-Package natbib Warning: Citation `Dahlen:2013eu' on page 9 undefined on input line 67.
-
-
-Package natbib Warning: Citation `LeFvre:2004ge' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Stanway:2004gu' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Vanzella:2008hp' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Hathi:2008ca' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Popesso:2009ht' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Wuyts:2009gv' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Rhoads:2009eb' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Vanzella:2009ez' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Balestra:2010bt' on page 9 undefined on input line 71.
-
-
-Package natbib Warning: Citation `Kurk:2012ej' on page 9 undefined on input line 71.
-
-[9]
-
-Package natbib Warning: Citation `2012ApJ...748..122P' on page 10 undefined on input line 76.
-
-
-Package natbib Warning: Citation `Pirzkal:2013ug' on page 10 undefined on input line 76.
-
-
-Package natbib Warning: Citation `2005ApJ...631..126D' on page 10 undefined on input line 78.
-
-
-Package natbib Warning: Citation `2009MNRAS.395.2196M' on page 10 undefined on input line 78.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 10 undefined on input line 78.
-
-[10]
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-File: chapter/chapter3/plots/fig2.eps Graphic file (type eps)
- <chapter/chapter3/plots/fig2.eps>
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 11 undefined on input line 101.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 11 undefined on input line 101.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 11 undefined on input line 101.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 11 undefined on input line 101.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 11 undefined on input line 107.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 11 undefined on input line 107.
-
-
-Package natbib Warning: Citation `2010ApJ...724..425D' on page 11 undefined on input line 107.
-
-[11] [12]
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 13 undefined on input line 109.
-
-
-Package natbib Warning: Citation `Somerville:2012cq' on page 13 undefined on input line 109.
-
-
-Package natbib Warning: Citation `2010ApJ...724..425D' on page 13 undefined on input line 114.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 13 undefined on input line 118.
-
-
-Package natbib Warning: Citation `Somerville:2012cq' on page 13 undefined on input line 118.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 13 undefined on input line 118.
-
-
-Package natbib Warning: Citation `Lu:2013ui' on page 13 undefined on input line 118.
-
-[13]
-
-Package caption Warning: \label before \caption on input line 126.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:eg_photom' on page 14 undefined on input line 122.
-
-
-Overfull \hbox (244.02638pt too wide) in paragraph at lines 128--140
- [][] 
- []
-
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA1.eps Graphic file (type eps)
-<chapter/chapter3/plots/figA1.eps>
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 14 undefined on input line 149.
-
-[14] [15]
-
-Package caption Warning: \label before \caption on input line 126.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:eg_photom' on page 16 undefined on input line 155.
-
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA2a.eps Graphic file (type eps)
-<chapter/chapter3/plots/figA2a.eps>
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA2b.eps Graphic file (type eps)
- <chapter/chapter3/plots/figA2b.eps>
-
-Package caption Warning: \label before \caption on input line 126.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:eg_photom' on page 16 undefined on input line 167.
+[2
+
+
+] <chapter/Introduction/CobeWmapPlanckComparison.jpg, id=78, 3613.5pt x 2007.5pt>
+File: chapter/Introduction/CobeWmapPlanckComparison.jpg Graphic file (type jpg)
+ <use chapter/Introduction/CobeWmapPlanckComparison.jpg>
+Package pdftex.def Info: chapter/Introduction/CobeWmapPlanckComparison.jpg used on input line 17.
+(pdftex.def)             Requested size: 371.30594pt x 206.27551pt.
+ <chapter/Introduction/Planck_CMB.jpg, id=79, 1927.2pt x 963.6pt>
+File: chapter/Introduction/Planck_CMB.jpg Graphic file (type jpg)
+ <use chapter/Introduction/Planck_CMB.jpg>
+Package pdftex.def Info: chapter/Introduction/Planck_CMB.jpg used on input line 21.
+(pdftex.def)             Requested size: 330.05322pt x 165.0155pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 23.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 23.
+ [3] [4 <./chapter/Introduction/CobeWmapPlanckComparison.jpg> <./chapter/Introduction/Planck_CMB.jpg>] [5] [6] <chapter/Introduction/ColourMass_Schawinski.pdf, id=96, 375.4025pt x 284.20479pt>
+File: chapter/Introduction/ColourMass_Schawinski.pdf Graphic file (type pdf)
+ <use chapter/Introduction/ColourMass_Schawinski.pdf>
+Package pdftex.def Info: chapter/Introduction/ColourMass_Schawinski.pdf used on input line 50.
+(pdftex.def)             Requested size: 391.93544pt x 296.74123pt.
+ [7 <./chapter/Introduction/ColourMass_Schawinski.pdf>] <chapter/Introduction/Hopkins2004.pdf, id=142, 597.23125pt x 433.62pt>
+File: chapter/Introduction/Hopkins2004.pdf Graphic file (type pdf)
+ <use chapter/Introduction/Hopkins2004.pdf>
+Package pdftex.def Info: chapter/Introduction/Hopkins2004.pdf used on input line 61.
+(pdftex.def)             Requested size: 391.93544pt x 284.56905pt.
+ [8] [9 <./chapter/Introduction/Hopkins2004.pdf>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 79.
+
+[10] <chapter/Introduction/BouwensCuts.pdf, id=182, 196.61555pt x 198.23862pt>
+File: chapter/Introduction/BouwensCuts.pdf Graphic file (type pdf)
+ <use chapter/Introduction/BouwensCuts.pdf>
+Package pdftex.def Info: chapter/Introduction/BouwensCuts.pdf used on input line 85.
+(pdftex.def)             Requested size: 288.7942pt x 291.2076pt.
+ [11 <./chapter/Introduction/BouwensCuts.pdf>] [12] [13] [14]
+
+LaTeX Warning: Command \r invalid in math mode on input line 113.
+
+[15]
+
+LaTeX Warning: Command \r invalid in math mode on input line 119.
 
 [16] [17] [18]
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA3a.eps Graphic file (type eps)
- <chapter/chapter3/plots/figA3a.eps>
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA3b.eps Graphic file (type eps)
- <chapter/chapter3/plots/figA3b.eps>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 143.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
+ [19] [20] [21] <chapter/Introduction/sed_plot.pdf, id=265, 431.34149pt x 510.34062pt>
+File: chapter/Introduction/sed_plot.pdf Graphic file (type pdf)
+ <use chapter/Introduction/sed_plot.pdf>
+Package pdftex.def Info: chapter/Introduction/sed_plot.pdf used on input line 179.
+(pdftex.def)             Requested size: 412.56496pt x 488.15375pt.
+ [22] [23 <./chapter/Introduction/sed_plot.pdf>] [24] [25] <chapter/Introduction/hst_efficiency.png, id=336, 546.3612pt x 348.8232pt>
+File: chapter/Introduction/hst_efficiency.png Graphic file (type png)
+ <use chapter/Introduction/hst_efficiency.png>
+Package pdftex.def Info: chapter/Introduction/hst_efficiency.png used on input line 203.
+(pdftex.def)             Requested size: 330.05322pt x 210.72731pt.
 
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 19 undefined on input line 185.
-
-
-Package natbib Warning: Citation `Giavalisco:2004et' on page 19 undefined on input line 185.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 19 undefined on input line 187.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 19 undefined on input line 187.
-
-[19] [20]
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA4.eps Graphic file (type eps)
- <chapter/chapter3/plots/figA4.eps>
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
-File: chapter/chapter3/plots/figA5.eps Graphic file (type eps)
- <chapter/chapter3/plots/figA5.eps> [21]) (./chapter/chapter4/c4.tex [22]
-Chapter 4.
-
-Package natbib Warning: Citation `Chabrier:2003ki' on page 23 undefined on input line 15.
-
-[23
-
-]
-
-Package natbib Warning: Citation `Salmon:2014tm' on page 24 undefined on input line 24.
-
-[24] [25]
-
-LaTeX Warning: Command \r invalid in math mode on input line 58.
-
-
-Overfull \hbox (5.09416pt too wide) in paragraph at lines 65--66
-\OT1/ptm/m/n/12 In or-der to cal-cu-late UV star-formation rates, the rest frame ab-so-lute mag-ni-tudes (M$[]$)
+Overfull \hbox (2.58492pt too wide) in paragraph at lines 208--209
+[]\OT1/cmr/m/n/12 Thankfully, the greatly im-proved ca-pa-bil-i-ties of the Wide Field Cam-era 3 (WFC3),
  []
 
-[26] [27]
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig3.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig3.eps> [28] [29]
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig4.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig4.eps>
-Overfull \hbox (99.58464pt too wide) in paragraph at lines 112--113
-[][] 
+[26 <./chapter/Introduction/hst_efficiency.png>] [27] [28]) (./chapter/Chapter2/StellarMassFunctions.tex [29]
+Chapter 2.
+[30
+
+] [31] [32] [33] [34] [35] [36] [37] <chapter/Chapter2/plots/fig1.pdf, id=379, 396.96744pt x 272.24522pt>
+File: chapter/Chapter2/plots/fig1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig1.pdf used on input line 78.
+(pdftex.def)             Requested size: 270.30118pt x 185.38599pt.
+ [38 <./chapter/Chapter2/plots/fig1.pdf>] [39] [40] <chapter/Chapter2/plots/fig2.pdf, id=594, 545.45186pt x 543.64825pt>
+File: chapter/Chapter2/plots/fig2.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig2.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig2.pdf used on input line 123.
+(pdftex.def)             Requested size: 398.33858pt x 397.02583pt.
+ [41] [42 <./chapter/Chapter2/plots/fig2.pdf>] [43] [44] [45] <chapter/Chapter2/plots/figA1.pdf, id=688, 288.34538pt x 556.21523pt>
+File: chapter/Chapter2/plots/figA1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA1.pdf used on input line 170.
+(pdftex.def)             Requested size: 227.62204pt x 439.07422pt.
+ [46
+
+
+] [47 <./chapter/Chapter2/plots/figA1.pdf>] <chapter/Chapter2/plots/figA2a.pdf, id=769, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA2a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA2a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA2a.pdf used on input line 187.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ <chapter/Chapter2/plots/figA2b.pdf, id=770, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA2b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA2b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA2b.pdf used on input line 188.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ [48] [49 <./chapter/Chapter2/plots/figA2a.pdf> <./chapter/Chapter2/plots/figA2b.pdf>] <chapter/Chapter2/plots/figA3a.pdf, id=917, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA3a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA3a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA3a.pdf used on input line 205.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ <chapter/Chapter2/plots/figA3b.pdf, id=918, 288.34538pt x 293.1524pt>
+File: chapter/Chapter2/plots/figA3b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA3b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA3b.pdf used on input line 206.
+(pdftex.def)             Requested size: 227.62204pt x 231.41339pt.
+ [50] [51 <./chapter/Chapter2/plots/figA3a.pdf> <./chapter/Chapter2/plots/figA3b.pdf>] <chapter/Chapter2/plots/figA4.pdf, id=1090, 294.7286pt x 288.97273pt>
+File: chapter/Chapter2/plots/figA4.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA4.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA4.pdf used on input line 219.
+(pdftex.def)             Requested size: 227.62204pt x 223.1799pt.
+ <chapter/Chapter2/plots/figA5.pdf, id=1091, 279.67297pt x 378.55238pt>
+File: chapter/Chapter2/plots/figA5.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figA5.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figA5.pdf used on input line 227.
+(pdftex.def)             Requested size: 227.62204pt x 308.09868pt.
+ [52 <./chapter/Chapter2/plots/figA4.pdf>] [53 <./chapter/Chapter2/plots/figA5.pdf>] <chapter/Chapter2/plots/BC_comparison.pdf, id=1232, 397.485pt x 289.08pt>
+File: chapter/Chapter2/plots/BC_comparison.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/BC_comparison.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/BC_comparison.pdf used on input line 244.
+(pdftex.def)             Requested size: 369.88582pt x 269.01805pt.
+ [54] [55 <./chapter/Chapter2/plots/BC_comparison.pdf>] [56] [57]
+
+LaTeX Warning: Command \r invalid in math mode on input line 295.
+
+[58] [59] <chapter/Chapter2/plots/figB1.pdf, id=1282, 271.88138pt x 278.92015pt>
+File: chapter/Chapter2/plots/figB1.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB1.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB1.pdf used on input line 324.
+(pdftex.def)             Requested size: 213.39566pt x 218.923pt.
+ [60] <chapter/Chapter2/plots/figB2.pdf, id=1286, 361.35pt x 469.755pt>
+File: chapter/Chapter2/plots/figB2.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB2.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB2.pdf used on input line 333.
+(pdftex.def)             Requested size: 350.68272pt x 455.89119pt.
+ [61 <./chapter/Chapter2/plots/figB1.pdf>] [62 <./chapter/Chapter2/plots/figB2.pdf>] <chapter/Chapter2/plots/figB3.pdf, id=1505, 355.96112pt x 223.97395pt>
+File: chapter/Chapter2/plots/figB3.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/figB3.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/figB3.pdf used on input line 344.
+(pdftex.def)             Requested size: 309.4237pt x 194.70197pt.
+ [63 <./chapter/Chapter2/plots/figB3.pdf>] <chapter/Chapter2/plots/fig3.pdf, id=1583, 395.38028pt x 282.09608pt>
+File: chapter/Chapter2/plots/fig3.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig3.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig3.pdf used on input line 359.
+(pdftex.def)             Requested size: 270.30118pt x 192.85585pt.
+ [64] [65 <./chapter/Chapter2/plots/fig3.pdf>]
+Overfull \hbox (0.9613pt too wide) in paragraph at lines 374--375
+[]\OT1/cmr/m/n/12 In or-der to as-sign pho-to-met-ric er-rors to the mock pho-tom-e-try (or non-observations
  []
 
-[30] [31]
+<chapter/Chapter2/plots/fig4.pdf, id=1636, 801.86575pt x 403.22519pt>
+File: chapter/Chapter2/plots/fig4.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig4.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig4.pdf used on input line 382.
+(pdftex.def)             Requested size: 412.56496pt x 207.46332pt.
+ [66] [67 <./chapter/Chapter2/plots/fig4.pdf>]
 
-LaTeX Warning: Command \r invalid in math mode on input line 129.
+LaTeX Warning: Command \r invalid in math mode on input line 399.
 
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig5.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig5.eps>
+<chapter/Chapter2/plots/fig5.pdf, id=1963, 827.5075pt x 299.54007pt>
+File: chapter/Chapter2/plots/fig5.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig5.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig5.pdf used on input line 402.
+(pdftex.def)             Requested size: 412.56496pt x 149.34001pt.
+ [68] <chapter/Chapter2/plots/fig6.pdf, id=1968, 339.04166pt x 364.03818pt>
+File: chapter/Chapter2/plots/fig6.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig6.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig6.pdf used on input line 411.
+(pdftex.def)             Requested size: 239.00314pt x 256.63028pt.
+ [69 <./chapter/Chapter2/plots/fig5.pdf>] [70 <./chapter/Chapter2/plots/fig6.pdf>] <chapter/Chapter2/plots/fig7.pdf, id=3512, 567.1109pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig7.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig7.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig7.pdf used on input line 452.
+(pdftex.def)             Requested size: 412.56496pt x 308.64784pt.
+ [71] [72 <./chapter/Chapter2/plots/fig7.pdf>] [73] <chapter/Chapter2/plots/fig8a.pdf, id=3728, 553.23093pt x 421.62833pt>
+File: chapter/Chapter2/plots/fig8a.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig8a.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig8a.pdf used on input line 511.
+(pdftex.def)             Requested size: 369.88582pt x 281.89763pt.
+ <chapter/Chapter2/plots/fig8b.pdf, id=3729, 553.23093pt x 421.62833pt>
+File: chapter/Chapter2/plots/fig8b.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig8b.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig8b.pdf used on input line 512.
+(pdftex.def)             Requested size: 369.88582pt x 281.89763pt.
 
-Package natbib Warning: Citation `Dunlop:2011jl' on page 32 undefined on input line 140.
-
-
-Package natbib Warning: Citation `Wilkins:2011fs' on page 32 undefined on input line 140.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 32 undefined on input line 140.
-
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 32 undefined on input line 140.
-
-[32]
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 144 replaced by U+FFFD.
-File: chapter/chapter4/plots/figB1.eps Graphic file (type eps)
- <chapter/chapter4/plots/figB1.eps> [33]
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-File: chapter/chapter4/plots/figB2.eps Graphic file (type eps)
- <chapter/chapter4/plots/figB2.eps>
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
-File: chapter/chapter4/plots/figB3.eps Graphic file (type eps)
- <chapter/chapter4/plots/figB3.eps>
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig6.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig6.eps>
-
-Package natbib Warning: Citation `Schmidt:1968wj' on page 34 undefined on input line 177.
-
-
-Package natbib Warning: Citation `1980ApJ...235..694A' on page 34 undefined on input line 177.
-
-
-Package natbib Warning: Citation `1993ApJ...404...51E' on page 34 undefined on input line 177.
-
-
-Package natbib Warning: Citation `2005A&A...439..863I' on page 34 undefined on input line 177.
-
-[34] [35] [36]
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig7.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig7.eps>
-Overfull \hbox (99.58464pt too wide) in paragraph at lines 211--212
-[][] 
- []
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `2009MNRAS.395.2196M' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `2011ApJ...737...90B' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `Schenker:2013cl' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `Koekemoer:2013db' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `2009MNRAS.395.2196M' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `2011ApJ...737...90B' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `Schenker:2013cl' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `Koekemoer:2013db' on page 37 undefined on input line 212.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 37 undefined on input line 216.
-
-
-Package natbib Warning: Citation `2011ApJ...737...90B' on page 37 undefined on input line 223.
-
-[37]
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 38 undefined on input line 225.
-
-[38]
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 39 undefined on input line 229.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 39 undefined on input line 229.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 39 undefined on input line 262.
-
-[39]
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 269 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig8a.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig8a.eps>
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig8b.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig8b.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 269--271
+Underfull \hbox (badness 10000) in paragraph at lines 511--513
 [][]
  []
 
 
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 40 undefined on input line 271.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 40 undefined on input line 271.
-
-
-LaTeX Warning: Float too large for page by 46.12386pt on input line 273.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 40 undefined on input line 275.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 40 undefined on input line 275.
-
-
-Package natbib Warning: Citation `Shim:2011cw' on page 40 undefined on input line 277.
-
-
-Package natbib Warning: Citation `deBarros:2012wa' on page 40 undefined on input line 277.
-
-
-Package natbib Warning: Citation `Schenker:2013ep' on page 40 undefined on input line 277.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 40 undefined on input line 277.
-
-
-Package natbib Warning: Citation `Salmon:2014tm' on page 40 undefined on input line 279.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 40 undefined on input line 279.
-
-[40] [41]
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 42 undefined on input line 283.
-
-
-Package natbib Warning: Citation `Dunlop:2011jl' on page 42 undefined on input line 283.
-
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 42 undefined on input line 283.
-
-
-Package natbib Warning: Citation `Rogers:2014bn' on page 42 undefined on input line 283.
-
-[42]
-
-Package natbib Warning: Citation `Wilkins:2013kh' on page 43 undefined on input line 315.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 43 undefined on input line 315.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 43 undefined on input line 315.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 43 undefined on input line 321.
-
-
-Package caption Warning: \label before \caption on input line 338.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:mass_schecter' on page 43 undefined on input line 321.
-
-[43]
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig9.eps Graphic file (type eps)
- <chapter/chapter4/plots/fig9.eps>
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Anonymous:96uKWdy6' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Moster:2011ip' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Anonymous:96uKWdy6' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Moster:2011ip' on page 44 undefined on input line 332.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 44 undefined on input line 339.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 44 undefined on input line 339.
-
-[44] [45]
-
-Package natbib Warning: Citation `Moster:2011ip' on page 46 undefined on input line 363.
-
-
-Package natbib Warning: Citation `Newman:2002fa' on page 46 undefined on input line 363.
-
-
-Package natbib Warning: Citation `Newman:2002fa' on page 46 undefined on input line 363.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 46 undefined on input line 365.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 46 undefined on input line 365.
-
-
-Package natbib Warning: Citation `Anonymous:96uKWdy6' on page 46 undefined on input line 365.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 46 undefined on input line 365.
-
-
-Package natbib Warning: Citation `2011MNRAS.413..162C' on page 46 undefined on input line 370.
-
-
-Package natbib Warning: Citation `2011MNRAS.413..162C' on page 46 undefined on input line 370.
-
-
-Package natbib Warning: Citation `2011MNRAS.413..162C' on page 46 undefined on input line 370.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 46 undefined on input line 370.
-
-
-Package natbib Warning: Citation `Muzzin:2013bl' on page 46 undefined on input line 370.
-
-[46]
-
-Package natbib Warning: Citation `Santini:2012jq' on page 47 undefined on input line 372.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 47 undefined on input line 376.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 47 undefined on input line 376.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 47 undefined on input line 376.
-
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig10.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig10.eps>
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 47 undefined on input line 381.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 47 undefined on input line 381.
-
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 47 undefined on input line 381.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 47 undefined on input line 381.
-
-[47]
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 48 undefined on input line 387.
-
-
-Package natbib Warning: Citation `2011MNRAS.413..162C' on page 48 undefined on input line 387.
-
-
-Package natbib Warning: Citation `Santini:2012jq' on page 48 undefined on input line 387.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Croton:2006ew' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Somerville:2012cq' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Somerville:2012cq' on page 48 undefined on input line 391.
-
-
-Package natbib Warning: Citation `Lu:2013ui' on page 48 undefined on input line 391.
-
-[48]
-
-Package natbib Warning: Citation `Dave:2013bf' on page 49 undefined on input line 393.
-
-
-Package natbib Warning: Citation `Croton:2006ew' on page 49 undefined on input line 393.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 393.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 49 undefined on input line 393.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 49 undefined on input line 393.
-
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig11.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig11.eps>
-
-Package natbib Warning: Citation `Croton:2006ew' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Lu:2013ui' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Croton:2006ew' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Somerville:2008ed' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Lu:2013ui' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 49 undefined on input line 398.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 49 undefined on input line 402.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 402.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 404.
-
-
-Package natbib Warning: Citation `Lu:2011hj' on page 49 undefined on input line 404.
-
-[49]
-
-Package natbib Warning: Citation `Schechter:1976gl' on page 50 undefined on input line 407.
-
-
-Package caption Warning: \label before \caption on input line 419.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:smd' on page 50 undefined on input line 407.
-
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig12.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig12.eps>
-
-Package caption Warning: \label before \caption on input line 338.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:mass_schecter' on page 50 undefined on input line 420.
-
-
-Package caption Warning: \label before \caption on input line 338.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:mass_schecter' on page 50 undefined on input line 420.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 50 undefined on input line 433.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 50 undefined on input line 433.
-
-
-Package natbib Warning: Citation `Gonzalez:2011dn' on page 50 undefined on input line 435.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 50 undefined on input line 435.
-
-
-Package natbib Warning: Citation `Santini:2012jq' on page 50 undefined on input line 435.
-
-
-Package natbib Warning: Citation `PerezGonzalez:2008cq' on page 50 undefined on input line 435.
-
-
-Package natbib Warning: Citation `Marchesini:2009ef' on page 50 undefined on input line 435.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 50 undefined on input line 435.
-
-[50]
-
-Package natbib Warning: Citation `Gonzalez:2010hm' on page 51 undefined on input line 439.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 51 undefined on input line 439.
-
-
-Package natbib Warning: Citation `Weinmann:2011hh' on page 51 undefined on input line 439.
-
-
-Package natbib Warning: Citation `Weinmann:2011hh' on page 51 undefined on input line 439.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 51 undefined on input line 441.
-
-
-Package natbib Warning: Citation `Gonzalez:2014do' on page 51 undefined on input line 441.
-
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig13.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig13.eps>
-
-Package natbib Warning: Citation `Dekel:2013id' on page 51 undefined on input line 446.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 51 undefined on input line 446.
-
-
-Package natbib Warning: Citation `Dekel:2013id' on page 51 undefined on input line 446.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 51 undefined on input line 446.
-
-
-Package natbib Warning: Citation `Gonzalez:2014do' on page 51 undefined on input line 450.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 51 undefined on input line 450.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 51 undefined on input line 450.
-
-[51]
-
-Package natbib Warning: Citation `Neistein:2007fg' on page 52 undefined on input line 452.
-
-
-Package natbib Warning: Citation `Dekel:2013id' on page 52 undefined on input line 452.
-
-
-Package natbib Warning: Citation `Dave:2013bf' on page 52 undefined on input line 452.
-
-
-Overfull \hbox (0.95024pt too wide) in paragraph at lines 452--453
-[]\OT1/ptm/m/n/12 Performing a sim-ple best fit to our ob-served sSFR across all four red-shift bins, weighted
+LaTeX Warning: Float too large for page by 2.95273pt on input line 515.
+
+[74] [75 <./chapter/Chapter2/plots/fig8a.pdf> <./chapter/Chapter2/plots/fig8b.pdf>] [76] [77] [78] <chapter/Chapter2/plots/fig9.pdf, id=3957, 619.51451pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig9.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig9.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig9.pdf used on input line 574.
+(pdftex.def)             Requested size: 412.56496pt x 282.5393pt.
+ [79 <./chapter/Chapter2/plots/fig9.pdf>] [80] [81] <chapter/Chapter2/plots/fig10.pdf, id=4207, 414.53996pt x 285.68701pt>
+File: chapter/Chapter2/plots/fig10.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig10.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig10.pdf used on input line 622.
+(pdftex.def)             Requested size: 284.52756pt x 196.08673pt.
+ [82 <./chapter/Chapter2/plots/fig10.pdf>]
+Overfull \hbox (40.37442pt too wide) in paragraph at lines 633--634
+\OT1/cmr/m/n/12 semi-analytic mod-els. The SPH pre-dic-tions are taken from the hy-brid energy/momentum-
  []
 
-[52]
+[83] [84] <chapter/Chapter2/plots/fig11.pdf, id=4305, 847.165pt x 286.95015pt>
+File: chapter/Chapter2/plots/fig11.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig11.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig11.pdf used on input line 640.
+(pdftex.def)             Requested size: 676.04005pt x 228.9956pt.
+ [85 <./chapter/Chapter2/plots/fig11.pdf>] [86
+
+
+]
+Overfull \hbox (8.23216pt too wide) in paragraph at lines 659--660
+\OT1/cmr/m/n/12 We com-pute the to-tal stel-lar mass den-sity (SMD) by in-te-grat-ing the fit-ted Schechter
+ []
+
+<chapter/Chapter2/plots/fig12.pdf, id=4441, 397.1682pt x 334.83061pt>
+File: chapter/Chapter2/plots/fig12.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig12.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig12.pdf used on input line 663.
+(pdftex.def)             Requested size: 284.52756pt x 239.8721pt.
+ [87] [88 <./chapter/Chapter2/plots/fig12.pdf>] <chapter/Chapter2/plots/fig13.pdf, id=4563, 409.31042pt x 272.45851pt>
+File: chapter/Chapter2/plots/fig13.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig13.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig13.pdf used on input line 696.
+(pdftex.def)             Requested size: 284.52756pt x 189.40591pt.
+ [89] [90 <./chapter/Chapter2/plots/fig13.pdf>] [91] <chapter/Chapter2/plots/fig14.pdf, id=4657, 567.80882pt x 424.26317pt>
+File: chapter/Chapter2/plots/fig14.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig14.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig14.pdf used on input line 720.
+(pdftex.def)             Requested size: 412.56496pt x 308.27884pt.
+ <chapter/Chapter2/plots/fig15.pdf, id=4658, 398.72089pt x 277.0146pt>
+File: chapter/Chapter2/plots/fig15.pdf Graphic file (type pdf)
+ <use chapter/Chapter2/plots/fig15.pdf>
+Package pdftex.def Info: chapter/Chapter2/plots/fig15.pdf used on input line 727.
+(pdftex.def)             Requested size: 350.68272pt x 243.63834pt.
+ [92 <./chapter/Chapter2/plots/fig14.pdf>] [93 <./chapter/Chapter2/plots/fig15.pdf>] [94] [95] [96]) (./chapter/Chapter3/Mergers.tex [97]
+Chapter 3.
+[98
+
+] [99]
+Overfull \hbox (11.56677pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 frac-tions through the pho-to-met-ric red-shift prob-a-bil-ity dis-tri-bu-tion func-tions (PDFs)
+ []
+
+[100] [101] [102] [103] <chapter/Chapter3/plots/PairsPz_pri_81_2.pdf, id=5068, 486.13623pt x 288.2541pt>
+File: chapter/Chapter3/plots/PairsPz_pri_81_2.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/PairsPz_pri_81_2.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/PairsPz_pri_81_2.pdf used on input line 93.
+(pdftex.def)             Requested size: 412.56496pt x 244.63448pt.
+ <chapter/Chapter3/plots/PairsPz_pri_81_4.pdf, id=5069, 486.13623pt x 288.2541pt>
+File: chapter/Chapter3/plots/PairsPz_pri_81_4.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/PairsPz_pri_81_4.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/PairsPz_pri_81_4.pdf used on input line 94.
+(pdftex.def)             Requested size: 412.56496pt x 244.63448pt.
+ [104] [105 <./chapter/Chapter3/plots/PairsPz_pri_81_2.pdf> <./chapter/Chapter3/plots/PairsPz_pri_81_4.pdf>] [106] [107] <chapter/Chapter3/plots/specz_comparison.pdf, id=5201, 335.98651pt x 387.96506pt>
+File: chapter/Chapter3/plots/specz_comparison.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/specz_comparison.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/specz_comparison.pdf used on input line 158.
+(pdftex.def)             Requested size: 350.68272pt x 404.95409pt.
+ [108] [109 <./chapter/Chapter3/plots/specz_comparison.pdf>] [110] <chapter/Chapter3/plots/PairsMass_pri_81_2.pdf, id=5251, 452.38013pt x 288.16785pt>
+File: chapter/Chapter3/plots/PairsMass_pri_81_2.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/PairsMass_pri_81_2.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/PairsMass_pri_81_2.pdf used on input line 197.
+(pdftex.def)             Requested size: 371.30594pt x 236.5234pt.
+ <chapter/Chapter3/plots/PairsMass_pri_81_4.pdf, id=5252, 452.38013pt x 288.16785pt>
+File: chapter/Chapter3/plots/PairsMass_pri_81_4.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/PairsMass_pri_81_4.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/PairsMass_pri_81_4.pdf used on input line 198.
+(pdftex.def)             Requested size: 371.30594pt x 236.5234pt.
+ [111] [112 <./chapter/Chapter3/plots/PairsMass_pri_81_2.pdf> <./chapter/Chapter3/plots/PairsMass_pri_81_4.pdf>] <chapter/Chapter3/plots/MassCompleteness.pdf, id=5375, 397.485pt x 252.945pt>
+File: chapter/Chapter3/plots/MassCompleteness.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/MassCompleteness.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/MassCompleteness.pdf used on input line 216.
+(pdftex.def)             Requested size: 330.05322pt x 210.04079pt.
+ [113] [114 <./chapter/Chapter3/plots/MassCompleteness.pdf>]
+Overfull \hbox (2.10907pt too wide) in paragraph at lines 241--243
+\OT1/cmr/m/n/12 redshift-dependent mass limit is $[][](\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 max\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^V[][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; [][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g$\OT1/cmr/m/n/12 , where $[][](\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 )$
+ []
+
+[115] <chapter/Chapter3/plots/flux_weight_means_MCtests.pdf, id=5459, 433.62pt x 433.62pt>
+File: chapter/Chapter3/plots/flux_weight_means_MCtests.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/flux_weight_means_MCtests.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/flux_weight_means_MCtests.pdf used on input line 260.
+(pdftex.def)             Requested size: 350.68272pt x 350.70096pt.
+ [116] <chapter/Chapter3/plots/flux_weight_MCtests.pdf, id=5464, 433.62pt x 433.62pt>
+File: chapter/Chapter3/plots/flux_weight_MCtests.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/flux_weight_MCtests.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/flux_weight_MCtests.pdf used on input line 271.
+(pdftex.def)             Requested size: 350.68272pt x 350.70096pt.
+ [117 <./chapter/Chapter3/plots/flux_weight_means_MCtests.pdf>] [118 <./chapter/Chapter3/plots/flux_weight_MCtests.pdf>] [119] [120] [121] [122]
+Overfull \hbox (4.87488pt too wide) in paragraph at lines 363--364
+\OT1/cmr/m/n/12 sis in six red-shift bins from $\OML/cmm/m/it/12 z \OT1/cmr/m/n/12 = 2$ to $\OML/cmm/m/it/12 z \OT1/cmr/m/n/12 = 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ for stel-lar mass cuts of $[][]([][]\OML/cmm/m/it/12 =[][]\OT1/cmr/m/n/12 ) \OML/cmm/m/it/12 >
+ []
+
+[123] [124] <chapter/Chapter3/plots/merger_fractions.pdf, id=5587, 629.88136pt x 566.27184pt>
+File: chapter/Chapter3/plots/merger_fractions.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/merger_fractions.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/merger_fractions.pdf used on input line 404.
+(pdftex.def)             Requested size: 412.56496pt x 370.8978pt.
+ [125 <./chapter/Chapter3/plots/merger_fractions.pdf>]
+Overfull \hbox (34.88585pt too wide) in paragraph at lines 439--440
+[]\OT1/cmr/m/n/12 For the $[][]([][]\OML/cmm/m/it/12 =[][]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^U \OT1/cmr/m/n/12 9\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ mass se-lec-tion (top panel) we show the $9 \OMS/cmsy/m/n/12 ^^T [][]\OT1/cmr/m/n/12 ([][]\OML/cmm/m/it/12 =[][]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^T
+ []
 
-Package natbib Warning: Citation `Dave:2013bf' on page 53 undefined on input line 454.
+[126] [127] [128] [129] [130] <chapter/Chapter3/plots/merger_rate.pdf, id=5811, 633.06514pt x 566.27184pt>
+File: chapter/Chapter3/plots/merger_rate.pdf Graphic file (type pdf)
+ <use chapter/Chapter3/plots/merger_rate.pdf>
+Package pdftex.def Info: chapter/Chapter3/plots/merger_rate.pdf used on input line 505.
+(pdftex.def)             Requested size: 412.56496pt x 369.03143pt.
+ [131] [132 <./chapter/Chapter3/plots/merger_rate.pdf>] [133] [134] [135] [136]) (./chapter/Chapter4/reionization.tex [137]
+Chapter 4.
+[138
+
+] [139] [140] [141] [142] [143] [144] <chapter/Chapter4/plots/Fig1a.pdf, id=6026, 776.9025pt x 523.9575pt>
+File: chapter/Chapter4/plots/Fig1a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig1a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig1a.pdf used on input line 56.
+(pdftex.def)             Requested size: 295.77155pt x 199.47368pt.
+ <chapter/Chapter4/plots/Fig1b.pdf, id=6027, 776.9025pt x 523.9575pt>
+File: chapter/Chapter4/plots/Fig1b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig1b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig1b.pdf used on input line 58.
+(pdftex.def)             Requested size: 295.77155pt x 199.47368pt.
+ [145 <./chapter/Chapter4/plots/Fig1a.pdf> <./chapter/Chapter4/plots/Fig1b.pdf>] [146
 
 
-Package natbib Warning: Citation `2007ApJ...670..156D' on page 53 undefined on input line 454.
-
-
-Package natbib Warning: Citation `2012ApJ...754...25R' on page 53 undefined on input line 454.
-
-
-Package natbib Warning: Citation `Gonzalez:2014do' on page 53 undefined on input line 454.
-
-
-Package natbib Warning: Citation `deBarros:2012wa' on page 53 undefined on input line 456.
-
-
-Package natbib Warning: Citation `2013A&A...549A...4S' on page 53 undefined on input line 456.
-
-
-Package natbib Warning: Citation `Salmon:2014tm' on page 53 undefined on input line 456.
-
-
-Package natbib Warning: Citation `Stark:2013ix' on page 53 undefined on input line 456.
-
-
-Package natbib Warning: Citation `Smit:2013ud' on page 53 undefined on input line 456.
-
-
-Package natbib Warning: Citation `Gonzalez:2014do' on page 53 undefined on input line 456.
-
-[53]
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 465.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 465.
-
-
-Package natbib Warning: Citation `2007ApJ...670..928B' on page 54 undefined on input line 465.
-
-
-Package natbib Warning: Citation `Anonymous:96uKWdy6' on page 54 undefined on input line 465.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 54 undefined on input line 465.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 465.
-
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 469 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig14.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig14.eps>
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 470.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 470.
-
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 476 replaced by U+FFFD.
-File: chapter/chapter4/plots/fig15.eps Graphic file (type eps)
-<chapter/chapter4/plots/fig15.eps>
-
-Package natbib Warning: Citation `Behroozi:2013fg' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Anonymous:r_woy2UF' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Bouwens:2009ik' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Dunlop:2013kp' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Behroozi:2013fg' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Anonymous:r_woy2UF' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Bouwens:2009ik' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Dunlop:2013kp' on page 54 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Behroozi:2013fg' on page 54 undefined on input line 481.
-
-[54]
-
-Package natbib Warning: Citation `Smit:2012is' on page 55 undefined on input line 483.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 55 undefined on input line 483.
-
-[55]
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 56 undefined on input line 485.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 56 undefined on input line 485.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 56 undefined on input line 485.
-
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 56 undefined on input line 485.
-
-
-Package natbib Warning: Citation `Dunlop:2013kp' on page 56 undefined on input line 487.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 56 undefined on input line 487.
-
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 56 undefined on input line 487.
-
-
-Package natbib Warning: Citation `Dunlop:2013kp' on page 56 undefined on input line 487.
-
-
-Package natbib Warning: Citation `McLure:2013hh' on page 56 undefined on input line 487.
-
-
-Package natbib Warning: Citation `Bouwens:2013vf' on page 56 undefined on input line 487.
-
-[56]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 497.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 497.
-
-
-Package natbib Warning: Citation `2012ApJ...754...83B' on page 57 undefined on input line 501.
-
-
-Package natbib Warning: Citation `Smit:2012is' on page 57 undefined on input line 501.
-
-[57]) (./appendix/appendices.tex [58] [59
+] [147] <chapter/Chapter4/plots/Fig2.pdf, id=6169, 428.34428pt x 569.94229pt>
+File: chapter/Chapter4/plots/Fig2.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig2.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig2.pdf used on input line 82.
+(pdftex.def)             Requested size: 330.05322pt x 439.1874pt.
+ [148] [149] <chapter/Chapter4/plots/Fig3.pdf, id=6177, 433.67395pt x 208.79593pt>
+File: chapter/Chapter4/plots/Fig3.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig3.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig3.pdf used on input line 134.
+(pdftex.def)             Requested size: 330.05322pt x 158.91273pt.
+ [150] [151]
+
+LaTeX Warning: Command \r invalid in math mode on input line 153.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 153.
+
+[152]
+
+LaTeX Warning: Command \r invalid in math mode on input line 161.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 161.
+
+[153] [154] <chapter/Chapter4/plots/Fig4.pdf, id=6194, 422.56996pt x 295.54039pt>
+File: chapter/Chapter4/plots/Fig4.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig4.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig4.pdf used on input line 195.
+(pdftex.def)             Requested size: 309.4237pt x 216.4101pt.
+ [155] [156] [157]
+
+LaTeX Warning: Command \r invalid in math mode on input line 228.
+
+[158]
+Overfull \hbox (0.99188pt too wide) in paragraph at lines 237--238
+[]\OT1/cmr/m/n/12 For galax-ies closer to the epoch of reion-iza-tion, con-straints on the Balmer/D(4000)
+ []
+
+
+Overfull \hbox (11.75713pt too wide) in paragraph at lines 246--247
+[]\OT1/cmr/m/n/12 Recent ob-ser-va-tions of galax-ies at high-redshift with con-straints on the UV emission-
+ []
+
+
+Overfull \hbox (1.49603pt too wide) in paragraph at lines 246--247
+\OT1/cmr/m/n/12 line strengths (Ly$\OML/cmm/m/it/12 $ \OT1/cmr/m/n/12 or oth-er-wise) have found that single-component star-formation
+ []
+
+[159] [160]
+
+LaTeX Warning: Command \r invalid in math mode on input line 266.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 266.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 266.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 266.
+
+[161] [162] [163] [164 <./chapter/Chapter4/plots/Fig2.pdf>] [165 <./chapter/Chapter4/plots/Fig3.pdf> <./chapter/Chapter4/plots/Fig4.pdf>] <chapter/Chapter4/plots/Fig5a.pdf, id=6558, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5a.pdf used on input line 285.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ <chapter/Chapter4/plots/Fig5b.pdf, id=6559, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5b.pdf used on input line 286.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ <chapter/Chapter4/plots/Fig5c.pdf, id=6560, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig5c.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig5c.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig5c.pdf used on input line 287.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ [166 <./chapter/Chapter4/plots/Fig5a.pdf> <./chapter/Chapter4/plots/Fig5b.pdf> <./chapter/Chapter4/plots/Fig5c.pdf>] <chapter/Chapter4/plots/Fig6a.pdf, id=7464, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6a.pdf used on input line 297.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ <chapter/Chapter4/plots/Fig6b.pdf, id=7465, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6b.pdf used on input line 298.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ <chapter/Chapter4/plots/Fig6c.pdf, id=7466, 325.215pt x 397.485pt>
+File: chapter/Chapter4/plots/Fig6c.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig6c.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig6c.pdf used on input line 299.
+(pdftex.def)             Requested size: 211.2617pt x 258.21661pt.
+ [167 <./chapter/Chapter4/plots/Fig6a.pdf> <./chapter/Chapter4/plots/Fig6b.pdf> <./chapter/Chapter4/plots/Fig6c.pdf>] [168
+
+
+
+
+] [169] [170] <chapter/Chapter4/plots/Fig7a.pdf, id=8379, 397.485pt x 578.16pt>
+File: chapter/Chapter4/plots/Fig7a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig7a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig7a.pdf used on input line 354.
+(pdftex.def)             Requested size: 202.15909pt x 294.05489pt.
+ <chapter/Chapter4/plots/Fig7b.pdf, id=8380, 397.485pt x 578.16pt>
+File: chapter/Chapter4/plots/Fig7b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig7b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig7b.pdf used on input line 355.
+(pdftex.def)             Requested size: 202.15909pt x 294.05489pt.
+ [171 <./chapter/Chapter4/plots/Fig7a.pdf> <./chapter/Chapter4/plots/Fig7b.pdf>] [172] [173] [174] <chapter/Chapter4/plots/Fig8.pdf, id=8471, 641.60326pt x 373.5926pt>
+File: chapter/Chapter4/plots/Fig8.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig8.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig8.pdf used on input line 405.
+(pdftex.def)             Requested size: 391.93544pt x 228.21608pt.
+ [175] [176 <./chapter/Chapter4/plots/Fig8.pdf>] [177] [178] [179] [180] <chapter/Chapter4/plots/Fig9a.pdf, id=8564, 473.18156pt x 290.48212pt>
+File: chapter/Chapter4/plots/Fig9a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig9a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig9a.pdf used on input line 447.
+(pdftex.def)             Requested size: 371.30594pt x 227.94917pt.
+ <chapter/Chapter4/plots/Fig9b.pdf, id=8565, 473.18156pt x 290.48212pt>
+File: chapter/Chapter4/plots/Fig9b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig9b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig9b.pdf used on input line 448.
+(pdftex.def)             Requested size: 371.30594pt x 227.94917pt.
+ [181] [182 <./chapter/Chapter4/plots/Fig9a.pdf> <./chapter/Chapter4/plots/Fig9b.pdf>] <chapter/Chapter4/plots/Fig10a.pdf, id=8693, 473.18156pt x 290.48212pt>
+File: chapter/Chapter4/plots/Fig10a.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig10a.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig10a.pdf used on input line 468.
+(pdftex.def)             Requested size: 371.30594pt x 227.94917pt.
+ <chapter/Chapter4/plots/Fig10b.pdf, id=8694, 473.18156pt x 290.48212pt>
+File: chapter/Chapter4/plots/Fig10b.pdf Graphic file (type pdf)
+ <use chapter/Chapter4/plots/Fig10b.pdf>
+Package pdftex.def Info: chapter/Chapter4/plots/Fig10b.pdf used on input line 469.
+(pdftex.def)             Requested size: 371.30594pt x 227.94917pt.
+
+[183] [184 <./chapter/Chapter4/plots/Fig10a.pdf> <./chapter/Chapter4/plots/Fig10b.pdf>] [185]
+Overfull \hbox (8.764pt too wide) in paragraph at lines 487--488
+\OT1/cmr/m/n/12 agree-ment with the colour evo-lu-tion pre-dic-tions of this work (Ra-zoumov & Sommer-
+ []
+
+[186] [187] [188] [189]) (./chapter/Conclusions/Conclusions.tex [190]
+Chapter 5.
+[191
+
+] [192] [193] [194] [195]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [196]) (./appendix/appendices.tex [197] [198] [199
 
 ]) (./appendix/app1/a1.tex
 Appendix A.
-) (./appendix/app2/a2.tex [60
+(./appendix/app1/EoR_data/EoRtable_Bouwens_rho.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_rho_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_rho_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_z_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_m15.txt) (./appendix/app1/EoR_data/EoRtable_Bouwens_zMuv_m13.txt)
+Overfull \hbox (13.70071pt too wide) in paragraph at lines 8--66
+[][]
+ []
 
+
+Overfull \hbox (41.4253pt too wide) in paragraph at lines 8--66
+[]
+ []
+
+(./appendix/app1/EoR_data/EoRtable_Fink_rho.txt) (./appendix/app1/EoR_data/EoRtable_Fink_rho_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_rho_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink.txt) (./appendix/app1/EoR_data/EoRtable_Fink_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_z_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_shal_m13.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_m15.txt) (./appendix/app1/EoR_data/EoRtable_Fink_zMuv_m13.txt)
+Overfull \hbox (13.70071pt too wide) in paragraph at lines 71--116
+[][] 
+ []
+
+
+Overfull \hbox (41.4253pt too wide) in paragraph at lines 117--128
+[][]
+ []
+
+) [200
+
+
+] (./thesis.bbl [201] [202] [203
 
 ]
-Appendix B.
-) [61
-
-] (./thesis.bbl
-Missing character: There is no ‚àº in font ptmri7t!
-Missing character: There is no Àú in font ptmri7t!
- [62
-
-]
-Missing character: There is no ‚àº in font ptmri7t!
-Missing character: There is no ‚Äê in font ptmri7t!
-Missing character: There is no ‚àº in font ptmri7t!
- [63]
-Missing character: There is no ‚âÉ in font ptmri7t!
- [64]
-Missing character: There is no ‚àº in font ptmri7t!
-Missing character: There is no ‚Äê in font ptmri7t!
-Missing character: There is no ‚Äê in font ptmri7t!
- [65]
-Missing character: There is no ‚Äâ in font ptmri7t!
-Missing character: There is no ‚âà in font ptmri7t!
-Missing character: There is no ‚Äâ in font ptmri7t!
-Missing character: There is no ‚àº in font ptmri7t!
-Missing character: There is no ‚Äê in font ptmri7t!
- [66]
-Missing character: There is no ‚âà in font ptmri7t!
-Missing character: There is no ‚âà in font ptmri7t!
-Missing character: There is no ‚âà in font ptmri7t!
-)
-
-Package natbib Warning: There were undefined citations.
-
-[67] (./thesis.aux)
-
-LaTeX Warning: There were undefined references.
-
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no à in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no à in font cmr12!
+Missing character: There is no í in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no • in font cmr12!
+ [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217]) [218] (./thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4041 strings out of 494150
- 57083 string characters out of 3152950
- 118867 words of memory out of 3000000
- 7143 multiletter control sequences out of 15000+200000
- 25103 words of font info for 79 fonts, out of 3000000 for 9000
- 1018 hyphenation exceptions out of 8191
- 38i,12n,49p,1685b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 6360 strings out of 493633
+ 109865 string characters out of 3143378
+ 187243 words of memory out of 3000000
+ 9289 multiletter control sequences out of 15000+200000
+ 29579 words of font info for 106 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,18n,50p,2032b,1054s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
+e1/urw/helvetic/uhvr8a.pfb>
+Output written on thesis.pdf (235 pages, 15728196 bytes).
+PDF statistics:
+ 9004 PDF objects out of 10688 (max. 8388607)
+ 1841 compressed objects within 19 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on thesis.pdf (80 pages).

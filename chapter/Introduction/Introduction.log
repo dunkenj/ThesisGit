@@ -1,0 +1,336 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdftex 2011.7.3)  4 AUG 2015 14:04
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex
+(/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:6: Undefined control sequence.
+l.6 \chapter
+            [Introduction]{Introduction}\label{ch:introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:6: Undefined control sequence.
+l.6 \chapter[Introduction]{Introduction}\label
+                                              {ch:introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:10: Undefined control sequence.
+l.10 \section
+             {The Early Universe}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:11: Undefined control sequence.
+l.11 ...o Penzias and Robert Wilson in 1964 \citep
+                                                  {Penzias:1965es} but indep...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+<argument> ...cement (re-published in \citeauthor 
+                                                  {Strukov:1992ua}~\citeyear...
+\footnote ...acefactor \the \spacefactor }\/\fi #1
+                                                  \@sf \vfootnote {#1}
+l.13 ... which the Nobel prize was later awarded.}
+                                                  . These anisotropies have ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+<argument> ...teauthor {Strukov:1992ua}~\citeyear 
+                                                  {Strukov:1992ua}). However...
+\footnote ...acefactor \the \spacefactor }\/\fi #1
+                                                  \@sf \vfootnote {#1}
+l.13 ... which the Nobel prize was later awarded.}
+                                                  . These anisotropies have ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+<argument> ...cement (re-published in \citeauthor 
+                                                  {Strukov:1992ua}~\citeyear...
+\llap #1->\hbox to\z@ {\hss #1
+                              }
+\textindent #1->\indent \llap {#1\enspace }
+                                           \ignorespaces 
+\vfootnote ...\xspaceskip \z@skip \textindent {#1}
+                                                  \footstrut \futurelet \nex...
+l.13 ... which the Nobel prize was later awarded.}
+                                                  . These anisotropies have ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+<argument> ...teauthor {Strukov:1992ua}~\citeyear 
+                                                  {Strukov:1992ua}). However...
+\llap #1->\hbox to\z@ {\hss #1
+                              }
+\textindent #1->\indent \llap {#1\enspace }
+                                           \ignorespaces 
+\vfootnote ...\xspaceskip \z@skip \textindent {#1}
+                                                  \footstrut \futurelet \nex...
+l.13 ... which the Nobel prize was later awarded.}
+                                                  . These anisotropies have ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+l.13 ... model of $\Lambda$-Cold Dark Matter (\cdm
+                                                  {}) cosmology. Figure~\ref...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Undefined control sequence.
+l.13 ...ark Matter (\cdm{}) cosmology. Figure~\ref
+                                                  {fig:cmb_comparison} illus...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.13 ...r (\cdm{}) cosmology. Figure~\ref{fig:cmb_
+                                                  comparison} illustrates ju...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:13: Extra }, or forgotten $.
+l.13 ...cosmology. Figure~\ref{fig:cmb_comparison}
+                                                   illustrates just how much...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.14 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (196.10883pt too wide) in paragraph at lines 13--14
+\tenrm ure fig:cmb$[]\teni omparisonillustratesjusthowmucheachnewgenerationofspace \tensy ^^@ \teni basedCMBlaboratoryhasimprovedourpictureofthemicrowavebackground:$ |
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm u
+.\tenrm r
+.\tenrm e
+.\penalty 10000
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:15: Undefined control sequence.
+l.15 \begin
+           {figure}[!hb]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:17: Undefined control sequence.
+l.17 	\includegraphics
+                      [width=0.9\textwidth]{CobeWmapPlanckComparison.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:17: Missing number, treated as zero.
+<to be read again> 
+                   [
+l.17 	\includegraphics[
+                       width=0.9\textwidth]{CobeWmapPlanckComparison.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:17: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   [
+l.17 	\includegraphics[
+                       width=0.9\textwidth]{CobeWmapPlanckComparison.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:17: Undefined control sequence.
+l.17 	\includegraphics[width=0.9\textwidth
+                                          ]{CobeWmapPlanckComparison.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:19: Undefined control sequence.
+l.19 	\vspace
+             {0.5in}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:21: Undefined control sequence.
+l.21 	\includegraphics
+                      [width=0.8\textwidth]{Planck_CMB.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:21: Undefined control sequence.
+l.21 	\includegraphics[width=0.8\textwidth
+                                          ]{Planck_CMB.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.21 ...cludegraphics[width=0.8\textwidth]{Planck_
+                                                  CMB.jpg}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:21: Extra }, or forgotten $.
+l.21 ...phics[width=0.8\textwidth]{Planck_CMB.jpg}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.22 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:23: Undefined control sequence.
+l.23 	{\sffamily
+                 Planck CMB}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:24: Undefined control sequence.
+l.24 	\caption
+              [The Cosmic Microwave Background anisotropy.]{Top: Illustratio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:25: Undefined control sequence.
+l.25 	\label
+            {fig:cmb_comparison}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.25 	\label{fig:cmb_
+                     comparison}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:25: Extra }, or forgotten $.
+l.25 	\label{fig:cmb_comparison}
+                                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Introduction/Introduction.tex:26: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \end 
+l.26 \end
+         {figure}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 25 ({)
+### simple group (level 2) entered at line 21 ({)
+### simple group (level 1) entered at line 13 ({)
+### bottom level</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Introduction.pdf (1 page, 54911 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

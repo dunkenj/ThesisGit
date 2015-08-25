@@ -1,431 +1,1581 @@
-\begin{thebibliography}{Krueger, Fritze-vAlvensleben \& Loose(1995)}
+\begin{thebibliography}{}
+\makeatletter
+\relax
+\def\mn@urlcharsother{\let\do\@makeother \do\$\do\&\do\#\do\^\do\_\do\%\do\~}
+\def\mn@doi{\begingroup\mn@urlcharsother \@ifnextchar [ {\mn@doi@}
+  {\mn@doi@[]}}
+\def\mn@doi@[#1]#2{\def\@tempa{#1}\ifx\@tempa\@empty \href
+  {http://dx.doi.org/#2} {doi:#2}\else \href {http://dx.doi.org/#2} {#1}\fi
+  \endgroup}
+\def\mn@eprint#1#2{\mn@eprint@#1:#2::\@nil}
+\def\mn@eprint@arXiv#1{\href {http://arxiv.org/abs/#1} {{\tt arXiv:#1}}}
+\def\mn@eprint@dblp#1{\href {http://dblp.uni-trier.de/rec/bibtex/#1.xml}
+  {dblp:#1}}
+\def\mn@eprint@#1:#2:#3:#4\@nil{\def\@tempa {#1}\def\@tempb {#2}\def\@tempc
+  {#3}\ifx \@tempc \@empty \let \@tempc \@tempb \let \@tempb \@tempa \fi \ifx
+  \@tempb \@empty \def\@tempb {arXiv}\fi \@ifundefined
+  {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
+  mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
-\bibitem[Anders \& Alvensleben(2003)]{Anders:2003ci}
-Anders P., Alvensleben U. F.~v., 2003.
-\newblock {\it A{\&}A}, {\bf 401(3)}, 1063.
-\newblock {\it {Spectral and photometric evolution of young stellar
-  populations: The impact of gaseous emission at various metallicities}}.
+\bibitem[\protect\citeauthoryear{Aldoretta et~al.,}{Aldoretta
+  et~al.}{2015}]{2015AJ....149...26A}
+Aldoretta E.~J.,  et~al., 2015, The Astronomical Journal, 149, 26
 
-\bibitem[Ashby {\it et~al.}(2013)]{Ashby:2013cc}
-Ashby M. L.~N., Willner S.~P., Fazio G.~G., Huang J.~S., Arendt R., Barmby P.,
-  Barro G., Bell E.~F., Bouwens R., Cattaneo A., Croton D., Dav{\'e} R., Dunlop
-  J.~S., Egami E., Faber S., Finlator K., Grogin N.~A., Guhathakurta P.,
-  Hernquist L., Hora J.~L., Illingworth G.~D., Kashlinsky A., Koekemoer A.~M.,
-  Koo D.~C., Labb{\'e} I., Li Y., Lin L., Moseley H., Nandra K., Newman J.,
-  Noeske K., Ouchi M., Peth M., Rigopoulou D., Robertson B., Sarajedini V.,
-  Simard L., Smith H.~A., Wang Z., Wechsler R., Weiner B., Wilson G., Wuyts S.,
-  Yamada T., Yan H.-J., 2013.
-\newblock {\it ApJ}, {\bf 769(1)}, 80.
-\newblock {\it {SEDS: THE SPITZER EXTENDED DEEP SURVEY. SURVEY DESIGN,
-  PHOTOMETRY, AND DEEP IRAC SOURCE COUNTS}}.
+\bibitem[\protect\citeauthoryear{Anders \& Alvensleben}{Anders \&
+  Alvensleben}{2003}]{Anders:2003ci}
+Anders P.,  Alvensleben U. F.~v.,  2003, A{\&}A, 401, 1063
 
-\bibitem[Beckwith {\it et~al.}(2006)]{2006AJ....132.1729B}
-Beckwith S. V.~W., Stiavelli M., Koekemoer A.~M., Caldwell J. A.~R., Ferguson
-  H.~C., Hook R., Lucas R.~A., Bergeron L.~E., Corbin M., Jogee S., Panagia N.,
-  Robberto M., Royle P., Somerville R.~S., Sosey M., 2006.
-\newblock {\it The Astronomical Journal}, {\bf 132(5)}, 1729.
-\newblock {\it {The Hubble Ultra Deep Field}}.
+\bibitem[\protect\citeauthoryear{Ashby et~al.,}{Ashby
+  et~al.}{2013}]{Ashby:2013cc}
+Ashby M. L.~N.,  et~al., 2013, ApJ, 769, 80
 
-\bibitem[Bouwens {\it et~al.}(2010)]{Bouwens:2010dk}
-Bouwens R.~J., Illingworth G.~D., Oesch P.~A., Stiavelli M., van Dokkum P.~G.,
-  Trenti M., Magee D., Labb{\'e} I., Franx M., Carollo C.~M., Gonz{\'a}lez V.,
-  2010.
-\newblock {\it ApJ}, {\bf 709(2)}, L133.
-\newblock {\it {DISCOVERY OF z∼ 8 GALAXIES IN THE HUBBLE ULTRA DEEP FIELD
-  FROM ULTRA-DEEP WFC3/IR OBSERVATIONS}}.
+\bibitem[\protect\citeauthoryear{Atek et~al.,}{Atek et~al.}{2011}]{Atek:2011ka}
+Atek H.,  et~al., 2011, ApJ, 743, 121
 
-\bibitem[Bruzual \& Charlot(2003)]{Bruzual:2003ckb}
-Bruzual G., Charlot S., 2003.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  344(4)}, 1000.
-\newblock {\it {Stellar population synthesis at the resolution of 2003}}.
+\bibitem[\protect\citeauthoryear{Avni \& Bahcall}{Avni \&
+  Bahcall}{1980}]{1980ApJ...235..694A}
+Avni Y.,  Bahcall J.~N.,  1980, ApJ, 235, 694
 
-\bibitem[Calzetti {\it et~al.}(2000)]{2000ApJ...533..682C}
-Calzetti D., Armus L., Bohlin R.~C., Kinney A.~L., Koornneef J.,
-  Storchi-Bergmann T., 2000.
-\newblock {\it ApJ}, {\bf 533(2)}, 682.
-\newblock {\it {The Dust Content and Opacity of Actively Star-forming
-  Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bacon et~al.,}{Bacon
+  et~al.}{2015}]{Bacon:2015eh}
+Bacon R.,  et~al., 2015, A{\&}A, 575, A75
 
-\bibitem[Calzetti, Kinney \& Storchi-Bergmann(1994)]{1994ApJ...429..582C}
-Calzetti D., Kinney A.~L., Storchi-Bergmann T., 1994.
-\newblock {\it ApJ}, {\bf 429}, 582.
-\newblock {\it {Dust extinction of the stellar continua in starburst galaxies:
-  The ultraviolet and optical extinction law}}.
+\bibitem[\protect\citeauthoryear{Balestra et~al.,}{Balestra
+  et~al.}{2010}]{Balestra:2010bt}
+Balestra I.,  et~al., 2010, A{\&}A, 512, A12
 
-\bibitem[Curtis-Lake {\it et~al.}(2013)]{2013MNRAS.429..302C}
-Curtis-Lake E., McLure R.~J., Dunlop J.~S., Schenker M., Rogers A.~B., Targett
-  T., Cirasuolo M., Almaini O., Ashby M. L.~N., Bradshaw E.~J., Finkelstein
-  S.~L., Dickinson M., Ellis R.~S., Faber S.~M., Fazio G.~G., Ferguson H.~C.,
-  Fontana A., Grogin N.~A., Hartley W.~G., Kocevski D.~D., Koekemoer A.~M., Lai
-  K., Robertson B.~E., Vanzella E., Willner S.~P., 2013.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  429(1)}, 302.
-\newblock {\it {The ages, masses and star formation rates of spectroscopically
-  confirmed z ˜ 6 galaxies in CANDELS}}.
+\bibitem[\protect\citeauthoryear{Becker \& Bolton}{Becker \&
+  Bolton}{2013}]{Becker:2013hc}
+Becker G.~D.,  Bolton J.~S.,  2013, MNRAS, 436, 1023
 
-\bibitem[Erb {\it et~al.}(2006)]{Erb:2006ke}
-Erb D.~K., Steidel C.~C., Shapley A.~E., Pettini M., Reddy N.~A., Adelberger
-  K.~L., 2006.
-\newblock {\it ApJ}, {\bf 647(1)}, 128.
-\newblock {\it {H$\alpha$ Observations of a Large Sample of Galaxies at z∼ 2:
-  Implications for Star Formation in High‐Redshift Galaxies}}.
+\bibitem[\protect\citeauthoryear{Beckwith et~al.,}{Beckwith
+  et~al.}{2006}]{2006AJ....132.1729B}
+Beckwith S. V.~W.,  et~al., 2006, The Astronomical Journal, 132, 1729
 
-\bibitem[Fazio {\it et~al.}(2004)]{Fazio:2004eb}
-Fazio G.~G., Hora J.~L., Allen L.~E., Ashby M. L.~N., Barmby P., Deutsch L.~K.,
-  Huang J.~S., Kleiner S., Marengo M., Megeath S.~T., Melnick G.~J., Pahre
-  M.~A., Patten B.~M., Polizotti J., Smith H.~A., Taylor R.~S., Wang Z.,
-  Willner S.~P., Hoffmann W.~F., Pipher J.~L., Forrest W.~J., McMurty C.~W.,
-  McCreight C.~R., McKelvey M.~E., McMurray R.~E., Koch D.~G., Moseley S.~H.,
-  Arendt R.~G., Mentzell J.~E., Marx C.~T., Losch P., Mayman P., Eichhorn W.,
-  Krebs D., Jhabvala M., Gezari D.~Y., Fixsen D.~J., Flores J., Shakoorzadeh
-  K., Jungo R., Hakun C., Workman L., Karpati G., Kichak R., Whitley R., Mann
-  S., Tollestrup E.~V., Eisenhardt P., Stern D., Gorjian V., Bhattacharya B.,
-  Carey S., Nelson B.~O., Glaccum W.~J., Lacy M., Lowrance P.~J., Laine S.,
-  Reach W.~T., Stauffer J.~A., Surace J.~A., Wilson G., Wright E.~L., Hoffman
-  A., Domingo G., Cohen M., 2004.
-\newblock {\it ApJS}, {\bf 154(1)}, 10.
-\newblock {\it {The Infrared Array Camera (IRAC) for the Spitzer Space
-  Telescope}}.
+\bibitem[\protect\citeauthoryear{Behroozi, Wechsler  \& Conroy}{Behroozi
+  et~al.}{2013}]{Behroozi:2013fg}
+Behroozi P.~S.,  Wechsler R.~H.,   Conroy C.,  2013, ApJ, 770, 57
 
-\bibitem[Ferguson {\it et~al.}(2004)]{2004ApJ...600L.107F}
-Ferguson H.~C., Dickinson M., Giavalisco M., Kretchmer C., Ravindranath S.,
-  Idzi R., Taylor E., Conselice C.~J., Fall S.~M., Gardner J.~P., Livio M.,
-  Madau P., Moustakas L.~A., Papovich C.~M., Somerville R.~S., Spinrad H.,
-  Stern D., 2004.
-\newblock {\it ApJ}, {\bf 600(2)}, L107.
-\newblock {\it {The Size Evolution of High-Redshift Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bell, Phleps, Somerville, Wolf, Borch  \&
+  Meisenheimer}{Bell et~al.}{2006}]{Bell:2006ey}
+Bell E.~F.,  Phleps S.,  Somerville R.~S.,  Wolf C.,  Borch A.,   Meisenheimer
+  K.,  2006, ApJ, 652, 270
 
-\bibitem[Fernandez \& Shull(2011)]{Fernandez:2011cw}
-Fernandez E., Shull J.~M., 2011.
-\newblock {\it ApJ}, {\bf 731(1)}, 20.
-\newblock {\it {THE EFFECT OF GALACTIC PROPERTIES ON THE ESCAPE FRACTION OF
-  IONIZING PHOTONS}}.
+\bibitem[\protect\citeauthoryear{Ben{\'\i}tez}{Ben{\'\i}tez}{2000}]{Benitez:2000jr}
+Ben{\'\i}tez N.,  2000, ApJ, 536, 571
 
-\bibitem[Finkelstein {\it et~al.}(2012a)]{Finkelstein:2012hr}
-Finkelstein S.~L., Papovich C., Ryan R.~E., Pawlik A.~H., Dickinson M.,
-  Ferguson H.~C., Finlator K., Koekemoer A.~M., Giavalisco M., Cooray A.~R.,
-  Dunlop J.~S., Faber S.~M., Grogin N.~A., Kocevski D.~D., Newman J.~A., 2012a.
-\newblock {\it ApJ}, {\bf 758(2)}, 93.
-\newblock {\it {CANDELS: THE CONTRIBUTION OF THE OBSERVED GALAXY POPULATION TO
-  COSMIC REIONIZATION}}.
+\bibitem[\protect\citeauthoryear{Bennett et~al.,}{Bennett
+  et~al.}{2013}]{Bennett:2013ew}
+Bennett C.~L.,  et~al., 2013, ApJS, 208, 20
 
-\bibitem[Finkelstein {\it et~al.}(2012b)]{2012ApJ...756..164F}
-Finkelstein S.~L., Papovich C., Salmon B., Finlator K., Dickinson M., Ferguson
-  H.~C., Giavalisco M., Koekemoer A.~M., Reddy N.~A., Bassett R., Conselice
-  C.~J., Dunlop J.~S., Faber S.~M., Grogin N.~A., Hathi N.~P., Kocevski D.~D.,
-  Lai K., Lee K.-S., McLure R.~J., Mobasher B., Newman J.~A., 2012b.
-\newblock {\it ApJ}, {\bf 756(2)}, 164.
-\newblock {\it {Candels: The Evolution of Galaxy Rest-frame Ultraviolet Colors
-  from z = 8 to 4}}.
+\bibitem[\protect\citeauthoryear{Benson, Bower, Frenk, Lacey, Baugh  \&
+  Cole}{Benson et~al.}{2003}]{Benson:2003ch}
+Benson A.~J.,  Bower R.~G.,  Frenk C.~S.,  Lacey C.~G.,  Baugh C.~M.,   Cole
+  S.,  2003, ApJ, 599, 38
 
-\bibitem[F{\"o}rster~Schreiber {\it et~al.}(2009)]{ForsterSchreiber:2009hm}
-F{\"o}rster~Schreiber N.~M., Genzel R., Bouch{\'e} N., Cresci G., Davies R.,
-  Buschkamp P., Shapiro K., Tacconi L.~J., Hicks E. K.~S., Genel S., Shapley
-  A.~E., Erb D.~K., Steidel C.~C., Lutz D., Eisenhauer F., Gillessen S.,
-  Sternberg A., Renzini A., Cimatti A., Daddi E., Kurk J., Lilly S., Kong X.,
-  Lehnert M.~D., Nesvadba N., Verma A., McCracken H., Arimoto N., Mignoli M.,
-  Onodera M., 2009.
-\newblock {\it ApJ}, {\bf 706(2)}, 1364.
-\newblock {\it {THE SINS SURVEY: SINFONI INTEGRAL FIELD SPECTROSCOPY OF z∼ 2
-  STAR-FORMING GALAXIES}}.
+\bibitem[\protect\citeauthoryear{Bertone \& Conselice}{Bertone \&
+  Conselice}{2009}]{Bertone:2009jc}
+Bertone S.,  Conselice C.~J.,  2009, MNRAS, 396, 2345
 
-\bibitem[Giavalisco {\it et~al.}(2004)]{2004ApJ...600L..93G}
-Giavalisco M., Ferguson H.~C., Koekemoer A.~M., Dickinson M., Alexander D.~M.,
-  Bauer F.~E., Bergeron J., Biagetti C., Brandt W.~N., Casertano S., Cesarsky
-  C., Chatzichristou E., Conselice C.~J., Cristiani S., Da~Costa L., Dahlen T.,
-  de~Mello D., Eisenhardt P., Erben T., Fall S.~M., Fassnacht C., Fosbury R.,
-  Fruchter A., Gardner J.~P., Grogin N.~A., Hook R.~N., Hornschemeier A.~E.,
-  Idzi R., Jogee S., Kretchmer C., Laidler V., Lee K.~S., Livio M., Lucas R.,
-  Madau P., Mobasher B., Moustakas L.~A., Nonino M., Padovani P., Papovich C.,
-  Park Y., Ravindranath S., Renzini A., Richardson M., Riess A.~G., Rosati P.,
-  Schirmer M., Schreier E., Somerville R.~S., Spinrad H., Stern D., Stiavelli
-  M., Strolger L., Urry C.~M., Vandame B., Williams R., Wolf C., 2004.
-\newblock {\it ApJ}, {\bf 600(2)}, L93.
-\newblock {\it {The Great Observatories Origins Deep Survey: Initial results
-  from optical and near-infrared imaging}}.
+\bibitem[\protect\citeauthoryear{Bluck, Conselice, Bouwens, Daddi, Dickinson,
+  Papovich  \& Yan}{Bluck et~al.}{2009}]{Bluck:2009in}
+Bluck A. F.~L.,  Conselice C.~J.,  Bouwens R.~J.,  Daddi E.,  Dickinson M.,
+  Papovich C.,   Yan H.,  2009, MNRAS: Letters, 394, L51
 
-\bibitem[Grazian {\it et~al.}(2011)]{2011A&A...532A..33G}
-Grazian A., Castellano M., Koekemoer A.~M., Fontana A., Pentericci L., Testa
-  V., Boutsia K., Giallongo E., Giavalisco M., Santini P., 2011.
-\newblock {\it A{\&}A}, {\bf 532}, 33.
-\newblock {\it {A critical analysis of the UV luminosity function at redshift
-  ~7 from deep WFC3 data}}.
+\bibitem[\protect\citeauthoryear{Bluck, Conselice, Buitrago, Gr{\"u}tzbauch,
+  Hoyos, Mortlock  \& Bauer}{Bluck et~al.}{2012}]{Bluck:2012dh}
+Bluck A. F.~L.,  Conselice C.~J.,  Buitrago F.,  Gr{\"u}tzbauch R.,  Hoyos C.,
+  Mortlock A.,   Bauer A.~E.,  2012, ApJ, 747, 34
 
-\bibitem[Grogin {\it et~al.}(2011)]{2011ApJS..197...35G}
-Grogin N.~A., Kocevski D.~D., Faber S.~M., Ferguson H.~C., Koekemoer A.~M.,
-  Riess A.~G., Acquaviva V., Alexander D.~M., Almaini O., Ashby M. L.~N.,
-  Barden M., Bell E.~F., Bournaud F., Brown T.~M., Caputi K.~I., Casertano S.,
-  Cassata P., Castellano M., Challis P.~J., Chary R.-R., Cheung E., Cirasuolo
-  M., Conselice C.~J., Roshan~Cooray A., Croton D.~J., Daddi E., Dahlen T.,
-  Dav{\'e} R., de~Mello D.~F., Dekel A., Dickinson M., Dolch T., Donley J.~L.,
-  Dunlop J.~S., Dutton A.~A., Elbaz D., Fazio G.~G., Filippenko A.~V.,
-  Finkelstein S.~L., Fontana A., Gardner J.~P., Garnavich P.~M., Gawiser E.,
-  Giavalisco M., Grazian A., Guo Y., Hathi N.~P., H{\"a}ussler B., Hopkins
-  P.~F., Huang J.-S., Huang K.-H., Jha S.~W., Kartaltepe J.~S., Kirshner R.~P.,
-  Koo D.~C., Lai K., Lee K.-S., Li W., Lotz J.~M., Lucas R.~A., Madau P.,
-  McCarthy P.~J., McGrath E.~J., McIntosh D.~H., McLure R.~J., Mobasher B.,
-  Moustakas L.~A., Mozena M., Nandra K., Newman J.~A., Niemi S.-M., Noeske
-  K.~G., Papovich C., Pentericci L., Pope A., Primack J.~R., Rajan A.,
-  Ravindranath S., Reddy N.~A., Renzini A., Rix H.-W., Robaina A.~R., Rodney
-  S.~A., Rosario D.~J., Rosati P., Salimbeni S., Scarlata C., Siana B., Simard
-  L., Smidt J., Somerville R.~S., Spinrad H., Straughn A.~N., Strolger L.-G.,
-  Telford O., Teplitz H.~I., Trump J.~R., van~der Wel A., Villforth C.,
-  Wechsler R.~H., Weiner B.~J., Wiklind T., Wild V., Wilson G., Wuyts S., Yan
-  H.-J., Yun M.~S., 2011.
-\newblock {\it ApJS}, {\bf 197(2)}, 35.
-\newblock {\it {CANDELS: The Cosmic Assembly Near-infrared Deep Extragalactic
-  Legacy Survey}}.
+\bibitem[\protect\citeauthoryear{Bolton \& Haehnelt}{Bolton \&
+  Haehnelt}{2007}]{Bolton:2007gc}
+Bolton J.~S.,  Haehnelt M.~G.,  2007, MNRAS, 382, 325
 
-\bibitem[Guo {\it et~al.}(2013)]{Guo:2013ig}
-Guo Y., Ferguson H.~C., Giavalisco M., Barro G., Willner S.~P., Ashby M. L.~N.,
-  Dahlen T., Donley J.~L., Faber S.~M., Fontana A., Galametz A., Grazian A.,
-  Huang K.-H., Kocevski D.~D., Koekemoer A.~M., Koo D.~C., McGrath E.~J., Peth
-  M., Salvato M., Wuyts S., Castellano M., Cooray A.~R., Dickinson M.~E.,
-  Dunlop J.~S., Fazio G.~G., Gardner J.~P., Gawiser E., Grogin N.~A., Hathi
-  N.~P., Hsu L.-T., Lee K.-S., Lucas R.~A., Mobasher B., Nandra K., Newman
-  J.~A., van~der Wel A., 2013.
-\newblock {\it ApJS}, {\bf 207(2)}, 24.
-\newblock {\it {CANDELS MULTI-WAVELENGTH CATALOGS: SOURCE DETECTION AND
-  PHOTOMETRY IN THE GOODS-SOUTH FIELD}}.
+\bibitem[\protect\citeauthoryear{Bolzonella, Miralles  \& Pello}{Bolzonella
+  et~al.}{2000}]{Bolzonella:2000uw}
+Bolzonella M.,  Miralles J.~M.,   Pello R.,  2000, A{\&}A, 363, 476
 
-\bibitem[Hartley {\it et~al.}(2013)]{Hartley:2013cn}
-Hartley W.~G., Almaini O., Mortlock A., Conselice C.~J., Gruetzbauch R.,
-  Simpson C., Bradshaw E.~J., Chuter R.~W., Foucaud S., Cirasuolo M., Dunlop
-  J.~S., McLure R.~J., Pearce H.~J., 2013.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  431(4)}, 3045.
-\newblock {\it {Studying the emergence of the red sequence through galaxy
-  clustering: host halo masses at z > 2}}.
+\bibitem[\protect\citeauthoryear{Borthakur, Heckman, Leitherer  \&
+  Overzier}{Borthakur et~al.}{2014}]{Borthakur:2014bz}
+Borthakur S.,  Heckman T.~M.,  Leitherer C.,   Overzier R.~A.,  2014, Science,
+  346, 216
 
-\bibitem[Hathi {\it et~al.}(2007)]{Hathi:2007fh}
-Hathi N.~P., Jansen R.~A., Windhorst R.~A., Cohen S.~H., Keel W.~C., Corbin
-  M.~R., Ryan, Jr R.~E., 2007.
-\newblock {\it The Astronomical Journal}, {\bf 135(1)}, 156.
-\newblock {\it {SURFACE BRIGHTNESS PROFILES OF COMPOSITE IMAGES OF COMPACT
-  GALAXIES AT z≃ 4-6 IN THE HUBBLE ULTRA DEEP FIELD}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2004}]{Bouwens:2004gn}
+Bouwens R.~J.,  et~al., 2004, ApJ, 616, L79
 
-\bibitem[Huang {\it et~al.}(2013)]{Huang:2013kb}
-Huang K.-H., Ferguson H.~C., Ravindranath S., Su J., 2013.
-\newblock {\it ApJ}, {\bf 765(1)}, 68.
-\newblock {\it {THE BIVARIATE SIZE-LUMINOSITY RELATIONS FOR LYMAN BREAK
-  GALAXIES AT z∼ 4-5}}.
+\bibitem[\protect\citeauthoryear{Bouwens, Illingworth, Franx  \& Ford}{Bouwens
+  et~al.}{2007}]{2007ApJ...670..928B}
+Bouwens R.~J.,  Illingworth G.~D.,  Franx M.,   Ford H.,  2007, ApJ, 670, 928
 
-\bibitem[Jones, Stark \& Ellis(2012)]{Jones:2012kn}
-Jones T., Stark D.~P., Ellis R.~S., 2012.
-\newblock {\it ApJ}, {\bf 751(1)}, 51.
-\newblock {\it {KECK SPECTROSCOPY OF FAINT 3 }}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2009}]{Bouwens:2009ik}
+Bouwens R.~J.,  et~al., 2009, ApJ, 705, 936
 
-\bibitem[Kennicutt(1998)]{KennicuttJr:1998id}
-Kennicutt, Jr R.~C., 1998.
-\newblock {\it ApJ}, {\bf 498(2)}, 541.
-\newblock {\it {The Global Schmidt Law in Star‐forming Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2010}]{Bouwens:2010dk}
+Bouwens R.~J.,  et~al., 2010, ApJ, 709, L133
 
-\bibitem[Koekemoer {\it et~al.}(2011)]{Koekemoer:2011br}
-Koekemoer A.~M., Faber S.~M., Ferguson H.~C., Grogin N.~A., Kocevski D.~D., Koo
-  D.~C., Lai K., Lotz J.~M., Lucas R.~A., McGrath E.~J., Ogaz S., Rajan A.,
-  Riess A.~G., Rodney S.~A., Strolger L., Casertano S., Castellano M., Dahlen
-  T., Dickinson M., Dolch T., Fontana A., Giavalisco M., Grazian A., Guo Y.,
-  Hathi N.~P., Huang K.-H., van~der Wel A., Yan H.-J., Acquaviva V., Alexander
-  D.~M., Almaini O., Ashby M. L.~N., Barden M., Bell E.~F., Bournaud F., Brown
-  T.~M., Caputi K.~I., Cassata P., Challis P.~J., Chary R.-R., Cheung E.,
-  Cirasuolo M., Conselice C.~J., Cooray A.~R., Croton D.~J., Daddi E., Dav{\'e}
-  R., de~Mello D.~F., de~Ravel L., Dekel A., Donley J.~L., Dunlop J.~S., Dutton
-  A.~A., Elbaz D., Fazio G.~G., Filippenko A.~V., Finkelstein S.~L., Frazer C.,
-  Gardner J.~P., Garnavich P.~M., Gawiser E., Gruetzbauch R., Hartley W.~G.,
-  H{\"a}ussler B., Herrington J., Hopkins P.~F., Huang J.-S., Jha S.~W.,
-  Johnson A., Kartaltepe J.~S., Khostovan A.~A., Kirshner R.~P., Lani C., Lee
-  K.-S., Li W., Madau P., McCarthy P.~J., McIntosh D.~H., McLure R.~J.,
-  McPartland C., Mobasher B., Moreira H., Mortlock A., Moustakas L.~A., Mozena
-  M., Nandra K., Newman J.~A., Nielsen J.~L., Niemi S., Noeske K.~G., Papovich
-  C., Pentericci L., Pope A., Primack J.~R., Ravindranath S., Reddy N.~A.,
-  Renzini A., Rix H.-W., Robaina A.~R., Rosario D.~J., Rosati P., Salimbeni S.,
-  Scarlata C., Siana B., Simard L., Smidt J., Snyder D., Somerville R.~S.,
-  Spinrad H., Straughn A.~N., Telford O., Teplitz H.~I., Trump J.~R., Vargas
-  C., Villforth C., Wagner C.~R., Wandro P., Wechsler R.~H., Weiner B.~J.,
-  Wiklind T., Wild V., Wilson G., Wuyts S., Yun M.~S., 2011.
-\newblock {\it ApJS}, {\bf 197(2)}, 36.
-\newblock {\it {CANDELS: THE COSMIC ASSEMBLY NEAR-INFRARED DEEP EXTRAGALACTIC
-  LEGACY SURVEY---THE HUBBLE SPACE TELESCOPEOBSERVATIONS, IMAGING DATA
-  PRODUCTS, AND MOSAICS}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2011a}]{Bouwens:2011tj}
+Bouwens R.~J.,  et~al., 2011a, {U V -CONTINUUM SLOPES AT Z ∼ 4 − 7 FROM THE
+  HUDF09+ERS+CANDELS OBSERVATIONS: DISCOVERY OF A WELL-DEFINED U V -COLOR
+  MAGNITUDE RELATIONSHIP FOR Z ≥ 4 STAR-FORMING GALAXIES}
 
-\bibitem[Krueger, Fritze-vAlvensleben \& Loose(1995)]{1995A&A...303...41K}
-Krueger H., Fritze-v Alvensleben U., Loose H.-H., 1995.
-\newblock {\it A{\&}A}, {\bf 303}, 41.
-\newblock {\it {Optical and near infrared spectral energy distributions. of
-  blue compact galaxies from evolutionary synthesis}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2011b}]{2012ApJ...754...83B}
+Bouwens R.~J.,  et~al., 2011b, arXiv, p.~994
 
-\bibitem[Laidler {\it et~al.}(2007)]{Laidler:2007iy}
-Laidler V.~G., Papovich C., Grogin N.~A., Idzi R., Dickinson M., Ferguson
-  H.~C., Hilbert B., Clubb K., Ravindranath S., 2007.
-\newblock {\it PUBL ASTRON SOC PAC}, {\bf 119(861)}, 1325.
-\newblock {\it {TFIT: A Photometry Package Using Prior Information for
-  Mixed‐Resolution Data Sets}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2011c}]{Bouwens:2011el}
+Bouwens R.~J.,  et~al., 2011c, Nature, 469, 504
 
-\bibitem[Lee {\it et~al.}(2010)]{2010ApJ...725.1644L}
-Lee S.-K., Ferguson H.~C., Somerville R.~S., Wiklind T., Giavalisco M., 2010.
-\newblock {\it ApJ}, {\bf 725(2)}, 1644.
-\newblock {\it {The Estimation of Star Formation Rates and Stellar Population
-  Ages of High-redshift Galaxies from Broadband Photometry}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2011d}]{2011ApJ...737...90B}
+Bouwens R.~J.,  et~al., 2011d, ApJ, 737, 90
 
-\bibitem[Lee {\it et~al.}(2012)]{2012ApJ...752...66L}
-Lee K.-S., Ferguson H.~C., Wiklind T., Dahlen T., Dickinson M.~E., Giavalisco
-  M., Grogin N., Papovich C., Messias H., Guo Y., Lin L., 2012.
-\newblock {\it ApJ}, {\bf 752(1)}, 66.
-\newblock {\it {How Do Star-forming Galaxies at z > 3 Assemble Their Masses?}}
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2012}]{Anonymous:96uKWdy6}
+Bouwens R.~J.,  et~al., 2012, ApJ, 752, L5
 
-\bibitem[Madau, Pozzetti \& Dickinson(1998)]{Madau:1998jd}
-Madau P., Pozzetti L., Dickinson M., 1998.
-\newblock {\it ApJ}, {\bf 498(1)}, 106.
-\newblock {\it {The Star Formation History of Field Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2014}]{Bouwens:2013vf}
+Bouwens R.~J.,  et~al., 2014, ApJ, 793, 115
 
-\bibitem[Madau(1995)]{1995ApJ...441...18M}
-Madau P., 1995.
-\newblock {\it Astrophysical Journal}, {\bf 441}, 18.
-\newblock {\it {Radiative transfer in a clumpy universe: The colors of
-  high-redshift galaxies}}.
+\bibitem[\protect\citeauthoryear{Bouwens, Illingworth, Oesch, Caruana,
+  Holwerda, Smit  \& Wilkins}{Bouwens et~al.}{2015a}]{Bouwens:2015tm}
+Bouwens R.~J.,  Illingworth G.~D.,  Oesch P.~A.,  Caruana J.,  Holwerda B.,
+  Smit R.,   Wilkins S.,  2015a, eprint arXiv:1503.08228
 
-\bibitem[Maiolino {\it et~al.}(2008)]{2008ASPC..396..409M}
-Maiolino R., Nagao T., Grazian A., Cocchia F., Marconi A., Mannucci F., Cimatti
-  A., Pipino A., Fontana A., Granato G.~L., Matteucci F., Pentericci L.,
-  Risaliti G., Salvati M., Silva L., 2008.
-\newblock {\it Formation and Evolution of Galaxy Disks ASP Conference Series},
-  {\bf 396}, 409.
-\newblock {\it {The Mass-Metallicity Relation at z>3}}.
+\bibitem[\protect\citeauthoryear{Bouwens et~al.,}{Bouwens
+  et~al.}{2015b}]{2015ApJ...803...34B}
+Bouwens R.~J.,  et~al., 2015b, ApJ, 803, 34
 
-\bibitem[Maraston(2005)]{Maraston:2005er}
-Maraston C., 2005.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  362(3)}, 799.
-\newblock {\it {Evolutionary population synthesis: models, analysis of the
-  ingredients and application to high-z galaxies}}.
+\bibitem[\protect\citeauthoryear{Bower, Benson, Malbon, Helly, Frenk, Baugh,
+  Cole  \& Lacey}{Bower et~al.}{2006}]{2006MNRAS.370..645B}
+Bower R.~G.,  Benson A.~J.,  Malbon R.,  Helly J.~C.,  Frenk C.~S.,  Baugh
+  C.~M.,  Cole S.,   Lacey C.~G.,  2006, MNRAS, 370, 645
 
-\bibitem[McLure {\it et~al.}(2011)]{2011MNRAS.418.2074M}
-McLure R.~J., Dunlop J.~S., de~Ravel L., Cirasuolo M., Ellis R.~S., Schenker
-  M., Robertson B.~E., Koekemoer A.~M., Stark D.~P., Bowler R. A.~A., 2011.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  418(3)}, 2074.
-\newblock {\it {A robust sample of galaxies at redshifts 6.0}}.
+\bibitem[\protect\citeauthoryear{Bowler et~al.,}{Bowler
+  et~al.}{2012}]{Bowler:vl}
+Bowler R.~A.,  et~al., 2012, MNRAS, 426, 2772
 
-\bibitem[Meurer, Heckman \& Calzetti(1999)]{Meurer:1999jm}
-Meurer G.~R., Heckman T.~M., Calzetti D., 1999.
-\newblock {\it ApJ}, {\bf 521(1)}, 64.
-\newblock {\it {Dust Absorption and the Ultraviolet Luminosity Density at
-  z ≈ 3 as Calibrated by Local Starburst Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bowler et~al.,}{Bowler
+  et~al.}{2013}]{Bowler:2013wz}
+Bowler R. A.~A.,  et~al., 2013
 
-\bibitem[Mortlock {\it et~al.}(2013)]{Mortlock:2013dg}
-Mortlock A., Conselice C.~J., Hartley W.~G., Ownsworth J.~R., Lani C., Bluck A.
-  F.~L., Almaini O., Duncan K., Wel A. v.~d., Koekemoer A.~M., Dekel A.,
-  Dav{\'e} R., Ferguson H.~C., de~Mello D.~F., Newman J.~A., Faber S.~M.,
-  Grogin N.~A., Kocevski D.~D., Lai K., 2013.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  433(2)}, 1185.
-\newblock {\it {The redshift and mass dependence on the formation of the Hubble
-  sequence at z > 1 from CANDELS/UDS}}.
+\bibitem[\protect\citeauthoryear{Boylan-Kolchin, Bullock  \&
+  Garrison-Kimmel}{Boylan-Kolchin et~al.}{2014}]{BoylanKolchin:2014ka}
+Boylan-Kolchin M.,  Bullock J.~S.,   Garrison-Kimmel S.,  2014, MNRAS: Letters,
+  443, L44
 
-\bibitem[Nonino {\it et~al.}(2009)]{Nonino:2009hf}
-Nonino M., Dickinson M., Rosati P., Grazian A., Reddy N., Cristiani S.,
-  Giavalisco M., Kuntschner H., Vanzella E., Daddi E., Fosbury R. A.~E.,
-  Cesarsky C., 2009.
-\newblock {\it ApJS}, {\bf 183(2)}, 244.
-\newblock {\it {DEEP UBAND AND RIMAGING OF GOODS-SOUTH: OBSERVATIONS, DATA
-  REDUCTION AND FIRST RESULTS,}}.
+\bibitem[\protect\citeauthoryear{Boylan-Kolchin, Weisz, Johnson, Bullock,
+  Conroy  \& Fitts}{Boylan-Kolchin et~al.}{2015}]{BoylanKolchin:2015wf}
+Boylan-Kolchin M.,  Weisz D.~R.,  Johnson B.~D.,  Bullock J.~S.,  Conroy C.,
+  Fitts A.,  2015, eprint arXiv:1504.06621
 
-\bibitem[Oesch {\it et~al.}(2010)]{2010ApJ...709L..21O}
-Oesch P.~A., Bouwens R.~J., Carollo C.~M., Illingworth G.~D., Trenti M.,
-  Stiavelli M., Magee D., Labb{\'e} I., Franx M., 2010.
-\newblock {\it The Astrophysical Journal Letters}, {\bf 709(1)}, L21.
-\newblock {\it {Structure and Morphologies of z ~ 7-8 Galaxies from Ultra-deep
-  WFC3/IR Imaging of the Hubble Ultra-deep Field}}.
+\bibitem[\protect\citeauthoryear{Brammer, van Dokkum  \& Coppi}{Brammer
+  et~al.}{2008}]{Brammer:2008gn}
+Brammer G.~B.,  van Dokkum P.~G.,   Coppi P.,  2008, ApJ, 686, 1503
 
-\bibitem[Ono {\it et~al.}(2010)]{Ono:2010ed}
-Ono Y., Shimasaku K., Dunlop J., Farrah D., McLure R., Okamura S., 2010.
-\newblock {\it ApJ}, {\bf 724(2)}, 1524.
-\newblock {\it {STELLAR POPULATIONS OF Ly$\alpha$ EMITTERS AT z∼ 6-7:
-  CONSTRAINTS ON THE ESCAPE FRACTION OF IONIZING PHOTONS FROM GALAXY BUILDING
-  BLOCKS}}.
+\bibitem[\protect\citeauthoryear{Brammer et~al.,}{Brammer
+  et~al.}{2012}]{Brammer:2012bu}
+Brammer G.~B.,  et~al., 2012, ApJS, 200, 13
 
-\bibitem[Osterbrock \& Ferland(2006)]{Osterbrock:2006ul}
-Osterbrock D.~E., Ferland G.~J., 2006.
-\newblock {\it {Astrophysics of Gaseous Nebulae and Active Galactic Nuclei}},
-  Univ Science Books.
+\bibitem[\protect\citeauthoryear{Brammer, van Dokkum, Illingworth, Bouwens,
+  Labb{\'e}, Franx, Momcheva  \& Oesch}{Brammer et~al.}{2013}]{Brammer:2013dg}
+Brammer G.~B.,  van Dokkum P.~G.,  Illingworth G.~D.,  Bouwens R.~J.,
+  Labb{\'e} I.,  Franx M.,  Momcheva I.,   Oesch P.~A.,  2013, ApJ, 765, L2
 
-\bibitem[Ravindranath {\it et~al.}(2006)]{Ravindranath:2006ie}
-Ravindranath S., Giavalisco M., Ferguson H.~C., Conselice C., Katz N., Weinberg
-  M., Lotz J., Dickinson M., Fall S.~M., Mobasher B., Papovich C., 2006.
-\newblock {\it ApJ}, {\bf 652(2)}, 963.
-\newblock {\it {The Morphological Diversities among Star‐forming Galaxies at
-  High Redshifts in the Great Observatories Origins Deep Survey}}.
+\bibitem[\protect\citeauthoryear{Bridge, Carlberg  \& Sullivan}{Bridge
+  et~al.}{2010a}]{Bridge:2010ft}
+Bridge C.~R.,  Carlberg R.~G.,   Sullivan M.,  2010a, ApJ, 709, 1067
 
-\bibitem[Retzlaff {\it et~al.}(2010)]{Retzlaff:2010co}
-Retzlaff J., Rosati P., Dickinson M., Vandame B., Rit{\'e} C., Nonino M.,
-  Cesarsky C., {the GOODS team}, 2010.
-\newblock {\it A{\&}A}, {\bf 511}, A50.
-\newblock {\it {The Great Observatories Origins Deep Survey}}.
+\bibitem[\protect\citeauthoryear{Bridge et~al.,}{Bridge
+  et~al.}{2010b}]{Bridge:2010ie}
+Bridge C.~R.,  et~al., 2010b, ApJ, 720, 465
 
-\bibitem[Robertson {\it et~al.}(2013)]{Robertson:2013ji}
-Robertson B.~E., Furlanetto S.~R., Schneider E., Charlot S., Ellis R.~S., Stark
-  D.~P., McLure R.~J., Dunlop J.~S., Koekemoer A., Schenker M.~A., Ouchi M.,
-  Ono Y., Curtis-Lake E., Rogers A.~B., Bowler R. A.~A., Cirasuolo M., 2013.
-\newblock {\it ApJ}, {\bf 768(1)}, 71.
-\newblock {\it {NEW CONSTRAINTS ON COSMIC REIONIZATION FROM THE 2012 HUBBLE
-  ULTRA DEEP FIELD CAMPAIGN}}.
+\bibitem[\protect\citeauthoryear{Bromm}{Bromm}{2013}]{Bromm:2013dk}
+Bromm V.,  2013, Rep. Prog. Phys., 76, 112901
 
-\bibitem[Rogers, McLure \& Dunlop(2013)]{2013MNRAS.429.2456R}
-Rogers A.~B., McLure R.~J., Dunlop J.~S., 2013.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  429(3)}, 2456.
-\newblock {\it {The unbiased measurement of ultraviolet spectral slopes in
-  low-luminosity galaxies at z ≈ 7}}.
+\bibitem[\protect\citeauthoryear{Bromm, Coppi  \& Larson}{Bromm
+  et~al.}{2002}]{Bromm:2002fe}
+Bromm V.,  Coppi P.~S.,   Larson R.~B.,  2002, ApJ, 564, 23
 
-\bibitem[Schaerer \& deBarros(2009)]{2009A&A...502..423S}
-Schaerer D., de~Barros S., 2009.
-\newblock {\it A{\&}A}, {\bf 502(2)}, 423.
-\newblock {\it {The impact of nebular emission on the ages of z≈ 6
-  galaxies}}.
+\bibitem[\protect\citeauthoryear{Bruzual \& Charlot}{Bruzual \&
+  Charlot}{2003}]{Bruzual:2003ckb}
+Bruzual G.,  Charlot S.,  2003, MNRAS, 344, 1000
 
-\bibitem[Schaerer \& deBarros(2010)]{2010A&A...515A..73S}
-Schaerer D., de~Barros S., 2010.
-\newblock {\it A{\&}A}, {\bf 515}, 73.
-\newblock {\it {On the physical properties of z ≈ 6-8 galaxies}}.
+\bibitem[\protect\citeauthoryear{Buat et~al.,}{Buat et~al.}{2012}]{Buat:2012ku}
+Buat V.,  et~al., 2012, A{\&}A, 545, A141
 
-\bibitem[Shapley, Steidel \& Pettini(2003)]{Shapley:2003wi}
-Shapley A.~E., Steidel C., Pettini M., 2003.
-\newblock {\it ApJ}.
-\newblock {\it {Rest-Frame Ultraviolet Spectra of z~ 3 Lyman Break Galaxies}}.
+\bibitem[\protect\citeauthoryear{Bundy, Fukugita, Ellis, Targett, Belli  \&
+  Kodama}{Bundy et~al.}{2009}]{Bundy:2009jw}
+Bundy K.,  Fukugita M.,  Ellis R.~S.,  Targett T.~A.,  Belli S.,   Kodama T.,
+  2009, ApJ, 697, 1369
 
-\bibitem[Sommariva {\it et~al.}(2012)]{2012A&A...539A.136S}
-Sommariva V., Mannucci F., Cresci G., Maiolino R., Marconi A., Nagao T., Baroni
-  A., Grazian A., 2012.
-\newblock {\it A{\&}A}, {\bf 539}, 136.
-\newblock {\it {Stellar metallicity of star-forming galaxies at z ~ 3}}.
+\bibitem[\protect\citeauthoryear{Bunker, Stanway, Ellis, McMahon  \&
+  McCarthy}{Bunker et~al.}{2003}]{Bunker:2003hc}
+Bunker A.~J.,  Stanway E.~R.,  Ellis R.~S.,  McMahon R.~G.,   McCarthy P.~J.,
+  2003, MNRAS, 342, L47
 
-\bibitem[Stark {\it et~al.}(2009)]{2009ApJ...697.1493S}
-Stark D.~P., Ellis R.~S., Bunker A., Bundy K., Targett T., Benson A., Lacy M.,
-  2009.
-\newblock {\it ApJ}, {\bf 697(2)}, 1493.
-\newblock {\it {The Evolutionary History of Lyman Break Galaxies Between
-  Redshift 4 and 6: Observing Successive Generations of Massive Galaxies in
-  Formation}}.
+\bibitem[\protect\citeauthoryear{Bunker et~al.,}{Bunker
+  et~al.}{2010}]{Bunker:2010gx}
+Bunker A.~J.,  et~al., 2010, MNRAS, 409, 855
 
-\bibitem[Windhorst {\it et~al.}(2011)]{2011ApJS..193...27W}
-Windhorst R.~A., Cohen S.~H., Hathi N.~P., McCarthy P.~J., Ryan R. E.~J., Yan
-  H., Baldry I.~K., Driver S.~P., Frogel J.~A., Hill D.~T., Kelvin L.~S.,
-  Koekemoer A.~M., Mechtley M., O'Connell R.~W., Robotham A. S.~G., Rutkowski
-  M.~J., Seibert M., Straughn A.~N., Tuffs R.~J., Balick B., Bond H.~E.,
-  Bushouse H., Calzetti D., Crockett M., Disney M.~J., Dopita M.~A., Hall D.
-  N.~B., Holtzman J.~A., Kaviraj S., Kimble R.~A., MacKenty J.~W., Mutchler M.,
-  Paresce F., Saha A., Silk J.~I., Trauger J.~T., Walker A.~R., Whitmore B.~C.,
-  Young E.~T., 2011.
-\newblock {\it ApJS}, {\bf 193(2)}, 27.
-\newblock {\it {The Hubble Space Telescope Wide Field Camera 3 Early Release
-  Science Data: Panchromatic Faint Object Counts for 0.2-2 $\mu$m Wavelength}}.
+\bibitem[\protect\citeauthoryear{Burles, Nollett  \& Turner}{Burles
+  et~al.}{2001}]{Burles:2001kr}
+Burles S.,  Nollett K.~M.,   Turner M.~S.,  2001, ApJ, 552, L1
 
-\bibitem[Yajima, Choi \& Nagamine(2010)]{Yajima:2010fb}
-Yajima H., Choi J.-H., Nagamine K., 2010.
-\newblock {\it Monthly Notices of the Royal Astronomical Society}, {\bf
-  412(1)}, 411.
-\newblock {\it {Escape fraction of ionizing photons from high-redshift galaxies
-  in cosmological SPH simulations}}.
+\bibitem[\protect\citeauthoryear{Caballero, Burgasser  \& Klement}{Caballero
+  et~al.}{2008}]{Caballero:2008ea}
+Caballero J.~A.,  Burgasser A.~J.,   Klement R.,  2008, A{\&}A, 488, 181
 
+\bibitem[\protect\citeauthoryear{Calzetti, Kinney  \&
+  Storchi-Bergmann}{Calzetti et~al.}{1994}]{1994ApJ...429..582C}
+Calzetti D.,  Kinney A.~L.,   Storchi-Bergmann T.,  1994, ApJ, 429, 582
+
+\bibitem[\protect\citeauthoryear{Calzetti, Armus, Bohlin, Kinney, Koornneef  \&
+  Storchi-Bergmann}{Calzetti et~al.}{2000}]{2000ApJ...533..682C}
+Calzetti D.,  Armus L.,  Bohlin R.~C.,  Kinney A.~L.,  Koornneef J.,
+  Storchi-Bergmann T.,  2000, ApJ, 533, 682
+
+\bibitem[\protect\citeauthoryear{Capak et~al.,}{Capak
+  et~al.}{2004}]{Capak:2004im}
+Capak P.,  et~al., 2004, The Astronomical Journal, 127, 180
+
+\bibitem[\protect\citeauthoryear{Cappellari et~al.,}{Cappellari
+  et~al.}{2012}]{Cappellari:2012jm}
+Cappellari M.,  et~al., 2012, Nature, 484, 485
+
+\bibitem[\protect\citeauthoryear{Caputi, Cirasuolo, Dunlop, McLure, Farrah  \&
+  Almaini}{Caputi et~al.}{2011}]{2011MNRAS.413..162C}
+Caputi K.~I.,  Cirasuolo M.,  Dunlop J.~S.,  McLure R.~J.,  Farrah D.,
+  Almaini O.,  2011, MNRAS, 413, 162
+
+\bibitem[\protect\citeauthoryear{Castellano et~al.,}{Castellano
+  et~al.}{2010}]{2010A&A...524A..28C}
+Castellano M.,  et~al., 2010, A{\&}A, 524, 28
+
+\bibitem[\protect\citeauthoryear{Castellano et~al.,}{Castellano
+  et~al.}{2014}]{Castellano:2014db}
+Castellano M.,  et~al., 2014, A{\&}A, 566, A19
+
+\bibitem[\protect\citeauthoryear{Chabrier}{Chabrier}{2003}]{Chabrier:2003ki}
+Chabrier G.,  2003, PUBL ASTRON SOC PAC, 115, 763
+
+\bibitem[\protect\citeauthoryear{Charlot \& Fall}{Charlot \&
+  Fall}{2000}]{2000ApJ...539..718C}
+Charlot S.,  Fall S.~M.,  2000, ApJ, 539, 718
+
+\bibitem[\protect\citeauthoryear{Ciardi, Bolton, Maselli  \& Graziani}{Ciardi
+  et~al.}{2012}]{Ciardi:2012hl}
+Ciardi B.,  Bolton J.~S.,  Maselli A.,   Graziani L.,  2012, MNRAS, 423, 558
+
+\bibitem[\protect\citeauthoryear{Cirasuolo et~al.,}{Cirasuolo
+  et~al.}{2007}]{Cirasuolo:2007bz}
+Cirasuolo M.,  et~al., 2007, MNRAS, 380, 585
+
+\bibitem[\protect\citeauthoryear{Coe et~al.,}{Coe et~al.}{2012}]{Coe:2012ko}
+Coe D.,  et~al., 2012, ApJ, 762, 32
+
+\bibitem[\protect\citeauthoryear{Coe, Bradley  \& Zitrin}{Coe
+  et~al.}{2015}]{2015ApJ...800...84C}
+Coe D.,  Bradley L.,   Zitrin A.,  2015, ApJ, 800, 84
+
+\bibitem[\protect\citeauthoryear{Collister \& Lahav}{Collister \&
+  Lahav}{2004}]{Collister:2004fx}
+Collister A.~A.,  Lahav O.,  2004, PUBL ASTRON SOC PAC, 116, 345
+
+\bibitem[\protect\citeauthoryear{Conroy}{Conroy}{2013}]{Conroy:2013dk}
+Conroy C.,  2013, ANNU REV ASTRON ASTR, 51, 393
+
+\bibitem[\protect\citeauthoryear{Conroy \& Kratter}{Conroy \&
+  Kratter}{2012}]{Conroy:2012fc}
+Conroy C.,  Kratter K.~M.,  2012, ApJ, 755, 123
+
+\bibitem[\protect\citeauthoryear{Conroy \& van Dokkum}{Conroy \& van
+  Dokkum}{2012}]{Conroy:2012bn}
+Conroy C.,  van Dokkum P.~G.,  2012, ApJ, 760, 71
+
+\bibitem[\protect\citeauthoryear{Conroy, Gunn  \& White}{Conroy
+  et~al.}{2009a}]{Conroy:2009ks}
+Conroy C.,  Gunn J.~E.,   White M.,  2009a, ApJ, 699, 486
+
+\bibitem[\protect\citeauthoryear{Conroy, White  \& Gunn}{Conroy
+  et~al.}{2009b}]{Conroy:2009ja}
+Conroy C.,  White M.,   Gunn J.~E.,  2009b, ApJ, 708, 58
+
+\bibitem[\protect\citeauthoryear{Conselice}{Conselice}{2009}]{Conselice:2009bi}
+Conselice C.~J.,  2009, MNRAS: Letters, 399, L16
+
+\bibitem[\protect\citeauthoryear{Conselice}{Conselice}{2014}]{Conselice:2014ct}
+Conselice C.~J.,  2014, ANNU REV ASTRON ASTR, 52, 291
+
+\bibitem[\protect\citeauthoryear{Conselice \& Arnold}{Conselice \&
+  Arnold}{2009}]{2009MNRAS.397..208C}
+Conselice C.~J.,  Arnold J.,  2009, MNRAS, 397, 208
+
+\bibitem[\protect\citeauthoryear{Conselice, Bershady, Dickinson  \&
+  Papovich}{Conselice et~al.}{2003}]{Conselice:2003jz}
+Conselice C.~J.,  Bershady M.~A.,  Dickinson M.,   Papovich C.,  2003, The
+  Astronomical Journal, 126, 1183
+
+\bibitem[\protect\citeauthoryear{Conselice, Rajgor  \& Myers}{Conselice
+  et~al.}{2008}]{Conselice:2008de}
+Conselice C.~J.,  Rajgor S.,   Myers R.,  2008, MNRAS, 386, 909
+
+\bibitem[\protect\citeauthoryear{Conselice, Yang  \& Bluck}{Conselice
+  et~al.}{2009}]{Conselice:2009fe}
+Conselice C.~J.,  Yang C.,   Bluck A. F.~L.,  2009, MNRAS, 394, 1956
+
+\bibitem[\protect\citeauthoryear{Conselice et~al.,}{Conselice
+  et~al.}{2011}]{Conselice:2011ia}
+Conselice C.~J.,  et~al., 2011, MNRAS, 413, 80
+
+\bibitem[\protect\citeauthoryear{Cooke, Ryan-Weber, Garel  \& D{\'\i}az}{Cooke
+  et~al.}{2014}]{Cooke:2014dd}
+Cooke J.,  Ryan-Weber E.~V.,  Garel T.,   D{\'\i}az C.~G.,  2014, MNRAS, 441,
+  837
+
+\bibitem[\protect\citeauthoryear{Cowie \& Hu}{Cowie \& Hu}{1998}]{Cowie:1998dt}
+Cowie L.~L.,  Hu E.~M.,  1998, The Astronomical Journal, 115, 1319
+
+\bibitem[\protect\citeauthoryear{Cowie, Songaila, Hu  \& Cohen}{Cowie
+  et~al.}{1996}]{Cowie:1996fb}
+Cowie L.~L.,  Songaila A.,  Hu E.~M.,   Cohen J.~G.,  1996, The Astronomical
+  Journal, 112, 839
+
+\bibitem[\protect\citeauthoryear{Cox, Jonsson, Somerville, Primack  \&
+  Dekel}{Cox et~al.}{2008}]{Cox:2008jj}
+Cox T.~J.,  Jonsson P.,  Somerville R.~S.,  Primack J.~R.,   Dekel A.,  2008,
+  MNRAS, 384, 386
+
+\bibitem[\protect\citeauthoryear{Crosby, O'Shea, Smith, Turk  \& Hahn}{Crosby
+  et~al.}{2013}]{Crosby:2013bp}
+Crosby B.~D.,  O'Shea B.~W.,  Smith B.~D.,  Turk M.~J.,   Hahn O.,  2013, ApJ,
+  773, 108
+
+\bibitem[\protect\citeauthoryear{Croton et~al.,}{Croton
+  et~al.}{2006}]{Croton:2006ew}
+Croton D.~J.,  et~al., 2006, MNRAS, 365, 11
+
+\bibitem[\protect\citeauthoryear{Curtis-Lake et~al.,}{Curtis-Lake
+  et~al.}{2013}]{2013MNRAS.429..302C}
+Curtis-Lake E.,  et~al., 2013, MNRAS, 429, 302
+
+\bibitem[\protect\citeauthoryear{Daddi et~al.,}{Daddi
+  et~al.}{2007}]{2007ApJ...670..156D}
+Daddi E.,  et~al., 2007, ApJ, 670, 156
+
+\bibitem[\protect\citeauthoryear{Dahlen, Mobasher, Somerville, Moustakas,
+  Dickinson, Ferguson  \& Giavalisco}{Dahlen
+  et~al.}{2005}]{2005ApJ...631..126D}
+Dahlen T.,  Mobasher B.,  Somerville R.~S.,  Moustakas L.~A.,  Dickinson M.,
+  Ferguson H.~C.,   Giavalisco M.,  2005, ApJ, 631, 126
+
+\bibitem[\protect\citeauthoryear{Dahlen et~al.,}{Dahlen
+  et~al.}{2010}]{2010ApJ...724..425D}
+Dahlen T.,  et~al., 2010, ApJ, 724, 425
+
+\bibitem[\protect\citeauthoryear{Dahlen et~al.,}{Dahlen
+  et~al.}{2013}]{Dahlen:2013eu}
+Dahlen T.,  et~al., 2013, ApJ, 775, 93
+
+\bibitem[\protect\citeauthoryear{Dav{\'e}, Katz, Oppenheimer, Kollmeier  \&
+  Weinberg}{Dav{\'e} et~al.}{2013}]{Dave:2013bf}
+Dav{\'e} R.,  Katz N.,  Oppenheimer B.~D.,  Kollmeier J.~A.,   Weinberg D.~H.,
+  2013, MNRAS, 434, 2645
+
+\bibitem[\protect\citeauthoryear{Dayal \& Ferrara}{Dayal \&
+  Ferrara}{2012}]{Dayal:2012kp}
+Dayal P.,  Ferrara A.,  2012, MNRAS, 421, 2568
+
+\bibitem[\protect\citeauthoryear{Dayal, Dunlop, Maio  \& Ciardi}{Dayal
+  et~al.}{2013}]{Dayal:2013jm}
+Dayal P.,  Dunlop J.~S.,  Maio U.,   Ciardi B.,  2013, MNRAS, 434, 1486
+
+\bibitem[\protect\citeauthoryear{De~Breuck et~al.,}{De~Breuck
+  et~al.}{2014}]{DeBreuck:2014eo}
+De~Breuck C.,  et~al., 2014, A{\&}A, 565, A59
+
+\bibitem[\protect\citeauthoryear{De~Lucia, Springel, White, Croton  \&
+  Kauffmann}{De~Lucia et~al.}{2006}]{DeLucia:2006gl}
+De~Lucia G.,  Springel V.,  White S. D.~M.,  Croton D.,   Kauffmann G.,  2006,
+  MNRAS, 366, 499
+
+\bibitem[\protect\citeauthoryear{Dekel, Zolotov, Tweed, Cacciato, Ceverino  \&
+  Primack}{Dekel et~al.}{2013}]{Dekel:2013id}
+Dekel A.,  Zolotov A.,  Tweed D.,  Cacciato M.,  Ceverino D.,   Primack J.~R.,
+  2013, MNRAS, 435, 999
+
+\bibitem[\protect\citeauthoryear{Dickinson et~al.,}{Dickinson
+  et~al.}{2004}]{Dickinson:2004ba}
+Dickinson M.,  et~al., 2004, ApJ, 600, L99
+
+\bibitem[\protect\citeauthoryear{Dinerstein \& Shields}{Dinerstein \&
+  Shields}{1986}]{Dinerstein:1986di}
+Dinerstein H.~L.,  Shields G.~A.,  1986, ApJ, 311, 45
+
+\bibitem[\protect\citeauthoryear{Duffy, Wyithe, Mutch  \& Poole}{Duffy
+  et~al.}{2014}]{Duffy:2014cg}
+Duffy A.~R.,  Wyithe J. S.~B.,  Mutch S.~J.,   Poole G.~B.,  2014, MNRAS, 443,
+  3435
+
+\bibitem[\protect\citeauthoryear{Duncan et~al.,}{Duncan
+  et~al.}{2014}]{Duncan:2014gh}
+Duncan K.,  et~al., 2014, MNRAS, 444, 2960
+
+\bibitem[\protect\citeauthoryear{Dunlop}{Dunlop}{2013}]{2013ASSL..396..223D}
+Dunlop J.~S.,  2013, The First Galaxies, 396, 223
+
+\bibitem[\protect\citeauthoryear{Dunlop, Cirasuolo  \& McLure}{Dunlop
+  et~al.}{2007}]{Dunlop:2007fo}
+Dunlop J.~S.,  Cirasuolo M.,   McLure R.~J.,  2007, MNRAS, 376, 1054
+
+\bibitem[\protect\citeauthoryear{Dunlop, McLure, Robertson, Ellis, Stark,
+  Cirasuolo  \& de Ravel}{Dunlop et~al.}{2011}]{Dunlop:2011jl}
+Dunlop J.~S.,  McLure R.~J.,  Robertson B.~E.,  Ellis R.~S.,  Stark D.~P.,
+  Cirasuolo M.,   de Ravel L.,  2011, MNRAS, 420, 901
+
+\bibitem[\protect\citeauthoryear{Dunlop et~al.,}{Dunlop
+  et~al.}{2013}]{Dunlop:2013kp}
+Dunlop J.~S.,  et~al., 2013, MNRAS, 432, 3520
+
+\bibitem[\protect\citeauthoryear{Eales}{Eales}{1993}]{1993ApJ...404...51E}
+Eales S.,  1993, ApJ, 404, 51
+
+\bibitem[\protect\citeauthoryear{Efron}{Efron}{1979}]{Efron:1979uf}
+Efron B.,  1979, The annals of statistics
+
+\bibitem[\protect\citeauthoryear{Efron}{Efron}{1981}]{EFRON:HJ2mD4hg}
+Efron B.,  1981, Biometrika, 68, 589
+
+\bibitem[\protect\citeauthoryear{Ekstr{\"o}m et~al.,}{Ekstr{\"o}m
+  et~al.}{2012}]{Ekstrom:2012ke}
+Ekstr{\"o}m S.,  et~al., 2012, A{\&}A, 537, A146
+
+\bibitem[\protect\citeauthoryear{Elbaz et~al.,}{Elbaz
+  et~al.}{2011}]{Elbaz:2011ix}
+Elbaz D.,  et~al., 2011, A{\&}A, 533, A119
+
+\bibitem[\protect\citeauthoryear{Eldridge \& Stanway}{Eldridge \&
+  Stanway}{2009}]{Eldridge:2009bi}
+Eldridge J.~J.,  Stanway E.~R.,  2009, MNRAS, 400, 1019
+
+\bibitem[\protect\citeauthoryear{Eldridge \& Stanway}{Eldridge \&
+  Stanway}{2011}]{Eldridge:2011kg}
+Eldridge J.~J.,  Stanway E.~R.,  2011, MNRAS, 419, 479
+
+\bibitem[\protect\citeauthoryear{Erb, Steidel, Shapley, Pettini, Reddy  \&
+  Adelberger}{Erb et~al.}{2006}]{Erb:2006ke}
+Erb D.~K.,  Steidel C.~C.,  Shapley A.~E.,  Pettini M.,  Reddy N.~A.,
+  Adelberger K.~L.,  2006, ApJ, 647, 128
+
+\bibitem[\protect\citeauthoryear{Erb, Pettini, Shapley, Steidel, Law  \&
+  Reddy}{Erb et~al.}{2010}]{2010ApJ...719.1168E}
+Erb D.~K.,  Pettini M.,  Shapley A.~E.,  Steidel C.~C.,  Law D.~R.,   Reddy
+  N.~A.,  2010, ApJ, 719, 1168
+
+\bibitem[\protect\citeauthoryear{Fan, Carilli  \& Keating}{Fan
+  et~al.}{2006}]{2006ARA&A..44..415F}
+Fan X.,  Carilli C.~L.,   Keating B.,  2006, ANNU REV ASTRON ASTR, 44, 415
+
+\bibitem[\protect\citeauthoryear{Faucher-Gigu{\`e}re, Lidz, Hernquist  \&
+  Zaldarriaga}{Faucher-Gigu{\`e}re et~al.}{2008}]{FaucherGiguere:2008jc}
+Faucher-Gigu{\`e}re C.-A.,  Lidz A.,  Hernquist L.,   Zaldarriaga M.,  2008,
+  ApJ, 682, L9
+
+\bibitem[\protect\citeauthoryear{Fazio et~al.,}{Fazio
+  et~al.}{2004}]{Fazio:2004eb}
+Fazio G.~G.,  et~al., 2004, ApJS, 154, 10
+
+\bibitem[\protect\citeauthoryear{Ferguson et~al.,}{Ferguson
+  et~al.}{2004}]{2004ApJ...600L.107F}
+Ferguson H.~C.,  et~al., 2004, ApJ, 600, L107
+
+\bibitem[\protect\citeauthoryear{Fernandez \& Shull}{Fernandez \&
+  Shull}{2011}]{Fernandez:2011cw}
+Fernandez E.,  Shull J.~M.,  2011, ApJ, 731, 20
+
+\bibitem[\protect\citeauthoryear{Fern{\'a}ndez-Soto, Lanzetta  \&
+  Chen}{Fern{\'a}ndez-Soto et~al.}{2003}]{FernandezSoto:2003ev}
+Fern{\'a}ndez-Soto A.,  Lanzetta K.~M.,   Chen H.~W.,  2003, MNRAS, 342, 1215
+
+\bibitem[\protect\citeauthoryear{Ferreras, Barbera, Rosa, Vazdekis, Carvalho,
+  Falcon-Barroso  \& Ricciardelli}{Ferreras et~al.}{2013}]{Ferreras:2013id}
+Ferreras I.,  Barbera F.~L.,  Rosa I. G. d.~l.,  Vazdekis A.,  Carvalho R.
+  R.~d.,  Falcon-Barroso J.,   Ricciardelli E.,  2013, MNRAS: Letters, 429, L15
+
+\bibitem[\protect\citeauthoryear{Finkelstein}{Finkelstein}{2014}]{Finkelstein:2014ub}
+Finkelstein S.~L.,  2014, eprint arXiv:1410.5439
+
+\bibitem[\protect\citeauthoryear{Finkelstein, Papovich, Giavalisco, Reddy,
+  Ferguson, Koekemoer  \& Dickinson}{Finkelstein
+  et~al.}{2010}]{Finkelstein:2010fw}
+Finkelstein S.~L.,  Papovich C.,  Giavalisco M.,  Reddy N.~A.,  Ferguson H.~C.,
+   Koekemoer A.~M.,   Dickinson M.,  2010, ApJ, 719, 1250
+
+\bibitem[\protect\citeauthoryear{Finkelstein et~al.,}{Finkelstein
+  et~al.}{2011}]{2012ApJ...756..164F}
+Finkelstein S.~L.,  et~al., 2011, arXiv, p.~3785
+
+\bibitem[\protect\citeauthoryear{Finkelstein et~al.,}{Finkelstein
+  et~al.}{2012}]{Finkelstein:2012hr}
+Finkelstein S.~L.,  et~al., 2012, ApJ, 758, 93
+
+\bibitem[\protect\citeauthoryear{Finlator, Oppenheimer  \& Dav{\'e}}{Finlator
+  et~al.}{2011}]{2011MNRAS.410.1703F}
+Finlator K.,  Oppenheimer B.~D.,   Dav{\'e} R.,  2011, MNRAS, 410, 1703
+
+\bibitem[\protect\citeauthoryear{Fioc \& Rocca-Volmerange}{Fioc \&
+  Rocca-Volmerange}{1997}]{1997A&A...326..950F}
+Fioc M.,  Rocca-Volmerange B.,  1997, A{\&}A, 326, 950
+
+\bibitem[\protect\citeauthoryear{Fontana, Poli, Menci, Nonino, Giallongo,
+  Cristiani  \& D'Odorico}{Fontana et~al.}{2003}]{Fontana:2003ch}
+Fontana A.,  Poli F.,  Menci N.,  Nonino M.,  Giallongo E.,  Cristiani S.,
+  D'Odorico S.,  2003, ApJ, 587, 544
+
+\bibitem[\protect\citeauthoryear{Fontanot, Cristiani  \& Vanzella}{Fontanot
+  et~al.}{2012}]{Fontanot:2012fx}
+Fontanot F.,  Cristiani S.,   Vanzella E.,  2012, MNRAS, 425, 1413
+
+\bibitem[\protect\citeauthoryear{Fontanot, Cristiani, Pfrommer, Cupani  \&
+  Vanzella}{Fontanot et~al.}{2014}]{Fontanot:2014jz}
+Fontanot F.,  Cristiani S.,  Pfrommer C.,  Cupani G.,   Vanzella E.,  2014,
+  MNRAS, 438, 2097
+
+\bibitem[\protect\citeauthoryear{Foreman-Mackey, Hogg, Lang  \&
+  Goodman}{Foreman-Mackey et~al.}{2013}]{ForemanMackey:2013io}
+Foreman-Mackey D.,  Hogg D.~W.,  Lang D.,   Goodman J.,  2013, PUBL ASTRON SOC
+  PAC, 125, 306
+
+\bibitem[\protect\citeauthoryear{F{\"o}rster~Schreiber
+  et~al.,}{F{\"o}rster~Schreiber et~al.}{2009}]{ForsterSchreiber:2009hm}
+F{\"o}rster~Schreiber N.~M.,  et~al., 2009, ApJ, 706, 1364
+
+\bibitem[\protect\citeauthoryear{Franx et~al.,}{Franx
+  et~al.}{2003}]{Franx:2003cx}
+Franx M.,  et~al., 2003, ApJ, 587, L79
+
+\bibitem[\protect\citeauthoryear{Galametz et~al.,}{Galametz
+  et~al.}{2013}]{Galametz:2013dd}
+Galametz A.,  et~al., 2013, ApJS, 206, 10
+
+\bibitem[\protect\citeauthoryear{Giallongo, Cristiani, D'Odorico  \&
+  Fontana}{Giallongo et~al.}{2002}]{Giallongo:2002hi}
+Giallongo E.,  Cristiani S.,  D'Odorico S.,   Fontana A.,  2002, ApJ, 568, L9
+
+\bibitem[\protect\citeauthoryear{Giallongo et~al.,}{Giallongo
+  et~al.}{2015}]{2015A&A...578A..83G}
+Giallongo E.,  et~al., 2015, A{\&}A, 578, A83
+
+\bibitem[\protect\citeauthoryear{Giavalisco et~al.,}{Giavalisco
+  et~al.}{2004a}]{2004ApJ...600L..93G}
+Giavalisco M.,  et~al., 2004a, ApJ, 600, L93
+
+\bibitem[\protect\citeauthoryear{Giavalisco et~al.,}{Giavalisco
+  et~al.}{2004b}]{Giavalisco:2004et}
+Giavalisco M.,  et~al., 2004b, ApJ, 600, L103
+
+\bibitem[\protect\citeauthoryear{Gnedin, Kravtsov  \& Chen}{Gnedin
+  et~al.}{2008}]{Gnedin:2008ib}
+Gnedin N.~Y.,  Kravtsov A.~V.,   Chen H.~W.,  2008, ApJ, 672, 765
+
+\bibitem[\protect\citeauthoryear{Gonz{\'a}lez, Labb{\'e}, Bouwens, Illingworth,
+  Franx, Kriek  \& Brammer}{Gonz{\'a}lez et~al.}{2010}]{Gonzalez:2010hm}
+Gonz{\'a}lez V.,  Labb{\'e} I.,  Bouwens R.~J.,  Illingworth G.~D.,  Franx M.,
+  Kriek M.,   Brammer G.~B.,  2010, ApJ, 713, 115
+
+\bibitem[\protect\citeauthoryear{Gonz{\'a}lez, Labb{\'e}, Bouwens, Illingworth,
+  Franx  \& Kriek}{Gonz{\'a}lez et~al.}{2011}]{Gonzalez:2011dn}
+Gonz{\'a}lez V.,  Labb{\'e} I.,  Bouwens R.~J.,  Illingworth G.~D.,  Franx M.,
+   Kriek M.,  2011, ApJ, 735, L34
+
+\bibitem[\protect\citeauthoryear{Gonz{\'a}lez, Bouwens, Labb{\'e}, Illingworth,
+  Oesch, Franx  \& Magee}{Gonz{\'a}lez et~al.}{2012}]{2012ApJ...755..148G}
+Gonz{\'a}lez V.,  Bouwens R.~J.,  Labb{\'e} I.,  Illingworth G.~D.,  Oesch
+  P.~A.,  Franx M.,   Magee D.,  2012, arXiv, p.~148
+
+\bibitem[\protect\citeauthoryear{Gonz{\'a}lez, Bouwens, Illingworth, Labb{\'e},
+  Oesch, Franx  \& Magee}{Gonz{\'a}lez et~al.}{2014}]{2014ApJ...781...34G}
+Gonz{\'a}lez V.,  Bouwens R.~J.,  Illingworth G.~D.,  Labb{\'e} I.,  Oesch
+  P.~A.,  Franx M.,   Magee D.,  2014, ApJ, 781, 34
+
+\bibitem[\protect\citeauthoryear{Grazian et~al.,}{Grazian
+  et~al.}{2011}]{2011A&A...532A..33G}
+Grazian A.,  et~al., 2011, A{\&}A, 532, 33
+
+\bibitem[\protect\citeauthoryear{Grazian et~al.,}{Grazian
+  et~al.}{2014}]{Grazian:2014vx}
+Grazian A.,  et~al., 2014, eprint arXiv:1412.0532
+
+\bibitem[\protect\citeauthoryear{Grogin et~al.,}{Grogin
+  et~al.}{2011}]{2011ApJS..197...35G}
+Grogin N.~A.,  et~al., 2011, ApJS, 197, 35
+
+\bibitem[\protect\citeauthoryear{Guhathakurta, Tyson  \& Majewski}{Guhathakurta
+  et~al.}{1990}]{1990ApJ...357L...9G}
+Guhathakurta P.,  Tyson J.~A.,   Majewski S.~R.,  1990, ApJ, 357, L9
+
+\bibitem[\protect\citeauthoryear{Guo et~al.,}{Guo et~al.}{2013}]{Guo:2013ig}
+Guo Y.,  et~al., 2013, ApJS, 207, 24
+
+\bibitem[\protect\citeauthoryear{Hagele, Perez-Montero, Diaz, Terlevich  \&
+  Terlevich}{Hagele et~al.}{2006}]{Hagele:2006eq}
+Hagele G.~F.,  Perez-Montero E.,  Diaz A.~I.,  Terlevich E.,   Terlevich R.,
+  2006, MNRAS, 372, 293
+
+\bibitem[\protect\citeauthoryear{Haislip et~al.,}{Haislip
+  et~al.}{2006}]{Haislip:2006gx}
+Haislip J.~B.,  et~al., 2006, Nature, 440, 181
+
+\bibitem[\protect\citeauthoryear{Hathi, Jansen, Windhorst, Cohen, Keel, Corbin
+  \& Ryan}{Hathi et~al.}{2007}]{Hathi:2007fh}
+Hathi N.~P.,  Jansen R.~A.,  Windhorst R.~A.,  Cohen S.~H.,  Keel W.~C.,
+  Corbin M.~R.,   Ryan Jr R.~E.,  2007, The Astronomical Journal, 135, 156
+
+\bibitem[\protect\citeauthoryear{Hathi, Malhotra  \& Rhoads}{Hathi
+  et~al.}{2008}]{Hathi:2008ca}
+Hathi N.~P.,  Malhotra S.,   Rhoads J.~E.,  2008, ApJ, 673, 686
+
+\bibitem[\protect\citeauthoryear{Hauser \& Dwek}{Hauser \&
+  Dwek}{2001}]{Hauser:2001fs}
+Hauser M.~G.,  Dwek E.,  2001, ANNU REV ASTRON ASTR, 39, 249
+
+\bibitem[\protect\citeauthoryear{Heckman et~al.,}{Heckman
+  et~al.}{2011}]{Heckman:2011ju}
+Heckman T.~M.,  et~al., 2011, ApJ, 730, 5
+
+\bibitem[\protect\citeauthoryear{Henriques, White, Lemson, Thomas, Guo, Marleau
+   \& Overzier}{Henriques et~al.}{2012}]{Henriques:2012gsa}
+Henriques B. M.~B.,  White S. D.~M.,  Lemson G.,  Thomas P.~A.,  Guo Q.,
+  Marleau G.-D.,   Overzier R.~A.,  2012, MNRAS, 421, 2904
+
+\bibitem[\protect\citeauthoryear{Henriques, White, Thomas, Angulo, Guo, Lemson
+  \& Springel}{Henriques et~al.}{2013}]{Henriques:2013jk}
+Henriques B. M.~B.,  White S. D.~M.,  Thomas P.~A.,  Angulo R.~E.,  Guo Q.,
+  Lemson G.,   Springel V.,  2013, MNRAS, 431, 3373
+
+\bibitem[\protect\citeauthoryear{Henriques, White, Thomas, Angulo, Guo, Lemson,
+  Springel  \& Overzier}{Henriques et~al.}{2015}]{Henriques:2015gd}
+Henriques B. M.~B.,  White S. D.~M.,  Thomas P.~A.,  Angulo R.,  Guo Q.,
+  Lemson G.,  Springel V.,   Overzier R.,  2015, MNRAS, 451, 2663
+
+\bibitem[\protect\citeauthoryear{Hildebrandt, Wolf  \& Benitez}{Hildebrandt
+  et~al.}{2008}]{Hildebrandt:2008jh}
+Hildebrandt H.,  Wolf C.,   Benitez N.,  2008, A{\&}A, 480, 703
+
+\bibitem[\protect\citeauthoryear{Hinshaw et~al.,}{Hinshaw
+  et~al.}{2013}]{Hinshaw:2013dd}
+Hinshaw G.,  et~al., 2013, ApJS, 208, 19
+
+\bibitem[\protect\citeauthoryear{Hopkins}{Hopkins}{2004}]{Hopkins:2004eu}
+Hopkins A.~M.,  2004, ApJ, 615, 209
+
+\bibitem[\protect\citeauthoryear{Hopkins \& Beacom}{Hopkins \&
+  Beacom}{2006}]{Hopkins:2006bq}
+Hopkins A.~M.,  Beacom J.~F.,  2006, ApJ, 651, 142
+
+\bibitem[\protect\citeauthoryear{Hopkins, Hernquist, Cox, Di~Matteo, Robertson
+  \& Springel}{Hopkins et~al.}{2006}]{Hopkins:2006ju}
+Hopkins P.~F.,  Hernquist L.,  Cox T.~J.,  Di~Matteo T.,  Robertson B.,
+  Springel V.,  2006, ApJS, 163, 1
+
+\bibitem[\protect\citeauthoryear{Hopkins, Hernquist, Cox  \& Keres}{Hopkins
+  et~al.}{2008a}]{Hopkins:2008gr}
+Hopkins P.~F.,  Hernquist L.,  Cox T.~J.,   Keres D.,  2008a, ApJS, 175, 356
+
+\bibitem[\protect\citeauthoryear{Hopkins, Cox, Keres  \& Hernquist}{Hopkins
+  et~al.}{2008b}]{Hopkins:2008ip}
+Hopkins P.~F.,  Cox T.~J.,  Keres D.,   Hernquist L.,  2008b, ApJS, 175, 390
+
+\bibitem[\protect\citeauthoryear{Hopkins et~al.,}{Hopkins
+  et~al.}{2010}]{Hopkins:2010ip}
+Hopkins P.~F.,  et~al., 2010, ApJ, 724, 915
+
+\bibitem[\protect\citeauthoryear{Hu}{Hu}{1998}]{Hu:1998uh}
+Hu E.~M.,  1998, The Young Universe: Galaxy Formation and Evolution at
+  Intermediate and High Redshift, 146, 148
+
+\bibitem[\protect\citeauthoryear{Hu \& McMahon}{Hu \&
+  McMahon}{1996}]{Hu:1996eq}
+Hu E.~M.,  McMahon R.~G.,  1996, Nature, 382, 231
+
+\bibitem[\protect\citeauthoryear{Huang, Ferguson, Ravindranath  \& Su}{Huang
+  et~al.}{2013}]{Huang:2013kb}
+Huang K.-H.,  Ferguson H.~C.,  Ravindranath S.,   Su J.,  2013, ApJ, 765, 68
+
+\bibitem[\protect\citeauthoryear{Hubble}{Hubble}{1926}]{Hubble:1926be}
+Hubble E.~P.,  1926, ApJ, 64, 321
+
+\bibitem[\protect\citeauthoryear{Ilbert et~al.,}{Ilbert
+  et~al.}{2005}]{2005A&A...439..863I}
+Ilbert O.,  et~al., 2005, A{\&}A, 439, 863
+
+\bibitem[\protect\citeauthoryear{Ilbert et~al.,}{Ilbert
+  et~al.}{2013}]{Ilbert:2013dq}
+Ilbert O.,  et~al., 2013, A{\&}A, 556, A55
+
+\bibitem[\protect\citeauthoryear{Iwata et~al.,}{Iwata
+  et~al.}{2009}]{Iwata:2009dy}
+Iwata I.,  et~al., 2009, ApJ, 692, 1287
+
+\bibitem[\protect\citeauthoryear{Izotov, Thuan  \& Lipovetsky}{Izotov
+  et~al.}{1994}]{Izotov:1994fi}
+Izotov Y.~I.,  Thuan T.~X.,   Lipovetsky V.~A.,  1994, ApJ, 435, 647
+
+\bibitem[\protect\citeauthoryear{Izotov, Stasi{\'n}ska  \& Guseva}{Izotov
+  et~al.}{2013}]{Izotov:2013ce}
+Izotov Y.~I.,  Stasi{\'n}ska G.,   Guseva N.~G.,  2013, A{\&}A, 558, A57
+
+\bibitem[\protect\citeauthoryear{Jarvis et~al.,}{Jarvis
+  et~al.}{2012}]{Jarvis:2012hr}
+Jarvis M.~J.,  et~al., 2012, MNRAS, 428, 1281
+
+\bibitem[\protect\citeauthoryear{Jogee et~al.,}{Jogee
+  et~al.}{2009}]{Jogee:2009iz}
+Jogee S.,  et~al., 2009, ApJ, 697, 1971
+
+\bibitem[\protect\citeauthoryear{Jones, Stark  \& Ellis}{Jones
+  et~al.}{2012}]{Jones:2012kn}
+Jones T.,  Stark D.~P.,   Ellis R.~S.,  2012, ApJ, 751, 51
+
+\bibitem[\protect\citeauthoryear{Kartaltepe et~al.,}{Kartaltepe
+  et~al.}{2007}]{Kartaltepe:2007dv}
+Kartaltepe J.~S.,  et~al., 2007, ApJS, 172, 320
+
+\bibitem[\protect\citeauthoryear{Kawai et~al.,}{Kawai
+  et~al.}{2006}]{Kawai:2006kk}
+Kawai N.,  et~al., 2006, Nature, 440, 184
+
+\bibitem[\protect\citeauthoryear{Kennicutt}{Kennicutt}{1998}]{KennicuttJr:1998id}
+Kennicutt Jr R.~C.,  1998, ApJ, 498, 541
+
+\bibitem[\protect\citeauthoryear{Kimm \& Cen}{Kimm \& Cen}{2014}]{Kimm:2014gv}
+Kimm T.,  Cen R.,  2014, ApJ, 788, 121
+
+\bibitem[\protect\citeauthoryear{Kitzbichler \& White}{Kitzbichler \&
+  White}{2008}]{Kitzbichler:2008gi}
+Kitzbichler M.~G.,  White S. D.~M.,  2008, MNRAS, 391, 1489
+
+\bibitem[\protect\citeauthoryear{Koekemoer et~al.,}{Koekemoer
+  et~al.}{2011}]{Koekemoer:2011br}
+Koekemoer A.~M.,  et~al., 2011, ApJS, 197, 36
+
+\bibitem[\protect\citeauthoryear{Koekemoer et~al.,}{Koekemoer
+  et~al.}{2013}]{Koekemoer:2013db}
+Koekemoer A.~M.,  et~al., 2013, ApJS, 209, 3
+
+\bibitem[\protect\citeauthoryear{Kriek \& Conroy}{Kriek \&
+  Conroy}{2013}]{Kriek:2013kx}
+Kriek M.,  Conroy C.,  2013, ApJ, 775, L16
+
+\bibitem[\protect\citeauthoryear{Kriek et~al.,}{Kriek
+  et~al.}{2010}]{Kriek:2010hi}
+Kriek M.,  et~al., 2010, ApJ, 722, L64
+
+\bibitem[\protect\citeauthoryear{Kriek et~al.,}{Kriek
+  et~al.}{2015}]{2015ApJS..218...15K}
+Kriek M.,  et~al., 2015, ApJS, 218, 15
+
+\bibitem[\protect\citeauthoryear{Kroupa}{Kroupa}{2001}]{Kroupa:2001ki}
+Kroupa P.,  2001, MNRAS, 322, 231
+
+\bibitem[\protect\citeauthoryear{Krueger, Fritze-v Alvensleben  \&
+  Loose}{Krueger et~al.}{1995}]{1995A&A...303...41K}
+Krueger H.,  Fritze-v Alvensleben U.,   Loose H.-H.,  1995, A{\&}A, 303, 41
+
+\bibitem[\protect\citeauthoryear{Kuhlen \& Faucher-Gigu{\`e}re}{Kuhlen \&
+  Faucher-Gigu{\`e}re}{2012}]{Kuhlen:2012ka}
+Kuhlen M.,  Faucher-Gigu{\`e}re C.-A.,  2012, MNRAS, 423, 862
+
+\bibitem[\protect\citeauthoryear{Kurk et~al.,}{Kurk et~al.}{2012}]{Kurk:2012ej}
+Kurk J.,  et~al., 2012, A{\&}A, 549, A63
+
+\bibitem[\protect\citeauthoryear{Labb{\'e} et~al.,}{Labb{\'e}
+  et~al.}{2010}]{Labbe:2010ho}
+Labb{\'e} I.,  et~al., 2010, ApJ, 716, L103
+
+\bibitem[\protect\citeauthoryear{Laidler et~al.,}{Laidler
+  et~al.}{2007}]{Laidler:2007iy}
+Laidler V.~G.,  et~al., 2007, PUBL ASTRON SOC PAC, 119, 1325
+
+\bibitem[\protect\citeauthoryear{Laskar, Berger  \& Chary}{Laskar
+  et~al.}{2011}]{Laskar:2011cc}
+Laskar T.,  Berger E.,   Chary R.-R.,  2011, ApJ, 739, 1
+
+\bibitem[\protect\citeauthoryear{Lawrence et~al.,}{Lawrence
+  et~al.}{2007}]{Lawrence:2007hu}
+Lawrence A.,  et~al., 2007, MNRAS, 379, 1599
+
+\bibitem[\protect\citeauthoryear{Le~F{\`e}vre et~al.,}{Le~F{\`e}vre
+  et~al.}{2000}]{LeFevre:2000iq}
+Le~F{\`e}vre O.,  et~al., 2000, MNRAS, 311, 565
+
+\bibitem[\protect\citeauthoryear{Le~F{\`e}vre et~al.,}{Le~F{\`e}vre
+  et~al.}{2004}]{LeFvre:2004ge}
+Le~F{\`e}vre O.,  et~al., 2004, A{\&}A, 428, 1043
+
+\bibitem[\protect\citeauthoryear{Lee, Ferguson, Somerville, Wiklind  \&
+  Giavalisco}{Lee et~al.}{2010}]{2010ApJ...725.1644L}
+Lee S.-K.,  Ferguson H.~C.,  Somerville R.~S.,  Wiklind T.,   Giavalisco M.,
+  2010, ApJ, 725, 1644
+
+\bibitem[\protect\citeauthoryear{Lee et~al.,}{Lee et~al.}{2011}]{Lee:2011dw}
+Lee K.-S.,  et~al., 2011, ApJ, 733, 99
+
+\bibitem[\protect\citeauthoryear{Lee et~al.,}{Lee
+  et~al.}{2012}]{2012ApJ...752...66L}
+Lee K.-S.,  et~al., 2012, ApJ, 752, 66
+
+\bibitem[\protect\citeauthoryear{Lee, Ferguson, Somerville, Giavalisco, Wiklind
+   \& Dahlen}{Lee et~al.}{2014}]{Lee:2014in}
+Lee S.-K.,  Ferguson H.~C.,  Somerville R.~S.,  Giavalisco M.,  Wiklind T.,
+  Dahlen T.,  2014, ApJ, 783, 81
+
+\bibitem[\protect\citeauthoryear{Leitherer et~al.,}{Leitherer
+  et~al.}{1999}]{Leitherer:1999jt}
+Leitherer C.,  et~al., 1999, ApJS, 123, 3
+
+\bibitem[\protect\citeauthoryear{Leitherer, Ekstr{\"o}m, Meynet, Schaerer,
+  Agienko  \& Levesque}{Leitherer et~al.}{2014}]{Leitherer:2014ia}
+Leitherer C.,  Ekstr{\"o}m S.,  Meynet G.,  Schaerer D.,  Agienko K.~B.,
+  Levesque E.~M.,  2014, ApJS, 212, 14
+
+\bibitem[\protect\citeauthoryear{Lin et~al.,}{Lin et~al.}{2004}]{Lin:2004ki}
+Lin L.,  et~al., 2004, ApJ, 617, L9
+
+\bibitem[\protect\citeauthoryear{L{\'o}pez-Sanjuan, Balcells,
+  P{\'e}rez-Gonz{\'a}lez, Barro, Gallego  \& Zamorano}{L{\'o}pez-Sanjuan
+  et~al.}{2010}]{LopezSanjuan:2010cz}
+L{\'o}pez-Sanjuan C.,  Balcells M.,  P{\'e}rez-Gonz{\'a}lez P.~G.,  Barro G.,
+  Gallego J.,   Zamorano J.,  2010, A{\&}A, 518, A20
+
+\bibitem[\protect\citeauthoryear{L{\'o}pez-Sanjuan et~al.,}{L{\'o}pez-Sanjuan
+  et~al.}{2015}]{LopezSanjuan:2014uj}
+L{\'o}pez-Sanjuan C.,  et~al., 2015, A{\&}A, 576, A53
+
+\bibitem[\protect\citeauthoryear{Lorenzoni, Bunker, Wilkins, Stanway, Jarvis
+  \& Caruana}{Lorenzoni et~al.}{2011}]{Lorenzoni:2011iz}
+Lorenzoni S.,  Bunker A.~J.,  Wilkins S.~M.,  Stanway E.~R.,  Jarvis M.~J.,
+  Caruana J.,  2011, MNRAS, 414, 1455
+
+\bibitem[\protect\citeauthoryear{Lotz, Jonsson, Cox  \& Primack}{Lotz
+  et~al.}{2008}]{Lotz:2008kr}
+Lotz J.~M.,  Jonsson P.,  Cox T.~J.,   Primack J.~R.,  2008, MNRAS, 391, 1137
+
+\bibitem[\protect\citeauthoryear{Lotz, Jonsson, Cox  \& Primack}{Lotz
+  et~al.}{2010a}]{Lotz:2010ie}
+Lotz J.~M.,  Jonsson P.,  Cox T.~J.,   Primack J.~R.,  2010a, MNRAS, 404, 575
+
+\bibitem[\protect\citeauthoryear{Lotz, Jonsson, Cox  \& Primack}{Lotz
+  et~al.}{2010b}]{Lotz:2010hf}
+Lotz J.~M.,  Jonsson P.,  Cox T.~J.,   Primack J.~R.,  2010b, MNRAS, 404, 590
+
+\bibitem[\protect\citeauthoryear{Lotz, Jonsson, Cox, Croton, Primack,
+  Somerville  \& Stewart}{Lotz et~al.}{2011}]{Lotz:2011bu}
+Lotz J.~M.,  Jonsson P.,  Cox T.~J.,  Croton D.,  Primack J.~R.,  Somerville
+  R.~S.,   Stewart K.,  2011, ApJ, 742, 103
+
+\bibitem[\protect\citeauthoryear{Lu, Mo, Weinberg  \& Katz}{Lu
+  et~al.}{2011}]{Lu:2011hj}
+Lu Y.,  Mo H.~J.,  Weinberg M.~D.,   Katz N.,  2011, MNRAS, 416, 1949
+
+\bibitem[\protect\citeauthoryear{Lu et~al.,}{Lu et~al.}{2014}]{Lu:2014kl}
+Lu Y.,  et~al., 2014, ApJ, 795, 123
+
+\bibitem[\protect\citeauthoryear{Madau}{Madau}{1995}]{1995ApJ...441...18M}
+Madau P.,  1995, ApJ, 441, 18
+
+\bibitem[\protect\citeauthoryear{Madau, Ferguson, Dickinson, Giavalisco,
+  Steidel  \& Fruchter}{Madau et~al.}{1996}]{1996MNRAS.283.1388M}
+Madau P.,  Ferguson H.~C.,  Dickinson M.~E.,  Giavalisco M.,  Steidel C.~C.,
+  Fruchter A.,  1996, MNRAS, 283, 1388
+
+\bibitem[\protect\citeauthoryear{Madau, Pozzetti  \& Dickinson}{Madau
+  et~al.}{1998}]{Madau:1998jd}
+Madau P.,  Pozzetti L.,   Dickinson M.,  1998, ApJ, 498, 106
+
+\bibitem[\protect\citeauthoryear{Madau, Haardt  \& Rees}{Madau
+  et~al.}{1999}]{Madau:1999kl}
+Madau P.,  Haardt F.,   Rees M.~J.,  1999, ApJ, 514, 648
+
+\bibitem[\protect\citeauthoryear{Maiolino et~al.,}{Maiolino
+  et~al.}{2008a}]{2008ASPC..396..409M}
+Maiolino R.,  et~al., 2008a, Formation and Evolution of Galaxy Disks ASP
+  Conference Series, 396, 409
+
+\bibitem[\protect\citeauthoryear{Maiolino et~al.,}{Maiolino
+  et~al.}{2008b}]{Maiolino:2008gs}
+Maiolino R.,  et~al., 2008b, A{\&}A, 488, 463
+
+\bibitem[\protect\citeauthoryear{Man, Toft, Zirm, Wuyts  \& van~der Wel}{Man
+  et~al.}{2011}]{Man:2011jo}
+Man A. W.~S.,  Toft S.,  Zirm A.~W.,  Wuyts S.,   van~der Wel A.,  2011, ApJ,
+  744, 85
+
+\bibitem[\protect\citeauthoryear{Maraston}{Maraston}{2005}]{Maraston:2005er}
+Maraston C.,  2005, MNRAS, 362, 799
+
+\bibitem[\protect\citeauthoryear{Maraston, Pforr, Renzini, Daddi, Dickinson,
+  Cimatti  \& Tonini}{Maraston et~al.}{2010}]{Maraston:2010dl}
+Maraston C.,  Pforr J.,  Renzini A.,  Daddi E.,  Dickinson M.,  Cimatti A.,
+  Tonini C.,  2010, MNRAS, 407, 830
+
+\bibitem[\protect\citeauthoryear{Marchesini, van Dokkum, F{\"o}rster~Schreiber,
+  Franx, Labb{\'e}  \& Wuyts}{Marchesini et~al.}{2009}]{Marchesini:2009ef}
+Marchesini D.,  van Dokkum P.~G.,  F{\"o}rster~Schreiber N.~M.,  Franx M.,
+  Labb{\'e} I.,   Wuyts S.,  2009, ApJ, 701, 1765
+
+\bibitem[\protect\citeauthoryear{Mart{\'\i}n-Navarro
+  et~al.,}{Mart{\'\i}n-Navarro et~al.}{2014}]{MartinNavarro:2014wr}
+Mart{\'\i}n-Navarro I.,  et~al., 2014
+
+\bibitem[\protect\citeauthoryear{McCracken et~al.,}{McCracken
+  et~al.}{2012}]{McCracken:2012gd}
+McCracken H.~J.,  et~al., 2012, A{\&}A, 544, A156
+
+\bibitem[\protect\citeauthoryear{McLeod, McLure, Dunlop, Robertson, Ellis  \&
+  Targett}{McLeod et~al.}{2014}]{McLeod:2014wz}
+McLeod D.~J.,  McLure R.~J.,  Dunlop J.~S.,  Robertson B.~E.,  Ellis R.~S.,
+  Targett T.~T.,  2014, eprint arXiv:1412.1472
+
+\bibitem[\protect\citeauthoryear{McLure et~al.,}{McLure
+  et~al.}{2006}]{McLure:2006fg}
+McLure R.~J.,  et~al., 2006, MNRAS, 372, 357
+
+\bibitem[\protect\citeauthoryear{McLure, Cirasuolo, Dunlop, Foucaud  \&
+  Almaini}{McLure et~al.}{2009}]{2009MNRAS.395.2196M}
+McLure R.~J.,  Cirasuolo M.,  Dunlop J.~S.,  Foucaud S.,   Almaini O.,  2009,
+  MNRAS, 395, 2196
+
+\bibitem[\protect\citeauthoryear{McLure, Dunlop, Cirasuolo, Koekemoer, Sabbi,
+  Stark, Targett  \& Ellis}{McLure et~al.}{2010}]{McLure:2010hq}
+McLure R.~J.,  Dunlop J.~S.,  Cirasuolo M.,  Koekemoer A.~M.,  Sabbi E.,  Stark
+  D.~P.,  Targett T.~A.,   Ellis R.~S.,  2010, MNRAS, 403, 960
+
+\bibitem[\protect\citeauthoryear{McLure et~al.,}{McLure
+  et~al.}{2011}]{2011MNRAS.418.2074M}
+McLure R.~J.,  et~al., 2011, MNRAS, 418, 2074
+
+\bibitem[\protect\citeauthoryear{McLure et~al.,}{McLure
+  et~al.}{2012}]{McLure:2012hq}
+McLure R.~J.,  et~al., 2012, MNRAS, 428, 1088
+
+\bibitem[\protect\citeauthoryear{McLure et~al.,}{McLure
+  et~al.}{2013}]{McLure:2013hh}
+McLure R.~J.,  et~al., 2013, MNRAS, 432, 2696
+
+\bibitem[\protect\citeauthoryear{Meier}{Meier}{1976}]{Meier:1976ch}
+Meier D.~L.,  1976, ApJ, 203, L103
+
+\bibitem[\protect\citeauthoryear{Meurer, Heckman  \& Calzetti}{Meurer
+  et~al.}{1999}]{Meurer:1999jm}
+Meurer G.~R.,  Heckman T.~M.,   Calzetti D.,  1999, ApJ, 521, 64
+
+\bibitem[\protect\citeauthoryear{Molino et~al.,}{Molino
+  et~al.}{2014}]{Molino:2014iz}
+Molino A.,  et~al., 2014, MNRAS, 441, 2891
+
+\bibitem[\protect\citeauthoryear{Mortlock et~al.,}{Mortlock
+  et~al.}{2013}]{Mortlock:2013dg}
+Mortlock A.,  et~al., 2013, MNRAS, 433, 1185
+
+\bibitem[\protect\citeauthoryear{Mortlock et~al.,}{Mortlock
+  et~al.}{2014}]{Mortlock:2014et}
+Mortlock A.,  et~al., 2014, MNRAS, 447, 2
+
+\bibitem[\protect\citeauthoryear{Moster, Somerville, Newman  \& Rix}{Moster
+  et~al.}{2011}]{Moster:2011ip}
+Moster B.~P.,  Somerville R.~S.,  Newman J.~A.,   Rix H.-W.,  2011, ApJ, 731,
+  113
+
+\bibitem[\protect\citeauthoryear{Muzzin et~al.,}{Muzzin
+  et~al.}{2013}]{Muzzin:2013bl}
+Muzzin A.,  et~al., 2013, ApJ, 777, 18
+
+\bibitem[\protect\citeauthoryear{Nayyeri et~al.,}{Nayyeri
+  et~al.}{2014}]{Nayyeri:2014cz}
+Nayyeri H.,  et~al., 2014, ApJ, 794, 68
+
+\bibitem[\protect\citeauthoryear{Neistein \& Dekel}{Neistein \&
+  Dekel}{2007}]{Neistein:2007fg}
+Neistein E.,  Dekel A.,  2007, MNRAS, 383, 615
+
+\bibitem[\protect\citeauthoryear{Nestor, Shapley, Kornei, Steidel  \&
+  Siana}{Nestor et~al.}{2013}]{Nestor:2013kw}
+Nestor D.~B.,  Shapley A.~E.,  Kornei K.~A.,  Steidel C.~C.,   Siana B.,  2013,
+  ApJ, 765, 47
+
+\bibitem[\protect\citeauthoryear{Newman \& Davis}{Newman \&
+  Davis}{2002}]{Newman:2002fa}
+Newman J.~A.,  Davis M.,  2002, ApJ, 564, 567
+
+\bibitem[\protect\citeauthoryear{Newman, Ellis, Bundy  \& Treu}{Newman
+  et~al.}{2012}]{Newman:2012hp}
+Newman A.~B.,  Ellis R.~S.,  Bundy K.,   Treu T.,  2012, ApJ, 746, 162
+
+\bibitem[\protect\citeauthoryear{Nonino et~al.,}{Nonino
+  et~al.}{2009}]{Nonino:2009hf}
+Nonino M.,  et~al., 2009, ApJS, 183, 244
+
+\bibitem[\protect\citeauthoryear{Oesch et~al.,}{Oesch
+  et~al.}{2009}]{Oesch:2009ew}
+Oesch P.~A.,  et~al., 2009, ApJ, 709, L16
+
+\bibitem[\protect\citeauthoryear{Oesch et~al.,}{Oesch
+  et~al.}{2010}]{2010ApJ...709L..21O}
+Oesch P.~A.,  et~al., 2010, The Astrophysical Journal Letters, 709, L21
+
+\bibitem[\protect\citeauthoryear{Oesch et~al.,}{Oesch
+  et~al.}{2012}]{2012ApJ...759..135O}
+Oesch P.~A.,  et~al., 2012, ApJ, 759, 135
+
+\bibitem[\protect\citeauthoryear{Oesch et~al.,}{Oesch
+  et~al.}{2013}]{Oesch:2013eb}
+Oesch P.~A.,  et~al., 2013, ApJ, 772, 136
+
+\bibitem[\protect\citeauthoryear{Oesch et~al.,}{Oesch
+  et~al.}{2014}]{Oesch:2014cs}
+Oesch P.~A.,  et~al., 2014, ApJ, 786, 108
+
+\bibitem[\protect\citeauthoryear{Oke \& Gunn}{Oke \&
+  Gunn}{1983}]{1983ApJ...266..713O}
+Oke J.~B.,  Gunn J.~E.,  1983, ApJ, 266, 713
+
+\bibitem[\protect\citeauthoryear{Ono, Shimasaku, Dunlop, Farrah, McLure  \&
+  Okamura}{Ono et~al.}{2010}]{Ono:2010ed}
+Ono Y.,  Shimasaku K.,  Dunlop J.,  Farrah D.,  McLure R.,   Okamura S.,  2010,
+  ApJ, 724, 1524
+
+\bibitem[\protect\citeauthoryear{Osterbrock \& Ferland}{Osterbrock \&
+  Ferland}{2006}]{Osterbrock:2006ula}
+Osterbrock D.~E.,  Ferland G.~J.,  2006, {Astrophysics of Gaseous Nebulae and
+  Active Galactic Nuclei}.
+University Science Books
+
+\bibitem[\protect\citeauthoryear{Ota et~al.,}{Ota et~al.}{2014}]{Ota:2014du}
+Ota K.,  et~al., 2014, ApJ, 792, 34
+
+\bibitem[\protect\citeauthoryear{Ouchi et~al.,}{Ouchi
+  et~al.}{2009}]{Ouchi:2009jd}
+Ouchi M.,  et~al., 2009, ApJ, 706, 1136
+
+\bibitem[\protect\citeauthoryear{Ouchi et~al.,}{Ouchi
+  et~al.}{2013}]{2013ApJ...778..102O}
+Ouchi M.,  et~al., 2013, ApJ, 778, 102
+
+\bibitem[\protect\citeauthoryear{Ownsworth, Conselice, Mortlock, Hartley,
+  Almaini, Duncan  \& Mundy}{Ownsworth et~al.}{2014}]{Ownsworth:2014gt}
+Ownsworth J.~R.,  Conselice C.~J.,  Mortlock A.,  Hartley W.~G.,  Almaini O.,
+  Duncan K.,   Mundy C.~J.,  2014, MNRAS, 445, 2198
+
+\bibitem[\protect\citeauthoryear{Pacifici, Charlot, Blaizot  \&
+  Brinchmann}{Pacifici et~al.}{2012}]{Pacifici:2012fr}
+Pacifici C.,  Charlot S.,  Blaizot J.,   Brinchmann J.,  2012, MNRAS, 421, 2002
+
+\bibitem[\protect\citeauthoryear{Papovich, Finkelstein, Ferguson, Lotz  \&
+  Giavalisco}{Papovich et~al.}{2011}]{2011MNRAS.412.1123P}
+Papovich C.,  Finkelstein S.~L.,  Ferguson H.~C.,  Lotz J.~M.,   Giavalisco M.,
+   2011, MNRAS, 412, 1123
+
+\bibitem[\protect\citeauthoryear{Partridge \& Peebles}{Partridge \&
+  Peebles}{1967}]{Partridge:1967iw}
+Partridge R.~B.,  Peebles P. J.~E.,  1967, ApJ, 147, 868
+
+\bibitem[\protect\citeauthoryear{Patton, Carlberg, Marzke, Pritchet, da Costa
+  \& Pellegrini}{Patton et~al.}{2000}]{Patton:2000kt}
+Patton D.~R.,  Carlberg R.~G.,  Marzke R.~O.,  Pritchet C.~J.,  da Costa L.~N.,
+    Pellegrini P.~S.,  2000, ApJ, 536, 153
+
+\bibitem[\protect\citeauthoryear{Pawlik, Schaye  \& van Scherpenzeel}{Pawlik
+  et~al.}{2009}]{Pawlik:2009id}
+Pawlik A.~H.,  Schaye J.,   van Scherpenzeel E.,  2009, MNRAS, 394, 1812
+
+\bibitem[\protect\citeauthoryear{Pei}{Pei}{1992}]{Pei:1992ey}
+Pei Y.~C.,  1992, ApJ, 395, 130
+
+\bibitem[\protect\citeauthoryear{Peng et~al.,}{Peng et~al.}{2010}]{Peng:2010gn}
+Peng Y.-j.,  et~al., 2010, ApJ, 721, 193
+
+\bibitem[\protect\citeauthoryear{Penzias \& Wilson}{Penzias \&
+  Wilson}{1965}]{Penzias:1965es}
+Penzias A.~A.,  Wilson R.~W.,  1965, ApJ, 142, 419
+
+\bibitem[\protect\citeauthoryear{P{\'e}rez~Gonz{\'a}lez
+  et~al.,}{P{\'e}rez~Gonz{\'a}lez et~al.}{2008}]{PerezGonzalez:2008cq}
+P{\'e}rez~Gonz{\'a}lez P.~G.,  et~al., 2008, ApJ, 675, 234
+
+\bibitem[\protect\citeauthoryear{P{\'e}rez~Gonz{\'a}lez
+  et~al.,}{P{\'e}rez~Gonz{\'a}lez et~al.}{2012}]{PerezGonzalez:2012fo}
+P{\'e}rez~Gonz{\'a}lez P.~G.,  et~al., 2012, ApJ, 762, 46
+
+\bibitem[\protect\citeauthoryear{Pirzkal et~al.,}{Pirzkal
+  et~al.}{2009}]{Pirzkal:2009cg}
+Pirzkal N.,  et~al., 2009, ApJ, 695, 1591
+
+\bibitem[\protect\citeauthoryear{Pirzkal, Rothberg, Nilsson, Finkelstein,
+  Koekemoer, Malhotra  \& Rhoads}{Pirzkal et~al.}{2012}]{2012ApJ...748..122P}
+Pirzkal N.,  Rothberg B.,  Nilsson K.~K.,  Finkelstein S.,  Koekemoer A.,
+  Malhotra S.,   Rhoads J.,  2012, ApJ, 748, 122
+
+\bibitem[\protect\citeauthoryear{Pirzkal, Rothberg, Ryan, Coe, Malhotra, Rhoads
+   \& Noeske}{Pirzkal et~al.}{2013}]{Pirzkal:2013ug}
+Pirzkal N.,  Rothberg B.,  Ryan R.,  Coe D.,  Malhotra S.,  Rhoads J.,   Noeske
+  K.,  2013
+
+\bibitem[\protect\citeauthoryear{{Planck Collaboration} et~al.,}{{Planck
+  Collaboration} et~al.}{2015}]{2015arXiv150201589P}
+{Planck Collaboration} et~al., 2015, arXiv, p.~1589
+
+\bibitem[\protect\citeauthoryear{Popesso et~al.,}{Popesso
+  et~al.}{2009}]{Popesso:2009ht}
+Popesso P.,  et~al., 2009, A{\&}A, 494, 443
+
+\bibitem[\protect\citeauthoryear{Pozzetti et~al.,}{Pozzetti
+  et~al.}{2010}]{Pozzetti:2010gw}
+Pozzetti L.,  et~al., 2010, A{\&}A, 523, A13
+
+\bibitem[\protect\citeauthoryear{Ravindranath et~al.,}{Ravindranath
+  et~al.}{2006}]{Ravindranath:2006ie}
+Ravindranath S.,  et~al., 2006, ApJ, 652, 963
+
+\bibitem[\protect\citeauthoryear{Razoumov \& Sommer-Larsen}{Razoumov \&
+  Sommer-Larsen}{2010}]{Razoumov:2010bh}
+Razoumov A.~O.,  Sommer-Larsen J.,  2010, ApJ, 710, 1239
+
+\bibitem[\protect\citeauthoryear{Reddy \& Steidel}{Reddy \&
+  Steidel}{2009}]{Anonymous:r_woy2UF}
+Reddy N.~A.,  Steidel C.~C.,  2009, ApJ, 692, 778
+
+\bibitem[\protect\citeauthoryear{Reddy, Pettini, Steidel, Shapley, Erb  \&
+  Law}{Reddy et~al.}{2012}]{2012ApJ...754...25R}
+Reddy N.~A.,  Pettini M.,  Steidel C.~C.,  Shapley A.~E.,  Erb D.~K.,   Law
+  D.~R.,  2012, ApJ, 754, 25
+
+\bibitem[\protect\citeauthoryear{Reines, Nidever, Whelan  \& Johnson}{Reines
+  et~al.}{2009}]{Reines:2009gs}
+Reines A.~E.,  Nidever D.~L.,  Whelan D.~G.,   Johnson K.~E.,  2009, ApJ, 708,
+  26
+
+\bibitem[\protect\citeauthoryear{Retzlaff, Rosati, Dickinson, Vandame,
+  Rit{\'e}, Nonino, Cesarsky  \& {the GOODS team}}{Retzlaff
+  et~al.}{2010}]{Retzlaff:2010co}
+Retzlaff J.,  Rosati P.,  Dickinson M.,  Vandame B.,  Rit{\'e} C.,  Nonino M.,
+  Cesarsky C.,   {the GOODS team} 2010, A{\&}A, 511, A50
+
+\bibitem[\protect\citeauthoryear{Rhoads et~al.,}{Rhoads
+  et~al.}{2009}]{Rhoads:2009eb}
+Rhoads J.~E.,  et~al., 2009, ApJ, 697, 942
+
+\bibitem[\protect\citeauthoryear{Robertson, Ellis, Dunlop, McLure  \&
+  Stark}{Robertson et~al.}{2010}]{2010Natur.468...49R}
+Robertson B.~E.,  Ellis R.~S.,  Dunlop J.~S.,  McLure R.~J.,   Stark D.~P.,
+  2010, Nature, 468, 49
+
+\bibitem[\protect\citeauthoryear{Robertson et~al.,}{Robertson
+  et~al.}{2013}]{Robertson:2013ji}
+Robertson B.~E.,  et~al., 2013, ApJ, 768, 71
+
+\bibitem[\protect\citeauthoryear{Robertson, Ellis, Dunlop, McLure, Stark  \&
+  McLeod}{Robertson et~al.}{2014}]{2014ApJ...796L..27R}
+Robertson B.~E.,  Ellis R.~S.,  Dunlop J.~S.,  McLure R.~J.,  Stark D.~P.,
+  McLeod D.,  2014, The Astrophysical Journal Letters, 796, L27
+
+\bibitem[\protect\citeauthoryear{Robertson, Ellis, Furlanetto  \&
+  Dunlop}{Robertson et~al.}{2015}]{2015ApJ...802L..19R}
+Robertson B.~E.,  Ellis R.~S.,  Furlanetto S.~R.,   Dunlop J.~S.,  2015, The
+  Astrophysical Journal Letters, 802, L19
+
+\bibitem[\protect\citeauthoryear{Robson, Priddey, Isaak  \& McMahon}{Robson
+  et~al.}{2004}]{Robson:2004gu}
+Robson I.,  Priddey R.~S.,  Isaak K.~G.,   McMahon R.~G.,  2004, MNRAS, 351,
+  L29
+
+\bibitem[\protect\citeauthoryear{Rodriguez~Espinosa et~al.,}{Rodriguez~Espinosa
+  et~al.}{2014}]{RodriguezEspinosa:2014cs}
+Rodriguez~Espinosa J.~M.,  et~al., 2014, MNRAS: Letters, 444, L68
+
+\bibitem[\protect\citeauthoryear{Rogers, McLure  \& Dunlop}{Rogers
+  et~al.}{2013}]{2013MNRAS.429.2456R}
+Rogers A.~B.,  McLure R.~J.,   Dunlop J.~S.,  2013, MNRAS, 429, 2456
+
+\bibitem[\protect\citeauthoryear{Rogers et~al.,}{Rogers
+  et~al.}{2014}]{Rogers:2014bn}
+Rogers A.~B.,  et~al., 2014, MNRAS, 440, 3714
+
+\bibitem[\protect\citeauthoryear{Rowlands, Gomez, Dunne, Aragon-Salamanca, Dye,
+  Maddox, da Cunha  \& Werf}{Rowlands et~al.}{2014}]{Rowlands:2014dq}
+Rowlands K.,  Gomez H.~L.,  Dunne L.,  Aragon-Salamanca A.,  Dye S.,  Maddox
+  S.,  da Cunha E.,   Werf P. v.~d.,  2014, MNRAS, 441, 1040
+
+\bibitem[\protect\citeauthoryear{Ryan, Cohen, Windhorst  \& Silk}{Ryan
+  et~al.}{2008}]{RyanJr:2008ka}
+Ryan Jr R.~E.,  Cohen S.~H.,  Windhorst R.~A.,   Silk J.,  2008, ApJ, 678, 751
+
+\bibitem[\protect\citeauthoryear{Salmon et~al.,}{Salmon
+  et~al.}{2015}]{2015ApJ...799..183S}
+Salmon B.,  et~al., 2015, ApJ, 799, 183
+
+\bibitem[\protect\citeauthoryear{Salpeter}{Salpeter}{1955}]{Salpeter:1955hz}
+Salpeter E.~E.,  1955, ApJ, 121, 161
+
+\bibitem[\protect\citeauthoryear{Sana et~al.,}{Sana et~al.}{2012}]{Sana:2012gu}
+Sana H.,  et~al., 2012, Science, 337, 444
+
+\bibitem[\protect\citeauthoryear{Sana et~al.,}{Sana et~al.}{2013}]{Sana:2013hh}
+Sana H.,  et~al., 2013, A{\&}A, 550, A107
+
+\bibitem[\protect\citeauthoryear{Santini et~al.,}{Santini
+  et~al.}{2012}]{Santini:2012jq}
+Santini P.,  et~al., 2012, A{\&}A, 538, A33
+
+\bibitem[\protect\citeauthoryear{Schaerer}{Schaerer}{2002}]{Schaerer:2002bm}
+Schaerer D.,  2002, A{\&}A, 382, 28
+
+\bibitem[\protect\citeauthoryear{Schaerer \& de Barros}{Schaerer \&
+  de~Barros}{2009}]{2009A&A...502..423S}
+Schaerer D.,  de Barros S.,  2009, A{\&}A, 502, 423
+
+\bibitem[\protect\citeauthoryear{Schaerer \& de Barros}{Schaerer \&
+  de~Barros}{2010}]{2010A&A...515A..73S}
+Schaerer D.,  de Barros S.,  2010, A{\&}A, 515, 73
+
+\bibitem[\protect\citeauthoryear{Schaerer, de Barros  \& Sklias}{Schaerer
+  et~al.}{2013}]{2013A&A...549A...4S}
+Schaerer D.,  de Barros S.,   Sklias P.,  2013, A{\&}A, 549, 4
+
+\bibitem[\protect\citeauthoryear{Schaerer, Boone, Zamojski, Staguhn,
+  Dessauges-Zavadsky, Finkelstein  \& Combes}{Schaerer
+  et~al.}{2015}]{2015A&A...574A..19S}
+Schaerer D.,  Boone F.,  Zamojski M.,  Staguhn J.,  Dessauges-Zavadsky M.,
+  Finkelstein S.,   Combes F.,  2015, A{\&}A, 574, A19
+
+\bibitem[\protect\citeauthoryear{Schawinski et~al.,}{Schawinski
+  et~al.}{2014}]{Schawinski:2014ep}
+Schawinski K.,  et~al., 2014, MNRAS, 440, 889
+
+\bibitem[\protect\citeauthoryear{Schaye et~al.,}{Schaye
+  et~al.}{2014}]{Schaye:2014gk}
+Schaye J.,  et~al., 2014, MNRAS, 446, 521
+
+\bibitem[\protect\citeauthoryear{Schechter}{Schechter}{1976}]{Schechter:1976gl}
+Schechter P.,  1976, ApJ, 203, 297
+
+\bibitem[\protect\citeauthoryear{Schenker et~al.,}{Schenker
+  et~al.}{2013a}]{Schenker:2013cl}
+Schenker M.~A.,  et~al., 2013a, ApJ, 768, 196
+
+\bibitem[\protect\citeauthoryear{Schenker, Ellis, Konidaris  \& Stark}{Schenker
+  et~al.}{2013b}]{Schenker:2013ep}
+Schenker M.~A.,  Ellis R.~S.,  Konidaris N.~P.,   Stark D.~P.,  2013b, ApJ,
+  777, 67
+
+\bibitem[\protect\citeauthoryear{Schmidt}{Schmidt}{1965}]{Schmidt:1965gm}
+Schmidt M.,  1965, ApJ, 141, 1295
+
+\bibitem[\protect\citeauthoryear{Schmidt}{Schmidt}{1968}]{Schmidt:1968wj}
+Schmidt M.,  1968, ApJ, 151, 394
+
+\bibitem[\protect\citeauthoryear{Schwarz}{Schwarz}{1978}]{Schwarz:1978uv}
+Schwarz G.,  1978, The annals of statistics, 6, 461
+
+\bibitem[\protect\citeauthoryear{Shapley, Steidel  \& Pettini}{Shapley
+  et~al.}{2003}]{Shapley:2003wi}
+Shapley A.~E.,  Steidel C.,   Pettini M.,  2003, ApJ
+
+\bibitem[\protect\citeauthoryear{Shapley, Steidel, Pettini, Adelberger  \&
+  Erb}{Shapley et~al.}{2006}]{Shapley:2006cq}
+Shapley A.~E.,  Steidel C.~C.,  Pettini M.,  Adelberger K.~L.,   Erb D.~K.,
+  2006, ApJ, 651, 688
+
+\bibitem[\protect\citeauthoryear{Shim, Chary, Dickinson, Lin, Spinrad, Stern
+  \& Yan}{Shim et~al.}{2011}]{Shim:2011cw}
+Shim H.,  Chary R.-R.,  Dickinson M.,  Lin L.,  Spinrad H.,  Stern D.,   Yan
+  C.-H.,  2011, ApJ, 738, 69
+
+\bibitem[\protect\citeauthoryear{Siana et~al.,}{Siana
+  et~al.}{2007}]{Siana:2007bc}
+Siana B.,  et~al., 2007, ApJ, 668, 62
+
+\bibitem[\protect\citeauthoryear{Siana et~al.,}{Siana
+  et~al.}{2010}]{Siana:2010bo}
+Siana B.,  et~al., 2010, ApJ, 723, 241
+
+\bibitem[\protect\citeauthoryear{Smit, Bouwens, Franx, Illingworth, Labb{\'e},
+  Oesch  \& van Dokkum}{Smit et~al.}{2012}]{Smit:2012is}
+Smit R.,  Bouwens R.~J.,  Franx M.,  Illingworth G.~D.,  Labb{\'e} I.,  Oesch
+  P.~A.,   van Dokkum P.~G.,  2012, ApJ, 756, 14
+
+\bibitem[\protect\citeauthoryear{Smit et~al.,}{Smit
+  et~al.}{2014}]{2014ApJ...784...58S}
+Smit R.,  et~al., 2014, ApJ, 784, 58
+
+\bibitem[\protect\citeauthoryear{Smol{\v c}i{\'c} et~al.,}{Smol{\v c}i{\'c}
+  et~al.}{2015}]{Smolcic:2015ke}
+Smol{\v c}i{\'c} V.,  et~al., 2015, A{\&}A, 576, A127
+
+\bibitem[\protect\citeauthoryear{Somerville \& Dav{\'e}}{Somerville \&
+  Dav{\'e}}{2014}]{Somerville:2014un}
+Somerville R.~S.,  Dav{\'e} R.,  2014, eprint arXiv:1412.2712
+
+\bibitem[\protect\citeauthoryear{Somerville, Hopkins, Cox, Robertson  \&
+  Hernquist}{Somerville et~al.}{2008}]{Somerville:2008ed}
+Somerville R.~S.,  Hopkins P.~F.,  Cox T.~J.,  Robertson B.~E.,   Hernquist L.,
+   2008, MNRAS, 391, 481
+
+\bibitem[\protect\citeauthoryear{Somerville, Gilmore, Primack  \&
+  Dom{\'\i}nguez}{Somerville et~al.}{2012}]{Somerville:2012cq}
+Somerville R.~S.,  Gilmore R.~C.,  Primack J.~R.,   Dom{\'\i}nguez A.,  2012,
+  MNRAS, 423, 1992
+
+\bibitem[\protect\citeauthoryear{Sommariva, Mannucci, Cresci, Maiolino,
+  Marconi, Nagao, Baroni  \& Grazian}{Sommariva
+  et~al.}{2012}]{2012A&A...539A.136S}
+Sommariva V.,  Mannucci F.,  Cresci G.,  Maiolino R.,  Marconi A.,  Nagao T.,
+  Baroni A.,   Grazian A.,  2012, A{\&}A, 539, 136
+
+\bibitem[\protect\citeauthoryear{Spitler et~al.,}{Spitler
+  et~al.}{2014}]{Spitler:2014ey}
+Spitler L.~R.,  et~al., 2014, ApJ, 787, L36
+
+\bibitem[\protect\citeauthoryear{Springel, Di~Matteo  \& Hernquist}{Springel
+  et~al.}{2005}]{Springel:2005co}
+Springel V.,  Di~Matteo T.,   Hernquist L.,  2005, MNRAS, 361, 776
+
+\bibitem[\protect\citeauthoryear{Stanway, Bunker  \& McMahon}{Stanway
+  et~al.}{2003}]{Stanway:2003fx}
+Stanway E.~R.,  Bunker A.~J.,   McMahon R.~G.,  2003, MNRAS, 342, 439
+
+\bibitem[\protect\citeauthoryear{Stanway et~al.,}{Stanway
+  et~al.}{2004a}]{Stanway:2004gu}
+Stanway E.~R.,  et~al., 2004a, ApJ, 604, L13
+
+\bibitem[\protect\citeauthoryear{Stanway, Bunker, McMahon, Ellis, Treu  \&
+  McCarthy}{Stanway et~al.}{2004b}]{Stanway:2004kr}
+Stanway E.~R.,  Bunker A.~J.,  McMahon R.~G.,  Ellis R.~S.,  Treu T.,
+  McCarthy P.~J.,  2004b, ApJ, 607, 704
+
+\bibitem[\protect\citeauthoryear{Stanway, Bremer, Lehnert  \& Eldridge}{Stanway
+  et~al.}{2008}]{Stanway:2008fj}
+Stanway E.~R.,  Bremer M.~N.,  Lehnert M.~D.,   Eldridge J.~J.,  2008, MNRAS,
+  384, 348
+
+\bibitem[\protect\citeauthoryear{Stark, Bunker, Ellis, Eyles  \& Lacy}{Stark
+  et~al.}{2007}]{Stark:2007gi}
+Stark D.~P.,  Bunker A.~J.,  Ellis R.~S.,  Eyles L.~P.,   Lacy M.,  2007, ApJ,
+  659, 84
+
+\bibitem[\protect\citeauthoryear{Stark, Ellis, Bunker, Bundy, Targett, Benson
+  \& Lacy}{Stark et~al.}{2009}]{2009ApJ...697.1493S}
+Stark D.~P.,  Ellis R.~S.,  Bunker A.,  Bundy K.,  Targett T.,  Benson A.,
+  Lacy M.,  2009, ApJ, 697, 1493
+
+\bibitem[\protect\citeauthoryear{Stark, Schenker, Ellis, Robertson, McLure  \&
+  Dunlop}{Stark et~al.}{2013}]{Stark:2013ix}
+Stark D.~P.,  Schenker M.~A.,  Ellis R.,  Robertson B.,  McLure R.,   Dunlop
+  J.,  2013, ApJ, 763, 129
+
+\bibitem[\protect\citeauthoryear{Stark et~al.,}{Stark
+  et~al.}{2014}]{Stark:2014fa}
+Stark D.~P.,  et~al., 2014, MNRAS, 445, 3200
+
+\bibitem[\protect\citeauthoryear{Stark et~al.,}{Stark
+  et~al.}{2015}]{2015MNRAS.450.1846S}
+Stark D.~P.,  et~al., 2015, MNRAS, 450, 1846
+
+\bibitem[\protect\citeauthoryear{Steidel \& Hamilton}{Steidel \&
+  Hamilton}{1992}]{1992AJ....104..941S}
+Steidel C.~C.,  Hamilton D.,  1992, Astronomical Journal (ISSN 0004-6256), 104,
+  941
+
+\bibitem[\protect\citeauthoryear{Steidel, Pettini  \& Hamilton}{Steidel
+  et~al.}{1995}]{Steidel:1995kx}
+Steidel C.~C.,  Pettini M.,   Hamilton D.,  1995, The Astronomical Journal,
+  110, 2519
+
+\bibitem[\protect\citeauthoryear{Steidel, Giavalisco, Dickinson  \&
+  Adelberger}{Steidel et~al.}{1996}]{Steidel:1996jd}
+Steidel C.~C.,  Giavalisco M.,  Dickinson M.,   Adelberger K.~L.,  1996, The
+  Astronomical Journal, 112, 352
+
+\bibitem[\protect\citeauthoryear{Steidel, Adelberger, Giavalisco, Dickinson  \&
+  Pettini}{Steidel et~al.}{1999}]{1999ApJ...519....1S}
+Steidel C.~C.,  Adelberger K.~L.,  Giavalisco M.,  Dickinson M.,   Pettini M.,
+  1999, ApJ, 519, 1
+
+\bibitem[\protect\citeauthoryear{Str{\"o}mgren}{Str{\"o}mgren}{1939}]{Stromgren:1939dq}
+Str{\"o}mgren B.,  1939, ApJ, 89, 526
+
+\bibitem[\protect\citeauthoryear{Strukov, Brukhanov, Skulachev  \&
+  Sazhin}{Strukov et~al.}{1992}]{Strukov:1992ua}
+Strukov I.~A.,  Brukhanov A.~A.,  Skulachev D.~P.,   Sazhin M.~V.,  1992,
+  MNRAS, 258, 37P
+
+\bibitem[\protect\citeauthoryear{Tanvir et~al.,}{Tanvir
+  et~al.}{2009}]{Tanvir:2009gq}
+Tanvir N.~R.,  et~al., 2009, Nature, 461, 1254
+
+\bibitem[\protect\citeauthoryear{Targett et~al.,}{Targett
+  et~al.}{2013}]{Targett:2013kg}
+Targett T.~A.,  et~al., 2013, MNRAS, 432, 2012
+
+\bibitem[\protect\citeauthoryear{Tasca et~al.,}{Tasca
+  et~al.}{2014}]{Tasca:2014gz}
+Tasca L. A.~M.,  et~al., 2014, A{\&}A, 565, A10
+
+\bibitem[\protect\citeauthoryear{Teplitz et~al.,}{Teplitz
+  et~al.}{2013}]{Teplitz:2013jg}
+Teplitz H.~I.,  et~al., 2013, The Astronomical Journal, 146, 159
+
+\bibitem[\protect\citeauthoryear{Thompson}{Thompson}{2003}]{Thompson:2003dp}
+Thompson R.~I.,  2003, ApJ, 596, 748
+
+\bibitem[\protect\citeauthoryear{Thompson, Weymann  \&
+  Storrie~Lombardi}{Thompson et~al.}{2001}]{Thompson:2001da}
+Thompson R.~I.,  Weymann R.~J.,   Storrie~Lombardi L.~J.,  2001, ApJ, 546, 694
+
+\bibitem[\protect\citeauthoryear{Torrey et~al.,}{Torrey
+  et~al.}{2015}]{Torrey:2015kx}
+Torrey P.,  et~al., 2015, MNRAS, 447, 2753
+
+\bibitem[\protect\citeauthoryear{Treu, Auger, Koopmans, Gavazzi, Marshall  \&
+  Bolton}{Treu et~al.}{2010}]{Treu:2010kf}
+Treu T.,  Auger M.~W.,  Koopmans L. V.~E.,  Gavazzi R.,  Marshall P.~J.,
+  Bolton A.~S.,  2010, ApJ, 709, 1195
+
+\bibitem[\protect\citeauthoryear{Troncoso et~al.,}{Troncoso
+  et~al.}{2014}]{Troncoso:2014kg}
+Troncoso P.,  et~al., 2014, A{\&}A, 563, A58
+
+\bibitem[\protect\citeauthoryear{Trujillo, Ferreras  \& de~la Rosa}{Trujillo
+  et~al.}{2011}]{Trujillo:2011jy}
+Trujillo I.,  Ferreras I.,   de~la Rosa I.~G.,  2011, MNRAS, 415, 3903
+
+\bibitem[\protect\citeauthoryear{Vanzella et~al.,}{Vanzella
+  et~al.}{2008}]{Vanzella:2008hp}
+Vanzella E.,  et~al., 2008, A{\&}A, 478, 83
+
+\bibitem[\protect\citeauthoryear{Vanzella et~al.,}{Vanzella
+  et~al.}{2009}]{Vanzella:2009ez}
+Vanzella E.,  et~al., 2009, ApJ, 695, 1163
+
+\bibitem[\protect\citeauthoryear{Vanzella, Siana, Cristiani  \&
+  Nonino}{Vanzella et~al.}{2010}]{Vanzella:2010jk}
+Vanzella E.,  Siana B.,  Cristiani S.,   Nonino M.,  2010, MNRAS, 404, 1672
+
+\bibitem[\protect\citeauthoryear{Vazquez, Leitherer, Schaerer, Meynet  \&
+  Maeder}{Vazquez et~al.}{2007}]{Vazquez:2007jt}
+Vazquez G.~A.,  Leitherer C.,  Schaerer D.,  Meynet G.,   Maeder A.,  2007,
+  ApJ, 663, 995
+
+\bibitem[\protect\citeauthoryear{Vogelsberger et~al.,}{Vogelsberger
+  et~al.}{2014}]{Vogelsberger:2014gw}
+Vogelsberger M.,  et~al., 2014, MNRAS, 444, 1518
+
+\bibitem[\protect\citeauthoryear{Walter et~al.,}{Walter
+  et~al.}{2003}]{Walter:2003ul}
+Walter F.,  et~al., 2003, Nature, 424, 406
+
+\bibitem[\protect\citeauthoryear{Weinmann, Neistein  \& Dekel}{Weinmann
+  et~al.}{2011}]{Weinmann:2011hh}
+Weinmann S.~M.,  Neistein E.,   Dekel A.,  2011, MNRAS, 417, 2737
+
+\bibitem[\protect\citeauthoryear{Weisz, Johnson  \& Conroy}{Weisz
+  et~al.}{2014}]{Weisz:2014bm}
+Weisz D.~R.,  Johnson B.~D.,   Conroy C.,  2014, ApJ, 794, L3
+
+\bibitem[\protect\citeauthoryear{Wiklind et~al.,}{Wiklind
+  et~al.}{2014}]{Wiklind:2014gs}
+Wiklind T.,  et~al., 2014, ApJ, 785, 111
+
+\bibitem[\protect\citeauthoryear{Wilkins, Bunker, Stanway, Lorenzoni  \&
+  Caruana}{Wilkins et~al.}{2011}]{Wilkins:2011fs}
+Wilkins S.~M.,  Bunker A.~J.,  Stanway E.,  Lorenzoni S.,   Caruana J.,  2011,
+  MNRAS, 417, 717
+
+\bibitem[\protect\citeauthoryear{Wilkins, Matteo, Croft, Khandai, Feng, Bunker
+  \& Coulton}{Wilkins et~al.}{2013}]{Wilkins:2013kh}
+Wilkins S.~M.,  Matteo T.~D.,  Croft R.,  Khandai N.,  Feng Y.,  Bunker A.,
+  Coulton W.,  2013, MNRAS, 429, 2098
+
+\bibitem[\protect\citeauthoryear{Wilkins, Stanway  \& Bremer}{Wilkins
+  et~al.}{2014}]{Wilkins:2014jp}
+Wilkins S.~M.,  Stanway E.~R.,   Bremer M.~N.,  2014, MNRAS, 439, 1038
+
+\bibitem[\protect\citeauthoryear{Willott et~al.,}{Willott
+  et~al.}{2010}]{Willott:2010bk}
+Willott C.~J.,  et~al., 2010, The Astronomical Journal, 139, 906
+
+\bibitem[\protect\citeauthoryear{Windhorst et~al.,}{Windhorst
+  et~al.}{2011}]{2011ApJS..193...27W}
+Windhorst R.~A.,  et~al., 2011, ApJS, 193, 27
+
+\bibitem[\protect\citeauthoryear{Wise \& Cen}{Wise \& Cen}{2009}]{Wise:2009fn}
+Wise J.~H.,  Cen R.,  2009, ApJ, 693, 984
+
+\bibitem[\protect\citeauthoryear{Wise, Demchenko, Halicek, Norman, Turk, Abel
+  \& Smith}{Wise et~al.}{2014}]{Wise:2014kt}
+Wise J.~H.,  Demchenko V.~G.,  Halicek M.~T.,  Norman M.~L.,  Turk M.~J.,  Abel
+  T.,   Smith B.~D.,  2014, MNRAS, 442, 2560
+
+\bibitem[\protect\citeauthoryear{Wuyts, van Dokkum, Franx, Schreiber,
+  Illingworth, Labb{\'e}  \& Rudnick}{Wuyts et~al.}{2009}]{Wuyts:2009gv}
+Wuyts S.,  van Dokkum P.~G.,  Franx M.,  Schreiber N. M.~F.,  Illingworth
+  G.~D.,  Labb{\'e} I.,   Rudnick G.,  2009, ApJ, 706, 885
+
+\bibitem[\protect\citeauthoryear{Yajima, Choi  \& Nagamine}{Yajima
+  et~al.}{2010}]{Yajima:2010fb}
+Yajima H.,  Choi J.-H.,   Nagamine K.,  2010, MNRAS, 412, 411
+
+\bibitem[\protect\citeauthoryear{Yan et~al.,}{Yan et~al.}{2012}]{Yan:2012ky}
+Yan H.,  et~al., 2012, ApJ, 761, 177
+
+\bibitem[\protect\citeauthoryear{Zackrisson, Inoue  \& Jensen}{Zackrisson
+  et~al.}{2013}]{Zackrisson:2013iz}
+Zackrisson E.,  Inoue A.~K.,   Jensen H.,  2013, ApJ, 777, 39
+
+\bibitem[\protect\citeauthoryear{Zafar \& Watson}{Zafar \&
+  Watson}{2013}]{Zafar:2013fe}
+Zafar T.,  Watson D.,  2013, A{\&}A, 560, A26
+
+\bibitem[\protect\citeauthoryear{Zastrow, Oey, Veilleux  \& McDonald}{Zastrow
+  et~al.}{2013}]{Zastrow:2013bg}
+Zastrow J.,  Oey M.~S.,  Veilleux S.,   McDonald M.,  2013, ApJ, 779, 76
+
+\bibitem[\protect\citeauthoryear{Zheng et~al.,}{Zheng
+  et~al.}{2012}]{Zheng:2012hu}
+Zheng W.,  et~al., 2012, Nature, 489, 406
+
+\bibitem[\protect\citeauthoryear{Zinnecker \& Yorke}{Zinnecker \&
+  Yorke}{2007}]{Zinnecker:2007hi}
+Zinnecker H.,  Yorke H.~W.,  2007, ANNU REV ASTRON ASTR, 45, 481
+
+\bibitem[\protect\citeauthoryear{de Barros, Schaerer  \& Stark}{de~Barros
+  et~al.}{2014}]{deBarros:2014fa}
+de Barros S.,  Schaerer D.,   Stark D.~P.,  2014, A{\&}A, 563, A81
+
+\bibitem[\protect\citeauthoryear{de
+  Vaucouleurs}{de~Vaucouleurs}{1959}]{deVaucouleurs:1959vq}
+de Vaucouleurs G.,  1959, Handbuch der Physik, 53, 275
+
+\bibitem[\protect\citeauthoryear{van Dokkum}{van
+  Dokkum}{2001}]{vanDokkum:2001go}
+van Dokkum P.~G.,  2001, PUBL ASTRON SOC PAC, 113, 1420
+
+\bibitem[\protect\citeauthoryear{van Dokkum \& Conroy}{van Dokkum \&
+  Conroy}{2010}]{vanDokkum:2010ha}
+van Dokkum P.~G.,  Conroy C.,  2010, Nature, 468, 940
+
+\bibitem[\protect\citeauthoryear{van Dokkum et~al.,}{van Dokkum
+  et~al.}{2003}]{vanDokkum:2003bl}
+van Dokkum P.~G.,  et~al., 2003, ApJ, 587, L83
+
+\bibitem[\protect\citeauthoryear{van~der Wel et~al.,}{van~der Wel
+  et~al.}{2011}]{vanderWel:2011ch}
+van~der Wel A.,  et~al., 2011, ApJ, 742, 111
+
+\makeatother
 \end{thebibliography}

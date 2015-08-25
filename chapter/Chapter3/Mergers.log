@@ -1,0 +1,598 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdftex 2011.7.3)  5 AUG 2015 15:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex
+(/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:1: Undefined control sequence.
+l.1 \chapter
+            {The merger history at $z \geq 2$}\label{ch:mergers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:1: Undefined control sequence.
+l.1 ...ter{The merger history at $z \geq 2$}\label
+                                                  {ch:mergers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:3: Undefined control sequence.
+l.3 \section
+            {Introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:4: Undefined control sequence.
+l.4 ...s over the last eleven billion years \citep
+                                                  {Bundy:2009jw,Bridge:2010f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:10: Undefined control sequence.
+l.10 ...earliest epochs of galaxy formation \citep
+                                                  {Hopkins:2006bq,Behroozi:2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:12: Undefined control sequence.
+l.12 ... galaxies that exist in close pairs \citep
+                                                  {Patton:2000kt}. This assu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:12: Undefined control sequence.
+l.12 ...jor mergers or have recently merged \citep
+                                                  {Conselice:2003jz}. These ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:12: Undefined control sequence.
+l.12 ...n measuring the galaxy merger rate  \citep
+                                                  {Kitzbichler:2008gi,Consel...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...er fraction increases significantly \citep
+                                                  {LopezSanjuan:2010cz,Bluck...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...0cz,Bluck:2012dh,Ownsworth:2014gt}. \citet
+                                                  {2009MNRAS.397..208C} pres...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ... the galaxy merger fraction at $1 \lesssim
+                                                   z \lesssim 2$ reported by...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ... merger fraction at $1 \lesssim z \lesssim
+                                                   2$ reported by \citeautho...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...ssim z \lesssim 2$ reported by \citeauthor
+                                                  {Conselice:2008de} (\citey...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...y \citeauthor{Conselice:2008de} (\citeyear
+                                                  {Conselice:2008de}; morpho...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...elice:2008de}; morphology) and \citeauthor
+                                                  {RyanJr:2008ka} (\citeyear...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ... and \citeauthor{RyanJr:2008ka} (\citeyear
+                                                  {RyanJr:2008ka}; close pai...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...pairs). However, as the analysis of \citet
+                                                  {2009MNRAS.397..208C} was ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:14: Undefined control sequence.
+l.14 ...ery small but deep Ultra Deep Field \citep
+                                                  {2006AJ....132.1729B}, the...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:16: Undefined control sequence.
+l.16 ...a z / (1+z) \approx 0.01$ to $0.04$ \citep
+                                                  {Molino:2014iz}. Moreover,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:16: Undefined control sequence.
+l.16 ...nes for systemic redshift estimates \citep
+                                                  {Stark:2014vc}. The requir...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:18: Undefined control sequence.
+l.18 ...ted two-point correlation functions \citep
+                                                  {Bell:2006ey}, correcting ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:18: Undefined control sequence.
+l.18 ...ng over random positions in the sky \citep
+                                                  {Kartaltepe:2007dv}, and i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:18: Undefined control sequence.
+l.18 ...umber of expected random companions \citep
+                                                  {LeFevre:2000iq,Bluck:2009...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+l.20 \citet
+           {LopezSanjuan:2014uj} present a new method for estimating reliabl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+l.20 ...F close pair technique presented in \citet
+                                                  {LopezSanjuan:2014uj} to t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+l.20 ...Sanjuan:2014uj} to the deep CANDELS \citep
+                                                  {2011ApJS..197...35G,Koeke...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+<recently read> \Mstar 
+                       
+l.20 ...imate the major merger rate of sub-$\Mstar
+                                                  ^{*}$ galaxies at $z \geq ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+l.20 ...y also benefits from the use of deep \emph
+                                                  {Spitzer} IRAC observation...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:20: Undefined control sequence.
+l.20 ...liably selecting galaxies at $z >5$ \citep
+                                                  {2011MNRAS.418.2074M} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:22: Undefined control sequence.
+l.22 ...sis at lower redshifts (Mundy et al. \emph
+                                                  {in prep.}), it will be po...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ...his chapter is as follows: In Section~\ref
+                                                  {merger-sec:data} we brief...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ...ata used in this analysis. In Section~\ref
+                                                  {merger-sec:method} we des...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ... probabilistic pair-count method of \citet
+                                                  {LopezSanjuan:2014uj} (\ci...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ...f \citet{LopezSanjuan:2014uj} (\citetalias
+                                                  {LopezSanjuan:2014uj} here...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ...orrections were estimated. In Section~\ref
+                                                  {merger-sec:results} we pr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ...studies in the literature. In Section~\ref
+                                                  {merger-sec:discussion}, w...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:24: Undefined control sequence.
+l.24 ... their implications. Finally, Section~\ref
+                                                  {merger-sec:summary} prese...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:25: Undefined control sequence.
+l.25 ...ted magnitudes are in the AB system \citep
+                                                  {1983ApJ...266..713O} and ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:27: Undefined control sequence.
+l.27 \section
+             {Data}\label{merger-sec:data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:27: Undefined control sequence.
+l.27 \section{Data}\label
+                         {merger-sec:data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:28: Undefined control sequence.
+l.28 ...its reduction can be found in Chapter~\ref
+                                                  {ch:smf} and \citet{Guo:20...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:28: Undefined control sequence.
+l.28 ...e found in Chapter~\ref{ch:smf} and \citet
+                                                  {Guo:2013ig} and reference...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:62: Undefined control sequence.
+l.62 \section
+             {Methodology}\label{merger-sec:method}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:62: Undefined control sequence.
+l.62 \section{Methodology}\label
+                                {merger-sec:method}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...merging. From numerical simulations \citep
+                                                  {Kitzbichler:2008gi}, it i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...ften defined by a projected separation, \(
+                                                  r_{\textup{p}} \), in the ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.63 ...en defined by a projected separation, \(r_
+                                                  {\textup{p}} \), in the pl...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...ed by a projected separation, \(r_{\textup
+                                                  {p}} \), in the plane of t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ... projected separation, \(r_{\textup{p}} \)
+                                                  , in the plane of the sky ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...xtup{p}} \), in the plane of the sky of \(
+                                                  r_{\textup{p}} < 20~\rm{to...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...), in the plane of the sky of \(r_{\textup
+                                                  {p}} < 20~\rm{to}~50~ h^{-...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...\(r_{\textup{p}} < 20~\rm{to}~50~ h^{-1}\)
+                                                   kpc and a separation in r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...ration in redshift or velocity space of \(
+                                                   \Delta v \leq 500 \textup...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...city space of \( \Delta v \leq 500 \textup
+                                                  { km s}^{-1}\).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:63: Undefined control sequence.
+l.63 ...\( \Delta v \leq 500 \textup{ km s}^{-1}\)
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.64 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:65: Undefined control sequence.
+l.65 ...corresponding merger fraction, $f_{\textup
+                                                  {m}}$, defined as
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:66: Undefined control sequence.
+l.66 \begin
+           {equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.67 	f_
+        {\textup{m}} = \frac{N_{\textup{pairs}}} {N_{\textup{T}}},
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:67: Undefined control sequence.
+l.67 	f_{\textup
+                {m}} = \frac{N_{\textup{pairs}}} {N_{\textup{T}}},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:67: Undefined control sequence.
+l.67 	f_{\textup{m}} = \frac
+                            {N_{\textup{pairs}}} {N_{\textup{T}}},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:67: Undefined control sequence.
+l.67 	f_{\textup{m}} = \frac{N_{\textup
+                                       {pairs}}} {N_{\textup{T}}},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:67: Undefined control sequence.
+l.67 ...}} = \frac{N_{\textup{pairs}}} {N_{\textup
+                                                  {T}}},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/ken/Documents/Astro/Thesis/ThesisGit/chapter/Chapter3/Mergers.tex:68: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \end 
+l.68 \end
+         {equation}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[2] )</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Mergers.pdf (2 pages, 77385 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
